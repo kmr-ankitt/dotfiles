@@ -127,3 +127,16 @@ git remote set-url --add main https://github.com/kmr-ankitt/dotfiles.git
 git status
 git remote add origin https://github.com/kmr-ankitt/dotfiles.git
 git fetch
+git add .
+git commit -m "First push"
+git push origin main
+git status
+git checkout main
+git push origin main
+git pull
+git pull origin main
+git push origin main
+ls
+echo "# dotfiles" >> README.md
+ls
+git add .
