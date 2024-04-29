@@ -1,0 +1,32 @@
+2024-04-29 01:14:06.800 [info] Log level: Info
+2024-04-29 01:14:06.801 [info] Validating found git in: "git"
+2024-04-29 01:14:06.802 [info] Using git "2.34.1" from "git"
+2024-04-29 01:14:06.802 [info] > git rev-parse --show-toplevel [21ms]
+2024-04-29 01:14:06.813 [info] > git rev-parse --show-toplevel [14ms]
+2024-04-29 01:14:06.835 [info] > git rev-parse --show-toplevel [3ms]
+2024-04-29 01:14:06.867 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2024-04-29 01:14:06.932 [info] Open repository: /home/ankit/.config/alacritty/catppuccin
+2024-04-29 01:14:06.989 [info] > git config --get commit.template [8ms]
+2024-04-29 01:14:07.037 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2024-04-29 01:14:07.059 [warning] ENOENT: no such file or directory, open '/home/ankit/.config/alacritty/catppuccin/.git/refs/remotes/origin/main'
+2024-04-29 01:14:07.064 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2024-04-29 01:14:07.092 [info] > git status -z -uall [8ms]
+2024-04-29 01:14:07.173 [info] > git merge-base refs/heads/main refs/remotes/origin/main [53ms]
+2024-04-29 01:14:07.200 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [5ms]
+2024-04-29 01:14:07.220 [info] > git config --get commit.template [48ms]
+2024-04-29 01:14:07.241 [info] > git diff --name-status -z --diff-filter=ADMR 94800165c13998b600a9da9d29c330de9f28618e...refs/remotes/origin/main [22ms]
+2024-04-29 01:14:07.247 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-04-29 01:14:07.263 [warning] ENOENT: no such file or directory, open '/home/ankit/.config/alacritty/catppuccin/.git/refs/remotes/origin/main'
+2024-04-29 01:14:07.271 [info] > git rev-parse refs/remotes/origin/main [8ms]
+2024-04-29 01:14:07.299 [info] > git status -z -uall [7ms]
+2024-04-29 01:14:09.050 [info] > git check-ignore -v -z --stdin [55ms]
+2024-04-29 01:14:11.967 [info] > git rev-parse --show-toplevel [8ms]
+2024-04-29 01:14:13.001 [info] > git rev-parse --show-toplevel [20ms]
+2024-04-29 01:14:13.881 [info] > git rev-parse --show-toplevel [14ms]
+2024-04-29 01:17:08.772 [warning] ENOENT: no such file or directory, open '/home/ankit/.config/alacritty/catppuccin/.git/HEAD'
+2024-04-29 01:17:08.791 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/ankit/.config/alacritty/catppuccin/.git/config'
+2024-04-29 01:17:08.810 [info] > git remote --verbose [18ms]
+2024-04-29 01:17:08.810 [info] > git symbolic-ref --short HEAD [38ms]
+2024-04-29 01:17:08.846 [info] > git config --get commit.template [38ms]
+2024-04-29 01:17:08.852 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+2024-04-29 01:17:08.853 [warning] No such branch: master.

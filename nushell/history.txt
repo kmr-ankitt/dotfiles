@@ -1,0 +1,129 @@
+starship init nu 
+starship init nu | save -f ~/.cache/starship/init.nu
+use ~/.cache/starship/init.nu
+ls
+zoxide
+l
+ls
+cd .config/
+ls
+zoxide
+nu
+ls
+code .zoxide.nu
+ls
+nu
+nu
+zoxide
+sudo apt remove zoxide
+npm install -g zoxide
+sudo apt install zoxide
+ls
+nu
+ls
+bat
+tmux
+ls
+cd
+sudo cd /usr/local/share/fonts
+ls
+cd
+ls
+cd /usr/local/share/fonts
+ls
+ls\
+cd Dev
+ls
+cd Dev
+cd Zealot
+source .bashrc
+zealot example/function.zlt
+source .bashrc
+source = .bashrc
+source = ".bashrc"
+bash
+source .bashrc
+ls
+make clean
+source .bashrc
+ls
+source .bashrc
+cd DE
+cd Dev/Zealot
+source .bashrc
+git pull
+ls
+source .bashrc
+nvim .bashrc
+source .bashrc
+zealot
+source .bashrc
+ls
+make
+make all
+nvim .bashrc
+source .bashrc
+make clean
+nvim .bashrc
+git pull
+ls
+source .bashrc
+nvim .bashrc
+source .bashrc
+git oull
+git pull
+ls
+make all
+make
+nvim Makefile
+make compile
+make run
+make run example/closures.zlt
+make clean
+ls
+.bashrc
+nu
+s
+l
+cd nushell/
+ls
+nvim config.nu
+cd
+zealot Dev/Zealot/example/closures.zlt
+nvim config.nu
+cd .config/
+cd nu
+cd nushell/
+nvim config.nu
+ls
+cd nushell/
+ls
+cd
+cd Dev
+cd Zealot/
+ls
+make clean
+source .bashrc
+zealot example/function.zlt
+nvim config.nu
+clear
+ls
+cd
+nu
+nu
+ls
+cd
+bat Dev/Cax/src/cax.c
+clera
+clear
+git init
+git add .
+ls
+git remote add https://github.com/kmr-ankitt/dotfiles.git
+git remote
+git remote set-url https://github.com/kmr-ankitt/dotfiles.git
+git remote set-url --add https://github.com/kmr-ankitt/dotfiles.git
+git remote set-url --add main https://github.com/kmr-ankitt/dotfiles.git
+git status
+git remote add origin https://github.com/kmr-ankitt/dotfiles.git
+git fetch

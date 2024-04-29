@@ -1,0 +1,12 @@
+2024/04/26-12:44:11.121 bdb Reusing MANIFEST /home/piscan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/26-12:44:11.121 bdb Recovering log #22
+2024/04/26-12:44:11.129 bdb Reusing old log /home/piscan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000022.log 
+2024/04/26-12:45:57.440 bcf Level-0 table #27: started
+2024/04/26-12:45:57.455 bcf Level-0 table #27: 1479441 bytes OK
+2024/04/26-12:45:57.457 bcf Delete type=0 #22
+2024/04/26-12:47:20.124 bcf Compacting 1@1 + 1@2 files
+2024/04/26-12:47:20.130 bcf Generated table #28@1: 524 keys, 45428 bytes
+2024/04/26-12:47:20.130 bcf Compacted 1@1 + 1@2 files => 45428 bytes
+2024/04/26-12:47:20.131 bcf compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/26-12:47:20.132 bcf Delete type=2 #27
+2024/04/26-12:47:20.132 bcf Delete type=2 #24

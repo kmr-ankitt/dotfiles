@@ -1,0 +1,22 @@
+2024-04-29 01:13:36.231 [info] Log level: Info
+2024-04-29 01:13:36.231 [info] Validating found git in: "git"
+2024-04-29 01:13:36.231 [info] Using git "2.34.1" from "git"
+2024-04-29 01:13:36.231 [info] > git rev-parse --show-toplevel [55ms]
+2024-04-29 01:13:36.234 [info] > git rev-parse --show-toplevel [6ms]
+2024-04-29 01:13:36.264 [info] > git rev-parse --show-toplevel [9ms]
+2024-04-29 01:13:36.291 [info] > git rev-parse --git-dir --git-common-dir [3ms]
+2024-04-29 01:13:36.357 [info] Open repository: /home/ankit/.config/alacritty/catppuccin
+2024-04-29 01:13:36.444 [info] > git config --get commit.template [31ms]
+2024-04-29 01:13:36.502 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [38ms]
+2024-04-29 01:13:36.535 [warning] ENOENT: no such file or directory, open '/home/ankit/.config/alacritty/catppuccin/.git/refs/remotes/origin/main'
+2024-04-29 01:13:36.544 [info] > git rev-parse refs/remotes/origin/main [9ms]
+2024-04-29 01:13:36.667 [info] > git status -z -uall [84ms]
+2024-04-29 01:13:36.755 [info] > git merge-base refs/heads/main refs/remotes/origin/main [50ms]
+2024-04-29 01:13:36.780 [info] > git config --get commit.template [25ms]
+2024-04-29 01:13:36.805 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [29ms]
+2024-04-29 01:13:36.827 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [25ms]
+2024-04-29 01:13:36.851 [warning] ENOENT: no such file or directory, open '/home/ankit/.config/alacritty/catppuccin/.git/refs/remotes/origin/main'
+2024-04-29 01:13:36.857 [info] > git rev-parse refs/remotes/origin/main [5ms]
+2024-04-29 01:13:36.888 [info] > git diff --name-status -z --diff-filter=ADMR 94800165c13998b600a9da9d29c330de9f28618e...refs/remotes/origin/main [63ms]
+2024-04-29 01:13:36.895 [info] > git status -z -uall [8ms]
+2024-04-29 01:13:37.340 [info] > git check-ignore -v -z --stdin [31ms]
