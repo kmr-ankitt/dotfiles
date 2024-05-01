@@ -145,3 +145,369 @@ git branch -M main<\n>git remote add origin https://github.com/kmr-ankitt/dotfil
 git branch -M main
 git push origin main
 ls
+git add bat/ alacritty/ BraveSoftware/ burn-my-windows/ myscripts/ nushell/ nvim/ tmux/ starship.toml .zoxide.nu 
+git commit - m "Backup"
+git commit -m "Backup"
+git push origin main
+bash
+ls
+code
+brave-browser 
+locate nu
+nu
+ls
+cd 
+gconftool --recursive-unset /apps/gnome-terminal
+ls
+cd Dev
+cd Zealot/
+ls
+make clena
+make clean
+cd ..
+ls
+cd alacritty/
+ls
+nvim alacritty.toml
+ls
+cd themes/
+ls
+cd themes/
+ls
+cd ..
+ls
+bat print_colors.sh
+cd themes/
+cdruvbox_dark.toml
+cd
+cd Downloads/
+git clone https://github.com/morhetz/gruvbox.git
+cd gruvbox/
+ls
+l
+./gruvbox_256palette.sh
+sudo ./gruvbox_256palette.sh
+./gruvbox_256palette_osx.sh
+clear
+clear
+nu
+nu
+cd ./.themes/
+ls
+cd
+cd D
+cd Downloads/
+ls
+mv gruvbox/ ../.themes/
+cd 
+cd .themes/
+ls
+cd Downloads/
+unzip Gruvbox-Dark-BL-LB.zip
+l
+mv Gruvbox-Dark-BL-LB/ ../.themes/
+cd
+cd .themes/
+ls
+rm -rf gruvbox/
+ls
+rm -rf gruvbox/
+sudo rm -rf gruvbox/
+ls
+cd ..
+cd .themes/
+ls
+cd ..
+cd .themes/
+ls
+c
+cd ..
+ls
+nvim
+cd .config/
+cd 
+cd  .config/
+cd nvim/
+ls
+nvim init.lua
+ls
+nvim init.lua
+clear
+clea
+clear
+ls
+clear
+nu
+cd .config/
+cd tmux/
+cd /bin/
+l
+nvim tmux.conf
+l
+cd
+ls
+tmux
+ls
+nu
+git add tmux/
+git commit -m "fixing tmux bugs"
+git push origin main
+cd Downloads/
+git clone https://github.com/Lxtharia/minegrub-theme.git
+cd ./minegrub-theme<\n>sudo cp -ruv ./minegrub /boot/grub/themes/
+GRUB_THEME=/boot/grub/themes/minegrub/theme.txt
+cd
+cd /etc/default/grub.d/
+ls
+bat init-select.cfg
+l
+nvim init-select.cfg
+ls
+cd //
+cd
+cd /etc/default/
+ls
+cd grub
+ls
+cd grub
+nvim grub
+sudo nvim grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+cd Downloads/
+ls
+cd WhiteSur-gtk-theme/
+ls
+bat install.sh
+./install.sh -i arch
+cd iee
+ls
+cd ..
+mv BJT_JFET.pdf iee/
+open .
+ls
+cd Brave-Browser/
+ls
+d
+cd
+cd Dev
+cd dotfiles/
+ls
+cd .config/
+ls
+neofetch
+fastfetch
+pfetch
+cd
+neofetch
+fastfetch
+pfetch
+sudo apt install neofetch 
+neofetch
+cd Downloads/
+ls
+rm -rf `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+remove `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+delete `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+help
+list
+help list
+help =h
+help -h
+help
+help  list
+help help
+help delete
+rm `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+rmdir `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+rm `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+list
+nu -help
+nu -h
+rm --trash `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+ls
+ls
+gpinh
+gping
+sudo apt remove gpinh
+sudo apt remove gping
+sudo apt install gpinh
+sudo apt install gping
+gpinh
+gping
+echo 'deb [signed-by=/usr/share/keyrings/azlux.gpg] https://packages.azlux.fr/debian/ bookworm main' | sudo tee /etc/apt/sources.list.d/azlux.list<\n>sudo apt install gpg<\n>curl -s https://azlux.fr/repo.gpg.key | gpg --dearmor | sudo tee /usr/share/keyrings/azlux.gpg > /dev/null<\n>sudo apt update<\n>sudo apt install gping
+gping www.google.com
+ls
+cd .config/
+ls
+gping www.google.com
+ls
+cd Dev/
+ls
+bat linked_list.asm
+cd .config/
+ls
+cd bat/
+ls
+bat config
+cd themes/
+l
+gping www.google.com
+cd ..
+ls
+nvim config
+ls
+bat cache --build
+bat list-themes
+bat --list-themes
+clear
+ls
+bat linked_list.asm
+nvim config
+bat linked_list.asm
+nvim config
+bat linked_list.asm
+ls
+cd De
+cd Dev
+ls
+cd De
+cd Dev
+cd cax
+cd Cax/
+l
+fastfetch
+make
+ls
+make run
+make
+.src/cax
+ls
+bat Makefile
+maek celan
+make celan
+make clean
+ls
+mkae
+maek 
+make
+ls
+./cax
+ls
+cd
+ls
+disk
+cd Zealot/
+vim example/closures.zlt
+nvim .bashrc
+vim zealot.bat
+la
+ls
+l
+javac
+gcc
+rustup
+lua
+cd Zealot/
+ls
+cd Dev
+ls
+cd Zealot/
+make repl
+ls
+diff <( command1 ) <( command2 )<\n><\n><\n>
+ls
+make clean
+cd 
+cd Dev
+diff <( command1 ) <( command2 )<\n><\n><\n>xd
+ls
+netstat
+netstart
+ls
+sl
+sl -la<\n>
+watch cmd
+code
+screen
+youtube-dl 
+ls
+# Update apt.<\n>sudo apt update<\n><\n># Install tools.<\n>sudo apt install \<\n>  bazel \<\n>  clang \<\n>  libc++-dev \<\n>  libc++abi-dev \<\n>  lld<\n><\n># Download Carbon's code.<\n>$ git clone https://github.com/carbon-language/carbon-lang<\n>$ cd carbon-lang
+# Update apt.<\n>sudo apt update<\n><\n># Install tools.<\n>sudo apt install \<\n>  bazel \<\n>  clang \<\n>  libc++-dev \<\n>  libc++abi-dev \<\n>  lld
+sudo apt install bazel
+bazel
+sudo apt install bazel-bootstrap
+sudo apt remove mpv
+storage
+diskspacce
+cd /usr/include/
+ls
+cd ..
+ls
+cd include/
+ls
+nvim termio.h
+ls
+nvim syscall.h
+ls
+nvim aliases.h
+ks
+clear
+ls
+list
+sudo apt list
+c 
+tm 
+ls
+gping web.whatsapp.com
+cd Dev
+cd
+cd Downloads/
+lsc
+cd iee
+ls
+open `IEE QB 2.pdf`
+sudo apt update grub
+git clone https://github.com/kmr-ankitt/Cax.git
+cd Cax
+ls
+cd src
+ls
+cd ..
+make 
+./cax
+ls
+rm -rf Cax
+del Cax/
+rm Cax/
+cd .config/
+ls
+cd nu
+cd nushell/
+ls
+rm 
+nvim config.nu
+ls
+nu
+trash
+ls
+mkdir rm -rf
+mkdir rm
+ls
+rm -rf rm
+ls
+cd .config/nushell/
+ls
+nvim config.nu
+ls
+cd
+ls
+mkdir rm
+rm rm
+ls
+mkdir lmao
+rm lmao
+ls
+dn
+cd .config/
+ls
