@@ -511,3 +511,19 @@ ls
 dn
 cd .config/
 ls
+git add nushell/
+git commmit -m "Fixing nushell"
+git cm -m "Fixing nushell"
+git commit -m "Fixing nushell"
+git push origin main
+git fetch
+git push origin main
+git pull
+git pull origin main
+l
+git push origin main
+git pull origin main
+git push
+git push origin main
+ls
+git status
