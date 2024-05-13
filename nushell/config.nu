@@ -788,7 +788,7 @@ alias f = ranger
 alias c = code .
 alias copy = xclip -selection clipboard
 alias dn = dotnet
-
+alias b = cd ..
 # zoxide
 source ~/.config/.zoxide.nu
 

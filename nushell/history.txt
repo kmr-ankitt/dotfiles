@@ -1404,3 +1404,34 @@ neofetch
 nvim config.nu
 cd ..
 ls
+git add nushell/
+ls
+git commit -m "adding shortcuts"
+git log
+git status
+ls
+git add 
+git add -help
+ls
+git
+git add -help
+git show
+git add go/
+git commit -m "go"
+git push origin main 
+git rm -r --cached BraveSoftware/
+git commit -m "removing brave"
+git push origin main 
+nvim README.md
+git add README.md
+git commit -m "Adding readme"
+git push origin main 
+ls
+cd
+b
+cd .config/
+cd nushell/
+ls
+nvim config.nu
+cd
+cd .config/
