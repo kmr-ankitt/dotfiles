@@ -527,3 +527,880 @@ git push
 git push origin main
 ls
 git status
+git add nushell/
+git commit -m "Fixing nushell"
+git push origin main
+git pull origin mian
+git pull origin main
+git config
+copy
+git pull --ff-only
+git pull --ff-only main
+git pull --ff-only 
+git pull --ff-only=origin main 
+git pull --ff-only origin main 
+git pull origin main --rebase<\n><\n>
+ls
+git pull origin main --rebase<\n><\n>
+git config --global pull.ff true<\n>
+git pull origin main 
+git push origin main
+ls
+git push
+git push origin main -f
+ls
+l
+ls
+source .bashrc
+cd
+cd .config/
+ls
+cd nushell/
+sl
+l
+bat config.nu
+cd
+cd Dev
+cd Zealot/
+source .bashrc
+nvim .bashrc
+cd De
+cd Dev/Zealot/
+source .bashrc
+ls
+source .bashrc
+ls
+git status
+git push
+ls
+make clean
+tmux
+tmuc
+tmux
+nvim .bashrc
+cd Downloads/
+ls
+mv IMG-20240303-WA0086.png ../Dev/Rust/ascii_art/
+ls
+cd Dev
+cd
+cd Dev
+cd Rust/
+cd ascii_art/
+ls
+open IMG-20240303-WA0086.png
+open cat.png
+nvim src/main.rs
+ls
+open .
+cd Dev/Rust/ascii_art/
+nvim src/main.rs
+cargo run
+l
+cl
+cd
+cd .config/nushell/
+nvim config.nu
+ls
+cl
+cd Dev/Rust/ascii_art/
+cargo run
+cl
+cd Dev
+l
+cd DS
+ls
+mkdir endsem
+cd endsem/
+nvim deletionInBST
+nvim deletionInBST.c
+ip
+nvim BST.c
+mv BST.c
+mv BST.c endsem/
+ls
+cd endsem/
+ls
+code BST.c
+open .
+cd .config/nushell/
+ls
+bat config.nu
+ls
+cd ..
+ls
+cd bat/
+l
+cd themes/
+ls
+cd ..
+ls
+bat config
+cd ..
+ls
+cd alacritty/
+ls
+nvim alacritty.toml
+ls
+tmux
+ls
+tmux
+ls
+tmux --v
+tmux -v
+tmux he,p
+tmux help
+ls
+os
+cd
+cd /boot/grub/themes/minegrub/backgrounds/
+ls
+cd ..
+ls
+cd ..
+ls
+cd Dev/Cax/
+nvim src/cax.c
+code src/cax.c
+exit
+cd Dev/Cax/
+make
+./cax
+cd Dev/Cax/
+make
+./cax
+make
+./cax
+make
+./cax
+make
+./cax
+make
+./cax
+cd Ca
+cd Cax/
+git add .
+git commit -m "Adding quit and clear functions and default screen"
+make clean
+ls
+git add .
+git commit -m "Adding quit and clear functions and default screen"
+git push origin main 
+rm -rf .vscode/
+git add .
+git commit -m "Removing .files"
+git push origin main 
+cd
+cd Dev
+git clone https://github.com/Overv/bf.git
+cargo run --release samples/mandelbrot.bf
+cd bf/
+cargo run --release samples/mandelbrot.bf
+cargo run --release samples/loop-without-beginning.bf
+cargo run --release samples/helloworld.bf
+cargo run --release samples/loop-without-end.bf
+ls
+cd
+cd Dev/bf
+ls
+cargo run --release samples/loop-without-end.bf
+cargo run --release samples/helloworld.bff
+cargo run --release samples/helloworld.bf
+cargo run samples/helloworld.bf
+ls
+bat Cargo.toml
+nvim Cargo.toml
+ls
+rm -rf .git/
+rm -rf ./.gitignore
+ls
+rm -rf ./LICENSE
+git add .
+git status
+git push
+git push origin main 
+cd ..
+rm -rf bf/
+git clone https://github.com/MustafaSalih1993/tai.git
+cd tai<\n>cargo install --path .
+cargo run
+cargo run ../Rust/ascii_art/alka.png
+cargo run ../Rust/ascii_art/cat.png
+cd ..
+rm -rf tai/
+ls
+rm -rf tmux-client-22209.log
+ls
+nu
+cd Dev/kilo-src/
+make clean
+ls
+nvim Makefile
+ls
+cd example/
+ls
+cd ..
+ls
+cd WebDev/
+code Piscan-portfolio/
+info
+indo
+info 
+linus
+what is this
+lmao
+we are god
+god
+cat
+bat
+cd Dev/kilo-src/
+./kilo
+ls
+cd.
+cd..
+cd ..
+sudo apt list upgradeable
+sudo apt list --upgradeable
+ls
+sudo apt list upgradeable
+sudo apt update
+cd Dev/wifi-bf/
+ls
+bat src/__main__.py
+bat src/ssid.py
+bat src/__pycache__/ssid.cpython-310.pyc
+ls
+bat README.md
+python3 src/__main__.py --verbose
+sudo python3 src/__main__.py --verbose
+<\n>wifi-bf
+zealot
+sudo python3 src/__main__.py --verbose
+cd Dev/wifi-bf/
+sudo python3 src/__main__.py --verbose
+bat README.md
+sudo python3 src/__main__.py --h
+sudo python3 src/__main__.py -f
+sudo python3 src/__main__.py --f
+sudo python3 src/__main__.py -u
+sudo python3 src/__main__.py -url
+gping web.whatsapp.com
+sudo python3 src/__main__.py -url
+sudo python3 src/__main__.py -u
+sudo python3 src/__main__.py --url
+sudo python3 src/__main__.py -f
+python3 src/__main__.py -f
+sudo python3 src/__main__.py -f
+sudo python3 src/__main__.py -h
+sudo python3 src/__main__.py -v
+neofetch
+fastfetch
+wayland
+ls
+lsusb
+adb
+cl
+cd "/home/ankit/Dev/DS/endsem/" && g++ graph.cpp -o graph && "/home/ankit/Dev/DS/endsem/"graph
+./graph
+cl
+cl-launcher
+sudo nano /etc/gdm3/custom.conf
+master*​<\n>❯ sudo nano /etc/gdm3/custom.conf<\n>
+master*​<\n>❯ sudo nano /etc/gdm3/custom.conf
+sudo nano /etc/gdm3/custom.conf
+cl
+exit
+neofetch
+cd /boot/grub/themes/minegrub/
+ls
+python3 src/__main__.py -verbose
+sudo python3 __main__.py -verbose
+sudo python3 __main__.py -v
+bat update_theme.py
+ls
+cd Zealot/
+ls
+cd com/piscan/zealot/
+ls
+bat Parser.java
+ls
+cd
+cd Dev
+ls
+cd
+cd Dev
+ls
+rm -rf dotfiles/
+ls
+cd grub2-themes/
+ls
+open preview.png
+ls
+open .
+ls
+cd hitAndTry/
+l
+cd Zealot/
+ls
+cd ..
+rm -rf Zealot/
+ls
+cd ..
+ls
+cd kilo-src/
+las
+cd ..
+ls
+rm -rf sort
+ll
+ls
+rm -rf SelectionSort.cpp
+ls
+cd Jaca
+cd Java
+;s
+k
+l
+cd ..
+ls
+cd Rust/
+ls
+cd ascii_art/
+ls
+cargo run 
+ls
+cd Dev
+ls
+nv bf.java
+javac bf.java -o bf
+javac bf.java
+./BrainFuck.class
+javac bf.java
+java BrainFuck.class
+java ./BrainFuck.class
+java BrainFuck.class
+javac bf.java
+./BrainFuck.class
+java BrainFuck.class
+rm -rf BrainFuck.class
+ls
+r bf.java
+rm bf.java
+ls
+cd hitAndTry/
+nvim bf.java
+l
+java bf.java
+r bf.java
+rm bf.java
+l
+cd hitAndTry/
+;s
+ls
+nvim QuestionSet.js
+vimrc
+cd
+cd .config/nvim/
+ls
+nvim ./init.lua
+ls
+cd
+lua
+sudo apt cli
+ls
+homebrew
+which
+which neovim
+which sh
+bat /usr/bin/sh
+cat /usr/bin/sh
+tmuc
+tmux
+tmux -help
+sh
+tmux
+bat
+cd Dev
+bat l
+bat linked_list.asm
+cd hitAndTry/
+bat Json-script.py
+ls
+tmux -help
+tmux -h
+tmux --h
+cd Downloads/Apps/go1.22.3.linux-amd64/
+cd go
+cd ..
+cd Go
+cd go
+ls
+bat README.md
+ls
+./codereview.cfg
+bat codereview.cfg
+wget
+cd ..
+ls
+sudo tar -C /usr/local -xzf gold go1.22.3.linux-amd64.tar.gz
+sha256sum go1.22.3.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.22.3.linux-amd64.tar.gz
+sudo chown -R root:root /usr/local/go
+nano ~/.profile
+. ~/.profile
+sudo . ~/.profile
+. ~/.profile
+1
+. ~/.profile
+go
+go version
+prin
+go
+nvim 
+cd .config/nvim/
+ls
+cd lua
+ls
+cd plugins/
+ls
+cd ..
+nvim lazy-lock.json
+nv
+ls
+lua
+ls
+cd ..
+ls
+nyacat
+nyancat
+ls
+git status
+git
+git last
+git commit 
+git history
+git list
+git -h
+git --help
+git log
+nvim src/cax.c
+cd Dev/Cax/
+make
+./cax
+;s
+cd Downloads/
+ls
+mv lspconfig.lua ../.config/nvim/lua/plugins/
+cd
+cd .config/nvim/lua/
+ls
+cd plugins/
+ls
+nvim null-ls.lua
+nvim
+ls
+cd ...
+cd ..
+cd .config/
+ls
+git log
+git
+git pull
+git fetch
+git pull origin main
+cd nvim
+ls
+cd lua
+ls
+cd plugins/
+ls
+rm -rf lspconfig.lua
+rm null-ls.lua
+ls
+cd ..
+ls
+nvim chadrc.lua
+ls
+nvim
+cd Dev
+ls
+cd GO
+cd G
+cd Go/
+LS
+l
+clear
+go mod init example/hello
+ls
+nvim hello.go
+l
+mkdir greetings
+cd greetings/
+ls
+go mod initi example.com/greetings
+go mod init example.com/greetings
+l
+bat go.mod
+cl
+go run greetings.go
+ls
+go run .
+ls
+go run .
+go mod init example.com/hello
+cl
+nvim greetings.go
+cd ..
+nvim 
+nvim -O greetings/greetings.go hello/hello.go
+cd hello/
+clear
+go run .
+ls
+go test
+cd ../greetings/
+go test
+cd ../greetings/
+go test
+go test -v
+go test
+go test -v
+cd ../hello/
+go build
+ls
+./hello
+go list -f '{{.Target}}'
+export PATH=$PATH: /home/ankit/go/bin/
+export PATH=$PATH: /home/ankit/go/bin
+export PATH=$PATH:/home/ankit/go/bin
+export PATH=$PATH:/home/ankit/go/bin/hello
+go env -w GOBIN=go/bin
+ls
+go install
+go env -w GOBIN=/home/ankit/go/bin
+go install
+hello
+go list -f '{{.Target}}'
+nvim hello.go
+cd Dev/Go/hello/
+ls
+go run .
+ls
+cd ..
+ls
+cd hello/
+ls
+go 
+go c
+ls
+cd go
+ls
+cd
+cl
+cd Dev/Go/
+ls
+rm go.sum
+ls
+rm -rf go.mod
+rm -rf external.go
+ls
+mkdir fibo
+cd fibo
+ls
+go mod init example.com/fibo
+nvim fibo.go
+code .
+ls
+cl
+cd DO
+cd Go/
+cd Dev/Go/
+ls
+mkdir LinkedList
+cd LinkedList/
+ls
+go mod init example.com/linkedlist
+ls
+cd ..
+rename
+rename LinkedList/ linkedlist
+ls
+open .
+ls
+cd linkedlist/
+ls
+go mod init example.com/linkedlist
+ls
+nvim linkedlist.go
+cl
+go run .
+ls
+go build
+ls
+./linkedlist
+hello
+cd
+cd go
+ls
+cd bin
+ls
+rm -rf hello
+ls
+hello
+cd
+cd ..
+cd Zealot/
+cd ..
+ls
+nvim fibo.zlt
+ls
+cd GO
+cd Go
+ls
+cd greetings/
+ls
+cd ..
+ls
+go mod init https://github.com/kmr-ankitt/Brainfuck-in-Go-.git
+rm go.mod
+go mod init https://github.com/kmr-ankitt/Brainfuck-in-Go-.git
+ls
+go mod init www.github.com/kmr-ankitt/Brainfuck-in-Go-.git
+;s
+go mod tidy
+go mod init www.github.com/kmr-ankitt/Brainfuck-in-Go-.git
+ls
+bat go.mod
+ls
+git add .
+git commit -m "adding modules"
+git push origin main 
+cd Dev/
+ls
+cd bfg
+ls
+go mod init www.github.com/kmr-ankitt/Brainfuck-in-Go.git
+go mod tidy
+ls
+go mod init www.github.com/kmr-ankitt/Brainfuck-in-Go.git
+rm go.mod
+go mod tidy
+go mod init www.github.com/kmr-ankitt/Brainfuck-in-Go.git
+go mod tidy
+go mod init www.github.com/kmr-ankitt/Brainfuck-in-Go.git
+ls
+bat go.mod
+git add .
+git commit 
+git commit -m "deploy"
+git push origin main 
+cd Dev/bfg/
+ls
+cd src
+ls
+go run .
+ks
+ls
+go run .
+ls
+mkdir examples
+rm examples/
+cd ..
+mkdir examples
+go run . ../examples/helloworld.bf
+nvim bfg.go
+ls
+nvim
+;
+l
+cd ..
+ls
+cd src
+cd ..
+go mod tidy
+ls
+bat go.mod
+cd src/
+ls
+;s
+l
+ls
+cd ..
+ls
+cd ..
+ls
+git clone https://github.com/MihajloNesic/gobrainfuck.git
+cd gobrainfuck/
+ls
+go run .
+go mod init
+go mod init example.com/bff
+go mod ti
+go mod tidy
+go mod ti
+ls
+go run .
+go run . programs/helloworld.bf
+cd ..
+cd bfg/
+ls
+nvim src/bfg.go
+ls
+cd gobrainfuck/
+ls
+nvim main.go
+nvim src/bfg.go
+cd
+cd Dev/gobrainfuck/
+nvim main.go
+cd 
+cd Dev/gobrainfuck/
+cd
+cd Dev/bfg/
+ls
+cd src/
+l
+go run src/bfg.go
+go run src/bfg.go examples/helloworld.bf
+git status
+git pull 
+nvim bfg.go
+nvim 
+ls
+cd //
+cd
+cd Dev/bfg/
+ls
+bat README.md
+git pull origin main
+bat README.md
+ls
+nvim README.md
+ls
+nvim go.mod
+git add .
+git commit -m "fixing bugs"
+git push origin main 
+nvim README.md
+;s
+nvim go.mod
+ls
+git add .
+git commit -m "Renaming"
+git push origin main 
+ls
+cd gobrainfuck/
+l
+cd programs/
+ls
+bat a1.bf
+ls
+cd ..
+go run . programs/a1.bf
+go run . programs/squares.bf
+cd programs/
+cp squares.bf ../../bfg/examples/
+cd ..
+ls
+cd bgf
+bfg
+cd bfg
+ls
+go run . examples/squares.bf
+go run src/bfg.go examples/squares.bf
+ls
+bat examples/squares.bf
+ls
+cd ..
+cd gobrainfuck/
+ls
+cd programs/
+l
+cd ..
+go run . programs/sierpinski.bf
+cp programs/sierpinski.bf ../bfg/examples/
+ls
+cd
+cd Dev/bfg/
+;s
+l
+go run src/bfg.go examples/pattern.bf
+nvim README.md
+go run src/bfg.go examples/squares.bf
+git add .
+nvim README.md
+git add .
+git commit -m "Adding examples"
+git push origin main 
+cd
+cd ev
+cd Dev
+ls
+cd WebDev/
+ls
+cd Piscan-portfolio/
+ls
+nvim index.html
+code .
+git add .
+git commit -m "Adding bfg and text editor"
+git push origin main 
+er
+df
+bat
+cat
+touch
+touch --h
+touch --help
+touch a.zlt
+ls
+rm -rf a.zlt
+ls
+l
+cd .git/
+ls
+cd logs
+ls
+cd ..
+git logs
+git log
+rm .git/
+ls
+cd bfg/
+ls
+nvim examples/fibonacci.bf
+go run src/bfg.go examples/fibonacci.bf
+nvim examples/fibonacci.bf
+ls
+cd examples/
+ls
+:w
+exit
+ls
+z w
+z
+ls
+z
+ls
+cd
+cd .config/
+ls
+cd alacritty/
+l
+bat alacritty.toml
+ls
+cd themes/
+ls
+cd ..
+ls
+c nushell/
+ls
+s
+n
+cd nushell/
+ls
+fastfetch
+neofetch
+nvim config.nu
+cd ..
+ls

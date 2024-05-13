@@ -772,7 +772,7 @@ alias e = xdg-open
 alias python = python3.12
 alias zp = cd ~/Projects/
 alias zs = cd ~/Documents/Studies/
-alias zd = cd ~/Desktop/
+alias zd = cd ~/Dev/
 alias speedtest = speedtest-rs
 alias zl = zellij --config ~/.config/zellij/config.kdl
 alias lg = lazygit
@@ -793,5 +793,5 @@ alias dn = dotnet
 source ~/.config/.zoxide.nu
 
 # neofetch stuff;
-alias neofetch = echo "Use fastfetch or pfetch instead."
+# alias neofetch = echo "Use fastfetch or pfetch instead."
 
