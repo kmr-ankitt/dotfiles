@@ -1,6 +1,0 @@
-2024/04/29-14:03:15.947 64c6 Reusing MANIFEST /home/ankit/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/04/29-14:03:15.949 64c6 Recovering log #165
-2024/04/29-14:03:15.952 64c6 Reusing old log /home/ankit/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000165.log 
-2024/04/29-14:08:42.360 64c3 Level-0 table #170: started
-2024/04/29-14:08:42.372 64c3 Level-0 table #170: 73846 bytes OK
-2024/04/29-14:08:42.374 64c3 Delete type=0 #165

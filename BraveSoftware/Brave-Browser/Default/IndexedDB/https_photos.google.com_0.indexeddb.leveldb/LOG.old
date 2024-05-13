@@ -1,7 +1,0 @@
-2024/04/24-10:01:44.801 d04 Reusing MANIFEST /home/piscan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/04/24-10:01:44.801 d04 Recovering log #3
-2024/04/24-10:01:44.802 d04 Reusing old log /home/piscan/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_photos.google.com_0.indexeddb.leveldb/000003.log 
-2024/04/24-10:02:16.811 d04 Level-0 table #5: started
-2024/04/24-10:02:16.813 d04 Level-0 table #5: 6602 bytes OK
-2024/04/24-10:02:16.816 d04 Delete type=0 #3
-2024/04/24-10:02:16.816 d04 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
