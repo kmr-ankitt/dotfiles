@@ -1435,3 +1435,603 @@ ls
 nvim config.nu
 cd
 cd .config/
+cd 
+q
+cd .config/
+ls
+nvim starship.toml
+nvim .zoxide.nu
+lx
+ls
+zoxide
+q
+exit
+cd
+cd .cache/starship/
+ls
+starship
+cd ..
+cd 
+cd .config/
+ls
+nvim starship.toml
+exit
+ls
+cd share/
+ls
+cd man/
+ls
+cd man1/
+ls
+cd ..
+ls
+cd man/
+ls
+cd ..
+sudo rm -rf man 
+cd
+nvim .bashrc
+locate
+ls
+la
+ls
+alacritty 
+ls
+cd alacritty/
+ls
+cd themes/
+ls
+cd themes/
+l
+cd ..
+ls
+cd ..
+open .
+git clone https://github.com/kmr-ankitt/dotfiles.git
+cd ..
+git clone https://github.com/kmr-ankitt/dotfiles.git
+rm dotfiles/
+git clone https://github.com/kmr-ankitt/dotfiles.git
+cd dotfiles/
+ls
+l
+go
+cd Downloads/
+ls
+dpkg go1.22.3.linux-amd64.tar.gz
+dpkg apt  go1.22.3.linux-amd64.tar.gz
+open .
+cd Downloads/
+ls
+cd go1.22.3.linux-amd64/
+ls
+export PATH=$PATH:/usr/local/go/bin
+sha256sum go1.22.3.linux-amd64.tar.gz
+rm go1.22.3.linux-amd64/
+ls
+sudo tar -C /usr/local -xzf go1.22.3.linux-amd64.tar.gz
+sudo chown -R root:root /usr/local/go
+mkdir -p $HOME/go/{bin,src}
+l
+sudo update-alternatives --config x-terminal-emulator
+ls
+cd Downloads/
+ls
+cd mojMasti/dotfiles/
+ls
+cd .config/
+ls
+cp 
+cp zellij/ ../
+cp zellij/ ../ --recursive 
+ls
+cd
+cd Dev
+ls
+cd mojMasti/dotfiles/
+cd .config/
+ls
+open .
+open .
+cargo install --locked zellij
+zellij 
+fdsjflkjdasfjdjlksfdjasfdjfsf
+zellij 
+rm zellij/
+ls
+nvim alacritty.toml
+nvim alacritty.yml
+cd ..
+cd myscripts/
+ls
+nvim tmux_with_alacritty.sh
+cd startup_scripts/
+ls
+nvim set_performance_mode_by_default
+ls
+cd ..
+ls
+cd ..
+ls
+cd nushell/
+ls
+nvim env.nu
+nvim config.nu
+ls
+zd
+ls
+cd Zealot/
+cd ..
+cd dotfiles/
+ls
+cd ..
+cd .config/
+ls
+cd
+cd .config/
+ls
+cp myscripts/ ../Dev/ --recusive
+cp myscripts/ ../Dev/ --r
+cp myscripts/ ../Dev/
+cp myscripts/ ../Dev/ --recursive
+cd
+cd Dev
+ls
+mv myscripts/ dotfiles/
+open .
+zd
+ls
+cd bfg
+ls
+git pull
+git status
+git push origin main 
+cd
+cd /media/ankit/e1789827-1a3d-4ccd-b22b-64e83b0948c0/home/
+ls
+cd ankit/
+ls
+cd ./.ssh/
+ls
+nvim known_hosts
+cd
+cd Dev
+ls
+git config --global credential.helper store<\n>
+git pull
+cd dotfiles/
+git pull
+git config --global credential.helper store<\n>
+git push origin main
+git remote add origin https://github.com/kmr-ankitt/dotfiles.git
+git config -global user.name “kmr-ankitt”
+git version
+git config -global user.name “kmr-ankitt”
+git config
+git config --global user.name “kmr-ankitt”
+git config –-global user.email "sahuankit.murhu@gmail.com"
+git config –global user.email "sahuankit.murhu@gmail.com"
+git config -–global user.email "sahuankit.murhu@gmail.com"
+git config –global user.email "sahuankit.murhu@gmail.com"
+git config
+git config -–global user.email "sahuankit.murhu@gmail.com"
+git config -–global 
+cd /usr/bin/
+ls
+nvim gh
+find
+find gh
+bat ghostscript
+gh
+zd 
+cd dotfiles/
+ls
+git push origin main
+(type -p wget >/dev/null || (sudo apt update && sudo apt-get install wget -y)) \<\n>&& sudo mkdir -p -m 755 /etc/apt/keyrings \<\n>&& wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg > /dev/null \<\n>&& sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \<\n>&& echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null \<\n>&& sudo apt update \<\n>&& sudo apt install gh -y
+zd
+cd dotfiles/
+git push origin main
+gh
+zd
+cd dotfiles/
+git push origin main
+ssh-keygen<\n>cat ~/.ssh/id_rsa.pub
+cd
+ssh-keygen<\n>cat ~/.ssh/id_rsa.pub
+ls
+cd Dev
+ls
+cd dotfiles/
+ls
+gh
+ls
+bat README.rst
+./configure
+bat README.rst
+make
+zd
+cd Cax/
+ls
+git log
+make test
+nvim src/cax.c
+cd
+.config/nvim/
+ls
+cd lua/
+ls
+cd configs/
+ls
+cd ..
+ls
+cd ..
+ls
+cd lua 
+ls
+cd plugins/
+ls
+nvim init.lua
+cd
+z
+zd
+cd Cax/
+ls
+nvim src/cax.c
+code src/cax.c
+make
+clear
+make
+cl
+make
+nvim src/cax.c
+./cax
+nvim src/cax.c
+make
+nvim src/cax.c
+make
+./cax
+nvim src/cax.c
+./cax
+cl
+make
+nvim src/cax.c
+./ca
+./cax
+nvim src/cax.c
+make
+nvim src/cax.c
+make
+./ca
+./cax
+cd ..
+cd kilo-src/
+./kilo
+cd ..
+cd Cax
+ls
+make clean
+nvim src/cax.c
+make
+make clean
+git add .
+dit log
+git log
+git commit -m "Adding home, end and delete keys"
+git push origin main
+ls
+zd
+cd Go/
+ls
+cd linkedlist/
+go run .
+cd
+zd
+cd .
+ls
+ls -a
+l
+cd Rust/
+l
+cd ascii_art/
+ls
+cd ..
+cl
+cd
+cd .config/
+ls
+zd 
+ls
+mkdir Myshell
+cd Myshell/
+ks
+ls
+cl
+mkdir src
+go mod init github.com/kmr-ankitt/Myshell
+go mod tidy
+ls
+cd src
+ls
+nv main.go
+cd ..
+ls
+git remote add origin https://github.com/kmr-ankitt/Myshell.git
+git push origin main
+go run .
+go run src/main.go
+git add .
+git commit -m "ls command execution"
+git push origin main
+go run .
+go run src/main.go
+cl
+go run src/main.go
+ls -l
+l
+ls -l
+go run src/main.go
+cl
+go run src/main.go
+ls
+git add .
+git commit -m "Adding cd and exit functionsality"
+git push origin main
+ls
+c
+cl
+go run src/main.go
+go get github.com/fatih/color<\n>
+go get github.com/fatih/color
+ls
+go run src/main.go
+exit
+go run src/main.go
+go get github.com/fatih/color
+go run src/main.go
+$GOPATH
+$env.GOPATH
+cd
+cd go/
+ls
+cd src/
+ls
+l -a
+go get github.com/fatih/color<\n>
+go install github.com/fatih/color<\n>
+go install github.com/fatih/color@latest<\n>
+cd 
+zd
+cd Myshell/
+go install github.com/fatih/color@latest<\n>
+cd src/
+go install github.com/fatih/color@latest<\n>
+go get -d github.com/fatih/color@latest<\n>
+go install github.com/fatih/color@latest<\n>
+go run src/main.go
+cd .
+cd ..
+go run src/main.go
+$GOPATH
+sl
+ls
+ls src/
+go mod tidy
+l
+cd ..
+ls
+cd Myshell/
+ls
+go run src/main.go
+cd
+cd go
+ls
+cd src/
+ls
+cd 
+cd /usr/local/go/
+ls
+cd pkg/
+ls
+cd tool/
+ls
+cd ..
+ls
+cd ..
+ls
+bat go.env
+ls
+cd pkg
+ls
+cd ..
+cd
+zd
+cd Myshell/
+ls
+go run src/main.go
+git add .
+git commit -m "Mixing some colours"
+git push origin main
+nvim 
+go run src/main.go
+go get github.com/mattn/go-shellwords<\n>
+go run src/main.go
+git pull
+git pull origin main
+nvim src/main.go
+ls
+git pull origin main
+bat go.mod
+ls
+git log
+qls
+ls
+git pull origin main -f
+ls
+bat go.mod
+nvim go.mod
+ls
+nvim go.sum
+ls
+cd src/
+ls
+go get github.com/chzyer/readline
+go run .
+ls
+cd mojMasti/
+ls
+cd dotfiles/
+ls
+cd .config/
+ls
+cd bat/
+ls
+nvim config
+ls
+nvim config
+cd themes/
+ls
+bat 
+cd ..
+bat config
+go run .
+b
+git add .
+git pull origin main -f
+ls
+nvim main.go
+cd ..
+ls
+nvim go.sum
+go run src/main.go
+ls
+nvim go.sum
+cd ..
+ls
+cd mojMasti/
+cd ..
+cd Myshell/
+ls
+go run src/main.go
+nvim src/main.go
+ls
+nu
+cd
+cd Dev
+ls
+zd
+ls
+cd Myshell/
+ls
+go build src/main.go
+./main
+nvim README.md
+git add .
+git commit -m "Updating readme"
+git push origin main
+zd
+cd mojMasti/
+ls
+rm Myshell/
+ls
+cd ..
+ls
+rm -rf mojMasti/
+ls
+cd myscripts/
+ls
+cd ..
+rm myscripts/
+ls
+zd
+ls
+cd Myshell/
+ls
+go run src/main.go
+cd Dev
+cd Myshell/
+go clean
+ls
+rm main
+ls
+git add .
+git commit -m "Removing compiled files"
+git push origin main
+cd Myshell/
+ls
+cd Rust/
+ls
+cd DEv
+zd
+cd Rust/
+ls
+cd ascii_art/
+ls
+rm alka.png
+ls
+cd src/
+ls
+nvim main.rs
+cd ..
+cargo run
+clear
+cd
+nvim src/main.go
+cd ..
+cd Rust/ascii_art/
+ls
+cargo run
+cd ..
+b
+ls
+cd Myshell/
+ls
+go run src/main.go
+ls
+nvim src/main.go
+zd
+cd Myshell/
+git pull origin main
+cd Myshell/
+ls
+nvim README.md
+git add .
+git commit -m "prequisites"
+git push origin main
+zd
+ls
+cd WebDev/
+ls
+l
+cd Bootcamp/
+ls
+cd image/
+ls
+cd ..
+ls
+cd ..
+sl
+ls
+cd Fresh
+ls
+cd Dump/
+ls
+cd ..
+ls
+open .
+zd
+cd
+cd .config/
+cd nushell/
+ls
+nvim config.nu
+l
+b
+ls
+cd 
+cd Dev
+ls
+cd dotfiles/
+ls
+mv .git/ ../../.config/
+cd
+cd .config/
