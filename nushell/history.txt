@@ -2228,3 +2228,28 @@ cd .config/
 ls
 l
 git status
+git add nushell/ pop-shell/ 
+git push origin main
+git commit -m "Nushell new shortcut and popshell"
+git-credential-manager-core configure<\n>
+ls
+cd Dev
+ls
+git clone https://github.com/kmr-ankitt/Piscan-portfolio.git
+cd Piscan-portfolio/
+ls
+nvim README.md
+git add .
+git commit -m "Updating README"
+git push origin main
+cd
+sudo apt remove git-credential-manager 
+sudo apt install plocate
+sudo apt autoclean
+zp
+cd
+zp
+zl
+nvim .config/nushell/config.nu
+cd
+cd .config/
