@@ -2035,3 +2035,196 @@ ls
 mv .git/ ../../.config/
 cd
 cd .config/
+cd
+ls
+cd Dev
+web
+zd
+ls
+cd
+cd Documents/
+ls
+cd
+zd
+ls
+cd dotfiles/
+ls
+bat starship.toml
+ls
+bat tmux_with_alacritty.sh
+bat
+sudo apt install bat
+ls
+open .
+cd
+nu
+ls
+cd 
+cd .config/
+cd myscripts/
+ls
+cd startup_scripts/
+ls
+bat set_performance_mode_by_default
+ls
+cd
+cd .config/
+ls
+cd myscripts/
+ls
+bat tmux_with_alacritty.sh
+ls
+zd
+cd dotfiles/
+ls
+bat .zoxide.nu
+rm .zoxide.nu
+mv .zoxide.nu ../../.config/
+git pull
+ls
+cd .config/
+ls
+cd alacritty/
+ls
+nvim alacritty.toml
+bat alacritty.yml
+bat alacritty.to
+nvim alacritty.yml
+bat alacritty.to
+bat alacritty.toml
+cd .config/alacritty/
+ls
+bat alacritty.toml
+cd
+toucheg
+bat alacritty.toml
+cd
+cd Downloads/
+ls
+cd dotfiles/
+;ls
+ls
+cd ./.git/
+ls
+cd. .
+cd ..
+ls
+cd ./.config/
+ls
+cd
+sudo add-apt-repository ppa:touchegg/stable<\n>
+ls
+flatpak install flathub com.github.joseexposito.touche
+sudo apt install gnome-session
+ls
+zd
+ls
+git clone https://github.com/kmr-ankitt/bfg.git
+git config --global credential.helper store<\n>
+git pull
+ls
+git clone https://github.com/kmr-ankitt/Brainfuck-go/<\n>cd Brainfuck-go
+git config --global credential.helper store<\n>
+git pull
+git push
+ls
+cd
+nvim .git-credentials
+zd
+ls
+cd
+ls
+rm Brainfuck-go/
+ls
+cd Dev
+ls
+git clone https://github.com/kmr-ankitt/Brainfuck-go/<\n>cd Brainfuck-go
+ls
+cd ..
+ls
+cd Brainfuck-go/
+ls
+go
+udo wget https://golang.org/dl/go1.16.5.linux-amd64.tar.gz
+sudo wget https://golang.org/dl/go1.16.5.linux-amd64.tar.gz
+go run src/main.go
+go
+sha256sum go1.16.5.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.16.5.linux-amd64.tar.gz
+sudo chown -R root:root /usr/local/go
+mkdir -p $HOME/go/{bin,src}
+ls
+rm go1.16.5.linux-amd64.tar.gz
+ks
+l
+cd .git
+ls
+xcd
+cd
+ls
+zd
+ls
+zd
+ls
+git clone https://github.com/kmr-ankitt/Zealot.git
+ls
+git clone https://github.com/kmr-ankitt/Cax.git
+ls
+cd dotfiles/
+ls
+bat mimeapps.list
+ls
+rm 
+ls
+cd ..
+ls
+cd
+ls
+nivm
+nvim
+cd Downloads/
+git clone https://github.com/vinceliuice/WhiteSur-icon-theme.git
+cd WhiteSur-icon-theme/
+ls
+./install.sh
+cd Downloads/
+ls
+git clone https://github.com/Itz-Abhishek-Tiwari/pop-os-dock-application-color-changer.git
+cd pop-os-dock-application-color-changer/
+./install.sh
+sudo apt install code
+code
+sudo apt update code
+sudo apt update
+sudo apt upgrade
+zd
+git clone https://github.com/flancast90/wifi-bf.git
+cd wifi-bf/
+ls
+python3 src/__main__.py -verbose
+sudo python3 src/__main__.py -verbose
+sudo python3 src/__main__.py -
+sudo python3 src/__main__.py -v
+ls
+rm misha.html
+zd
+ls
+cd
+cd .config/nushell/
+nvim ./config.nu
+cd ..
+git status
+cd ..
+cd .config/
+ls
+cd
+zd
+ls
+cd dotfiles/
+ls
+cp .git/ ../../.config/
+copy .git/ ../../.config/
+cd .config/
+ls
+l
+git status
