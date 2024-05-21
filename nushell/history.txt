@@ -2253,3 +2253,54 @@ zl
 nvim .config/nushell/config.nu
 cd
 cd .config/
+git add nushell/ 
+git commit -m "Updating new shortcut"
+git push origin main
+cd
+zp
+ls
+cd
+cd .config/
+ls
+cd alacritty/
+ls
+zp
+cd dotfiles/
+ls
+cd .config/alacritty/
+nvim alacritty.yml
+cd
+locate nushell
+nvim alacritty.yml
+ls
+cd
+nvim .config/nushell/config.nu
+nvim .config/alacritty/alacritty.yml
+chsh
+which nu
+nvim .config/alacritty/alacritty.yml
+cd .config/
+ls
+cd alacritty
+ls
+nvim alacritty.toml
+ls
+cd alacritty/
+ls
+nvim alacritty.toml
+nvim alacritty.yml
+nvim alacritty.toml
+zd
+cd
+web
+zd
+ls
+mkdir Web
+cd Web
+mkdir Zips
+rm Zips/
+mkdir zips
+cd ..
+cd
+nvim .config/nushell/config.nu
+cd .config/

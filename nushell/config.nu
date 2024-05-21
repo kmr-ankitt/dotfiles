@@ -789,7 +789,7 @@ alias c = code .
 alias copy = xclip -selection clipboard
 alias dn = dotnet
 alias b = cd ..
-alias web = cd Dev/WebDev/Fresh/
+alias web = cd Dev/Web/Fresh
 
 # zoxide
 source ~/.config/.zoxide.nu
