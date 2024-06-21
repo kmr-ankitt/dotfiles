@@ -782,6 +782,8 @@ alias cl = clear
 alias rain = Projects/tools/rain.sh
 alias bandwhich = sudo .cargo/bin/bandwhich
 alias tm = tmux
+alias rm = trash-put
+alias restore = trash-restore
 alias rm = rm -rf 
 alias music = ncmpcpp
 alias f = ranger
@@ -789,7 +791,8 @@ alias c = code .
 alias copy = xclip -selection clipboard
 alias dn = dotnet
 alias b = cd ..
-alias web = cd Dev/Web/Fresh
+alias web = cd /home/ankit/Dev/Web/Fresh/nextjs
+alias nvm = nvm
 
 # zoxide
 source ~/.config/.zoxide.nu

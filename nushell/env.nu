@@ -98,11 +98,11 @@ $env.NU_PLUGIN_DIRS = [
 ]
 
 
-$env.NVM_DIR = "/home/prashant/.nvm"
+$env.NVM_DIR = "/home/ankit/.nvm"
 
 # env
-$env.PATH = ($env.PATH | split row (char esep) | append "/home/prashant/.bun/bin")
-$env.PATH = ($env.PATH | split row (char esep) | append "/home/prashant/.local/bin")
+$env.PATH = ($env.PATH | split row (char esep) | append "/home/ankit/.bun/bin")
+$env.PATH = ($env.PATH | split row (char esep) | append "/home/ankit/.local/bin")
 $env.PATH = ($env.PATH | split row (char esep) | append "/home/linuxbrew/.linuxbrew/bin")
 # $env.PATH = ($env.PATH | split row (char esep) | append "~/.nvim/nvim-linux64/bin")
 $env.PATH = ($env.PATH | split row (char esep) | append "/opt/Clion/bin/")
@@ -113,10 +113,10 @@ $env.PATH = ($env.PATH | split row (char esep) | append "~/Android/Sdk/emulator"
 $env.PATH = ($env.PATH | split row (char esep) | append "~/Android/Sdk/platform-tools")
 $env.PATH = ($env.PATH | split row (char esep) | append "~/External-apps/")
 $env.PATH = ($env.PATH | split row (char esep) | append "~/Projects/tools")
-$env.PATH = ($env.PATH | split row (char esep) | append "/home/prashant/.nvm/versions/node/v22.0.0/bin/")
-$env.PATH = ($env.PATH | split row (char esep) | append "/home/prashant/.nvm/")
-$env.PATH = ($env.PATH | split row (char esep) | append "/home/prashant/.local/share/pnpm")
-$env.PNPM_HOME = "/home/prashant/.local/share/pnpm"
+$env.PATH = ($env.PATH | split row (char esep) | append "/home/ankit/.nvm/versions/node/v22.0.0/bin/")
+$env.PATH = ($env.PATH | split row (char esep) | append "/home/ankit/.nvm/")
+$env.PATH = ($env.PATH | split row (char esep) | append "/home/ankit/.local/share/pnpm")
+$env.PNPM_HOME = "/home/ankit/.local/share/pnpm"
 
 # default editor
 $env.EDITOR = "nvim"
