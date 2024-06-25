@@ -1,0 +1,80 @@
+ls
+mkdir ~/.cache/starship<\n>starship init nu | save -f ~/.cache/starship/init.nu
+use ~/.cache/starship/init.nu
+ls
+b
+cd Desktop/
+ls
+cd 
+cd .config/
+ls
+cd nushell/
+ls
+nvim config.nu
+q
+exit
+ls
+nvim .config/nushell/config.nu
+cd .config/nushell/
+cd ..
+cd nvim/
+l
+ls
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim ; nvim
+sudo pacman -S trash-cli<\n>
+ls
+rm init.vim
+ls
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim ; nvim
+ls
+restore
+ls
+nvim
+rm LICENSE init.lua lazy-lock.json lua/
+nvim
+ls
+rm *
+git clone https://github.com/NvChad/starter ~/.config/nvim ; nvim
+nvim
+b
+ls
+g++
+ls
+l
+ls
+l
+zp
+cd dotfiles/
+ls
+l
+cp starship.toml ../../.config/
+b
+cd .config/
+ls
+nvim starship.toml
+cl
+cd .config/
+cd nu
+cd nushell/
+nvim config.nu
+ls
+reboot
+ls
+l
+cd dotfiles-versions/
+l
+b
+rm dotfiles-versions/
+ls
+cd .config/
+ls
+zd
+zp
+cd dotfiles/
+b
+zd
+mkdir arch-dotfiles
+cd arch-dotfiles/
+cp starship.toml nushell/ nvim ../Dev/arch-dotfiles/
