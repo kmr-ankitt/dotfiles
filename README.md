@@ -1,4 +1,4 @@
-# My Arch hyprland config files
+# My Hyprland Config Files
 
 
 
