@@ -916,3 +916,13 @@ alias c = code .
 alias copy = xclip -selection clipboard
 alias b = cd ..
 alias nvm = nvm
+
+
+# GIT
+# -----------------------------------------------------
+alias gs = git status
+alias ga = git add
+alias gc = git commit -m
+alias gp = git push
+
+

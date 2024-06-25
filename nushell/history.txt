@@ -78,3 +78,62 @@ zd
 mkdir arch-dotfiles
 cd arch-dotfiles/
 cp starship.toml nushell/ nvim ../Dev/arch-dotfiles/
+cp starship.toml nushell/ nvim ../Dev/arch-dotfiles/ -r
+ls
+cp nvim ../Dev/arch-dotfiles/ -r
+l
+cp nvim ../Dev/arch-dotfiles/ 
+cp nvim ../Dev/arch-dotfiles/ --recursive
+ls
+l
+ls
+b
+open .
+s
+start
+start .
+cd .config/
+ls
+cp nvim ../Dev/arch-dotfiles/ -r
+start .
+start .
+ls
+b
+ls
+cd do
+cd dotfiles/
+ls
+l
+b
+cp dotfiles/ Dev/arch-dotfiles/
+cp dotfiles/ Dev/arch-dotfiles/ -r
+zd
+cd arch-dotfiles/
+l
+start .
+gh create repo
+gh repo -h
+gh repo create .
+gh repo create arch-dotfiles
+gh repo create arch-dotfiles --public
+l
+git init 
+git add .
+ga
+q
+nu
+nvim .config/nushell/config.nu
+ls
+zd
+cd arch-dotfiles/
+ga
+ga .
+gc "hyprland configs"
+b
+ls
+b
+zd
+cd arch-dotfiles/
+rm nushell/
+b
+cd .config/
