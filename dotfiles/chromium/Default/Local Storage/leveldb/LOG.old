@@ -1,0 +1,5 @@
+2024/06/26-10:03:53.977 4 Reusing MANIFEST /home/ankit/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/26-10:03:53.981 4 Recovering log #11
+2024/06/26-10:03:53.981 4 Level-0 table #13: started
+2024/06/26-10:03:53.984 4 Level-0 table #13: 20533 bytes OK
+2024/06/26-10:03:53.985 4 Delete type=0 #11

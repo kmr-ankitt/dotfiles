@@ -1,0 +1,471 @@
+{
+   "checksum": "80f5c978eed407484a7e4ac054f4e9d7",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13242457503000000",
+            "date_last_used": "0",
+            "guid": "8cc234ba-0a50-4ab9-b0fa-0cceb5f01e6d",
+            "id": "29",
+            "name": "‎",
+            "type": "url",
+            "url": "https://www.google.co.in/"
+         }, {
+            "date_added": "13310963814000000",
+            "date_last_used": "13361453145969985",
+            "guid": "f5a9a482-0fac-4a75-9272-45b39e3627a5",
+            "id": "30",
+            "name": "",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13318242660000000",
+            "date_last_used": "13358927076593101",
+            "guid": "b920181e-a943-4cf0-8289-98779565b600",
+            "id": "31",
+            "name": "",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13338393153000000",
+            "date_last_used": "13358427211654744",
+            "guid": "1a7c1f91-0b8a-41fa-94fd-26ff49710dbd",
+            "id": "32",
+            "name": "",
+            "type": "url",
+            "url": "https://172.29.0.1:8090/sonicui/7/login/#/?cid=4"
+         }, {
+            "date_added": "13339866706000000",
+            "date_last_used": "13354263734802123",
+            "guid": "2f704e1f-3fcf-46b7-9c9c-7c1f3a111f80",
+            "id": "33",
+            "name": "",
+            "type": "url",
+            "url": "https://chat.openai.com/"
+         }, {
+            "date_added": "13340987613000000",
+            "date_last_used": "0",
+            "guid": "769107fd-d4af-4595-ad3f-f8d8b76e5754",
+            "id": "34",
+            "name": "",
+            "type": "url",
+            "url": "https://bard.google.com/chat"
+         }, {
+            "date_added": "13348330396000000",
+            "date_last_used": "0",
+            "guid": "b5cb86c5-40ed-4e2d-b02a-8d83f0ce54bd",
+            "id": "35",
+            "name": "",
+            "type": "url",
+            "url": "https://flipclock.us/"
+         }, {
+            "date_added": "13343806184000000",
+            "date_last_used": "13353612723291563",
+            "guid": "bca324ae-a7f5-4bf1-a3e3-93d606c643ea",
+            "id": "36",
+            "name": "dsa",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA"
+         }, {
+            "date_added": "13351838956000000",
+            "date_last_used": "13354303954228883",
+            "guid": "b64aab34-9719-4ddb-811b-7eb5719fa4b4",
+            "id": "37",
+            "name": "",
+            "type": "url",
+            "url": "https://craftinginterpreters.com/contents.html"
+         }, {
+            "date_added": "13358513356855833",
+            "date_last_used": "0",
+            "guid": "aaf5ed75-3ddc-4083-a41d-bf6776b0d337",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How to get into software.md at main · npmaile/blog",
+            "type": "url",
+            "url": "https://github.com/npmaile/blog/blob/main/posts/2.%20How%20to%20get%20into%20software.md"
+         }, {
+            "date_added": "13362372209020429",
+            "date_last_used": "0",
+            "guid": "c5ee8a1a-93cd-49cc-a572-8da7f4172257",
+            "id": "39",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Apple AirPods Pro Animation (final demo)",
+            "type": "url",
+            "url": "https://codepen.io/osublake/pen/VwaKMpw/2152a28cffe2c2c0cca8a3e47f7b21c6"
+         }, {
+            "date_added": "13362515931153491",
+            "date_last_used": "0",
+            "guid": "b2f3b953-128e-4b44-a48c-cf1f52dc1f52",
+            "id": "40",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Learn Redux Toolkit in under 1 hour - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=pX0SBJF01EU"
+         }, {
+            "date_added": "13362613885726460",
+            "date_last_used": "0",
+            "guid": "59431fdf-331e-437d-a8f5-4a430c02e4a4",
+            "id": "41",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Tips to create a Modern animated gradient background website with React/Next.js 13 (very easy ) | by Alain TAI | Medium",
+            "type": "url",
+            "url": "https://medium.com/@alaintai.pro_86554/tips-to-create-a-modern-animated-gradient-background-website-with-react-next-js-13-very-easy-984bb375e7dd"
+         }, {
+            "date_added": "13362734853879655",
+            "date_last_used": "0",
+            "guid": "921e5eef-d20c-443f-933c-747751122205",
+            "id": "42",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Linked List Q&A - The Last Algorithms Course You'll Need",
+            "type": "url",
+            "url": "https://frontendmasters.com/courses/algorithms/linked-list-q-a/"
+         }, {
+            "date_added": "13363244546305092",
+            "date_last_used": "0",
+            "guid": "a68b43e3-04ce-48b3-acf5-4a73abaaba3e",
+            "id": "43",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Chai aur full stack NextJS - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/playlist?list=PLu71SKxNbfoBAaWGtn9GA2PTw0HO0tXzq"
+         }, {
+            "date_added": "13363518049073455",
+            "date_last_used": "0",
+            "guid": "6d42fdda-8ffb-4263-8954-23ec3cb636aa",
+            "id": "44",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "How Physics Engines Work - Build New Games",
+            "type": "url",
+            "url": "http://buildnewgames.com/gamephysics/"
+         }, {
+            "date_added": "13363518677028112",
+            "date_last_used": "13363518862261756",
+            "guid": "d5a08926-d833-4643-a66c-d501590d1f80",
+            "id": "45",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Xtremilicious/projectlearn-project-based-learning: A curated list of project tutorials for project-based learning.",
+            "type": "url",
+            "url": "https://github.com/Xtremilicious/projectlearn-project-based-learning"
+         }, {
+            "date_added": "13363798859527654",
+            "date_last_used": "13363849789162800",
+            "guid": "29bdfb85-0adf-4b04-82c2-da70bd804c47",
+            "id": "46",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Stephan Raabe / ML4W Dotfiles for Hyprland · GitLab",
+            "type": "url",
+            "url": "https://gitlab.com/stephan-raabe/dotfiles"
+         } ],
+         "date_added": "13363809389583659",
+         "date_last_used": "0",
+         "date_modified": "13363798859527654",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13354291269121459",
+            "date_last_used": "0",
+            "guid": "aa03ee2b-4191-4173-b253-a51894fdd20d",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GC",
+            "type": "url",
+            "url": "https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/"
+         }, {
+            "date_added": "13354346263936860",
+            "date_last_used": "0",
+            "guid": "3adfeaa2-0f11-4a02-8c1f-8289139f70d3",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Analyze images - Training | Microsoft Learn",
+            "type": "url",
+            "url": "https://learn.microsoft.com/en-gb/training/modules/analyze-images/"
+         }, {
+            "date_added": "13354346173507227",
+            "date_last_used": "0",
+            "guid": "3b9164f7-69c4-465d-9cc9-6f13e4e601b9",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Create an intelligent document processing solution with Azure AI Document Intelligence - Applied Skills | Microsoft Learn",
+            "type": "url",
+            "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/create-intelligent-document-solution-azure-ai/"
+         }, {
+            "date_added": "13354346283730557",
+            "date_last_used": "0",
+            "guid": "c1f1ba07-d4d7-4dc6-91d0-d5cc8187b696",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Build a natural language processing solution with Azure AI Language - Applied Skills | Microsoft Learn",
+            "type": "url",
+            "url": "https://learn.microsoft.com/en-us/credentials/applied-skills/build-natural-language-solution-azure-ai/"
+         }, {
+            "date_added": "13357072867683391",
+            "date_last_used": "13361618563307301",
+            "guid": "a1a9aa76-ef75-4688-9874-97c9eb0b277d",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Watch Latest Movies & TV Shows with Subtitles Online | MunoWatch",
+            "type": "url",
+            "url": "https://munowatch.lol/"
+         }, {
+            "date_added": "13359934642916720",
+            "date_last_used": "0",
+            "guid": "702d22d1-f937-4688-ab28-961745193641",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Brainfuck in Go - Mihajlo Nešić",
+            "type": "url",
+            "url": "https://mihajlonesic.gitlab.io/archive/brainfuck-in-go/#choosing-a-language"
+         }, {
+            "date_added": "13360009035588536",
+            "date_last_used": "13360406898147380",
+            "guid": "6b4804d0-02ce-4f3e-9bc2-d4667e8fe8af",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Writing a simple shell in Go",
+            "type": "url",
+            "url": "https://blog.init-io.net/post/2018/07-01-go-unix-shell/"
+         }, {
+            "date_added": "13360564409896532",
+            "date_last_used": "0",
+            "guid": "90768e20-d42e-45e7-8a78-a9547945dd70",
+            "id": "12",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+         }, {
+            "date_added": "13360599502064749",
+            "date_last_used": "0",
+            "guid": "2d129bb1-ef54-4811-bf8d-c615382e14f6",
+            "id": "13",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "A Complete Guide to Flexbox | CSS-Tricks - CSS-Tricks",
+            "type": "url",
+            "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/"
+         }, {
+            "date_added": "13360751894965804",
+            "date_last_used": "0",
+            "guid": "eee9c976-f93f-4d7f-841e-3ff87b7f4984",
+            "id": "14",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "credentials - How can I save username and password in Git? - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/35942754/how-can-i-save-username-and-password-in-git"
+         }, {
+            "date_added": "13360752987685179",
+            "date_last_used": "0",
+            "guid": "9dddc721-7343-4296-8e91-7246a956f31d",
+            "id": "15",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Itz-Abhishek-Tiwari/pop-os-dock-application-color-changer: This is a bash script that changes the background color of the Dash to Dock extension and the Applications menu in Pop!_OS Cosmic. It prompts the user for a color selection, modifies settings using \"gsettings\" and the \"sed\" command, and displays information messages using the \"zenity\" tool.",
+            "type": "url",
+            "url": "https://github.com/Itz-Abhishek-Tiwari/pop-os-dock-application-color-changer"
+         }, {
+            "date_added": "13360766802561040",
+            "date_last_used": "13363812947130524",
+            "guid": "c78536cc-1f2e-42d5-8e4a-0f0560056eca",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "git-credential-manager/docs/credstores.md at main · git-ecosystem/git-credential-manager",
+            "type": "url",
+            "url": "https://github.com/git-ecosystem/git-credential-manager/blob/main/docs/credstores.md"
+         }, {
+            "date_added": "13361205235057852",
+            "date_last_used": "0",
+            "guid": "7bd3b87e-3821-4d47-8285-f4ae74250657",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Fancy > Retro fonts | dafont.com",
+            "type": "url",
+            "url": "https://www.dafont.com/theme.php?cat=115&page=3"
+         }, {
+            "date_added": "13361338207537510",
+            "date_last_used": "0",
+            "guid": "e1d4b1d6-c14a-4e72-9445-9b7f8760b993",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Online JSON Viewer and Formatter",
+            "type": "url",
+            "url": "https://jsonviewer.stack.hu/"
+         }, {
+            "date_added": "13361349519239228",
+            "date_last_used": "0",
+            "guid": "2fdf84b1-f98d-4016-91d7-80e9e7c5c3cf",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "wifi",
+            "type": "url",
+            "url": "http://192.168.1.1/"
+         }, {
+            "date_added": "13361945287630673",
+            "date_last_used": "0",
+            "guid": "d95dd8ee-2ddf-4167-a253-3b18a3353f9e",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Hacker Typer",
+            "type": "url",
+            "url": "https://hackertyper.net/"
+         }, {
+            "date_added": "13361967585300050",
+            "date_last_used": "0",
+            "guid": "b1740f17-a821-457d-99bf-2823562d4724",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Recent - CodeSandbox",
+            "type": "url",
+            "url": "https://codesandbox.io/dashboard/recent?workspace=92d52d33-8ee1-43d2-91d1-ca904b0779ff&new_workspace=true"
+         }, {
+            "date_added": "13356347395014789",
+            "date_last_used": "13362079992345663",
+            "guid": "823736ca-b36f-425c-8f88-bd8fe1e80fe9",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "1. Setup | Build Your Own Text Editor",
+            "type": "url",
+            "url": "https://viewsourcecode.org/snaptoken/kilo/01.setup.html"
+         }, {
+            "date_added": "13362248325679925",
+            "date_last_used": "0",
+            "guid": "a1016ced-7dc8-42cc-a111-088ebbd7ba03",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chatgpt.com/c/8f3f590d-69ae-48c9-b85d-f68f3004fa78"
+         }, {
+            "date_added": "13362471179714442",
+            "date_last_used": "0",
+            "guid": "8f54a07c-3deb-498a-85b1-767229b683c1",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Easing Functions Cheat Sheet",
+            "type": "url",
+            "url": "https://easings.net/"
+         }, {
+            "date_added": "13362685230952645",
+            "date_last_used": "0",
+            "guid": "21309e38-c41a-47ea-833a-dad6af964139",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "gkbrk/slowloris: Low bandwidth DoS tool. Slowloris rewrite in Python.",
+            "type": "url",
+            "url": "https://github.com/gkbrk/slowloris"
+         }, {
+            "date_added": "13362767217629554",
+            "date_last_used": "0",
+            "guid": "639c490b-2de4-42d9-9ab8-4ce1b8b8a6e1",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Academic Torrents",
+            "type": "url",
+            "url": "https://academictorrents.com/"
+         }, {
+            "date_added": "13363123388001258",
+            "date_last_used": "0",
+            "guid": "cdcaaadf-e575-495e-9bd0-bd8983815b88",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Good First Issue: Make your first open-source contribution",
+            "type": "url",
+            "url": "https://goodfirstissue.dev/"
+         }, {
+            "date_added": "13363671887643331",
+            "date_last_used": "0",
+            "guid": "eb6e60dc-448e-4a11-8e0c-6fcef7813384",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "FirstKernelPatch - Linux Kernel Newbies",
+            "type": "url",
+            "url": "https://kernelnewbies.org/FirstKernelPatch"
+         } ],
+         "date_added": "13363809389583661",
+         "date_last_used": "0",
+         "date_modified": "13363671887643331",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13363809389583662",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

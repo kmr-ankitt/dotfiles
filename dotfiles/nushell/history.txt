@@ -1,0 +1,308 @@
+ls
+mkdir ~/.cache/starship<\n>starship init nu | save -f ~/.cache/starship/init.nu
+use ~/.cache/starship/init.nu
+ls
+b
+cd Desktop/
+ls
+cd 
+cd .config/
+ls
+cd nushell/
+ls
+nvim config.nu
+q
+exit
+ls
+nvim .config/nushell/config.nu
+cd .config/nushell/
+cd ..
+cd nvim/
+l
+ls
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim ; nvim
+sudo pacman -S trash-cli<\n>
+ls
+rm init.vim
+ls
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim ; nvim
+ls
+restore
+ls
+nvim
+rm LICENSE init.lua lazy-lock.json lua/
+nvim
+ls
+rm *
+git clone https://github.com/NvChad/starter ~/.config/nvim ; nvim
+nvim
+b
+ls
+g++
+ls
+l
+ls
+l
+zp
+cd dotfiles/
+ls
+l
+cp starship.toml ../../.config/
+b
+cd .config/
+ls
+nvim starship.toml
+cl
+cd .config/
+cd nu
+cd nushell/
+nvim config.nu
+ls
+reboot
+ls
+l
+cd dotfiles-versions/
+l
+b
+rm dotfiles-versions/
+ls
+cd .config/
+ls
+zd
+zp
+cd dotfiles/
+b
+zd
+mkdir arch-dotfiles
+cd arch-dotfiles/
+cp starship.toml nushell/ nvim ../Dev/arch-dotfiles/
+cp starship.toml nushell/ nvim ../Dev/arch-dotfiles/ -r
+ls
+cp nvim ../Dev/arch-dotfiles/ -r
+l
+cp nvim ../Dev/arch-dotfiles/ 
+cp nvim ../Dev/arch-dotfiles/ --recursive
+ls
+l
+ls
+b
+open .
+s
+start
+start .
+cd .config/
+ls
+cp nvim ../Dev/arch-dotfiles/ -r
+start .
+start .
+ls
+b
+ls
+cd do
+cd dotfiles/
+ls
+l
+b
+cp dotfiles/ Dev/arch-dotfiles/
+cp dotfiles/ Dev/arch-dotfiles/ -r
+zd
+cd arch-dotfiles/
+l
+start .
+gh create repo
+gh repo -h
+gh repo create .
+gh repo create arch-dotfiles
+gh repo create arch-dotfiles --public
+l
+git init 
+git add .
+ga
+q
+nu
+nvim .config/nushell/config.nu
+ls
+zd
+cd arch-dotfiles/
+ga
+ga .
+gc "hyprland configs"
+b
+ls
+b
+zd
+cd arch-dotfiles/
+rm nushell/
+b
+cd .config/
+cp nushell/ ../Dev/arch-dotfiles/ -r
+zd
+cd arch-dotfiles/
+ga .
+gc "nushell aliases"
+nvim README.md
+ga .
+gc "Readme"
+gp origin main
+gc main
+gh -h
+git branch -M main
+git remote add origin https://github.com/kmr-ankitt/arch-dotfiles.git
+gp origin main
+l
+nvim starship.toml
+cat starship.toml
+ls
+cd nvim/
+l
+b
+ls
+rm nvim starship.toml
+ls
+start .
+ga .
+gc "fixes"
+nvim README.md
+ga .
+gc "readme"
+gp origin main
+nu
+ls
+ff
+nf
+neofetch
+reboot
+nvim /home/ankit/.bashrc
+reboot
+ls
+gnome
+sudo pacman -S gnome
+gnome
+H
+nvim /home/ankit/.config/nushell/config.nu
+H
+ls
+H
+reboot
+ls
+./uninstall.sh
+ls
+b
+ls
+Hyprland
+sudo pacman -S gnome
+ls
+./uninstall.sh
+djsalf
+sudo pacman -S gdm
+ls
+pacman -S Hyprland
+sudo pacman -S Hyprland
+sudo pacman -S hyprland
+H
+h
+Hyprland
+hyprland
+ls
+pacman -R Hyprland
+sudo pacman -R Hyprland
+sudo pacman -S Hyprland
+sudo pacman -R hyprland
+sudo pacman -R hyprland hyprshade
+bash <(curl -s https://gitlab.com/stephan-raabe/dotfiles/-/raw/main/setup.sh)<\n>
+ls
+h
+H
+hyprland
+Hyprland
+ql
+qq
+ls
+nvim
+ls
+cd .config/
+ls
+b
+ls
+zd
+ls
+cd arch-dotfiles/
+l
+cd nvim
+start .
+ls
+nvim
+ls
+nvim
+ls
+Hyprland
+ls
+start .
+ls
+gdm
+sudo systemctl start gdm.service
+pacman -S gdm
+sudo pacman -S gdm
+zp
+ls
+cd dotfiles-main/
+ls
+b
+ls
+b
+zd
+ls
+cd arch-dotfiles/
+ls
+b
+ls
+zp
+cd dotfiles-main/
+l
+b
+ls
+mr dotfiles-main/
+rm dotfiles-main
+ls
+restore
+ls
+b
+ls
+zd
+ls
+gh repo clone kmr-ankitt/dotfiles
+pacman -S xdg-desktop-portal-hyprland
+sudo pacman -S xdg-desktop-portal-hyprland
+tmux
+tm
+sudo pacman -S tmux
+tmux
+la
+ls
+clear
+cl
+tmux
+cd dotfiles/
+ls
+cd Wallpapers/
+ls
+start .
+nvm
+zd
+ls
+cd arch-dotfiles/
+ls
+nvim README.md
+ls
+cd dotfiles/
+ls
+rm *
+ls
+cd
+ls
+cd .config/
+ls
+cp * ../Dev/arch-dotfiles/dotfiles/
+cp * ../Dev/arch-dotfiles/dotfiles/ -r
