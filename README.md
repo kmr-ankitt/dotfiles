@@ -6,8 +6,9 @@ This repository contains my personal configuration files for various application
 Clone the repository to your home directory:
 
 ```bash
-Copy code
-git clone https://your-repository-url.git ~/dotfiles
+git clone https://kmr-ankitt/arch-dotfiles.git
+
+cd arch-dotfiles
 ```
 
 ## Acknowledgments
