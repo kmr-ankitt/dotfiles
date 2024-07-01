@@ -40,6 +40,7 @@ alias cleanup='~/dotfiles/scripts/cleanup.sh'
 alias h='Hyprland'
 alias zd='cd /home/ankit/Dev'
 alias zp='cd /home/ankit/Downloads/'
+alias b='cd ..'
 
 # -----------------------------------------------------
 # ML4W Apps
