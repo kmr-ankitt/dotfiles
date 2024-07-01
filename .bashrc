@@ -19,7 +19,7 @@ export EDITOR=nvim
 # -----------------------------------------------------
 # ALIASES
 # -----------------------------------------------------
-alias c='clear'
+alias cl='clear'
 alias nf='neofetch'
 alias pf='fastfetch'
 alias ff='fastfetch'
@@ -41,6 +41,7 @@ alias h='Hyprland'
 alias zd='cd /home/ankit/Dev'
 alias zp='cd /home/ankit/Downloads/'
 alias b='cd ..'
+alias c='code .'
 
 # -----------------------------------------------------
 # ML4W Apps
