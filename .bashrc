@@ -40,8 +40,12 @@ alias cleanup='~/dotfiles/scripts/cleanup.sh'
 alias h='Hyprland'
 alias zd='cd /home/ankit/Dev'
 alias zp='cd /home/ankit/Downloads/'
+alias dsa='cd /home/ankit/Dev/dsa/'
 alias b='cd ..'
 alias c='code .'
+
+# PgAdmin
+alias pgadmin='source pgadmin4/bin/activate && pgadmin4'
 
 # -----------------------------------------------------
 # ML4W Apps
@@ -145,3 +149,14 @@ else
         echo "Start Hyprland with command Hyprland"
     fi
 fi
+
+# Created by `pipx` on 2024-07-03 03:01:15
+export PATH="$PATH:/home/ankit/.local/bin"
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH=$BUN_INSTALL/bin:$PATH
