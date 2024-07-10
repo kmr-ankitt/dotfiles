@@ -20,7 +20,7 @@ export EDITOR=nvim
 # ALIASES
 # -----------------------------------------------------
 alias cl='clear'
-alias nf='neofetch'
+alias nf='fastfetch'
 alias pf='fastfetch'
 alias ff='fastfetch'
 alias ls='eza -a --icons'
@@ -43,6 +43,7 @@ alias zp='cd /home/ankit/Downloads/'
 alias dsa='cd /home/ankit/Dev/dsa/'
 alias b='cd ..'
 alias c='code .'
+alias x='xdg-open '
 
 # PgAdmin
 alias pgadmin='source pgadmin4/bin/activate && pgadmin4'
