@@ -43,7 +43,8 @@ alias zp='cd /home/ankit/Downloads/'
 alias dsa='cd /home/ankit/Dev/dsa/'
 alias b='cd ..'
 alias c='code .'
-alias x='xdg-open '
+alias x='xdg-open'
+alias rm='trash-put'
 
 # PgAdmin
 alias pgadmin='source pgadmin4/bin/activate && pgadmin4'
