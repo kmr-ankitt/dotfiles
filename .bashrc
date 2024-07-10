@@ -20,7 +20,7 @@ export EDITOR=nvim
 # ALIASES
 # -----------------------------------------------------
 alias cl='clear'
-alias nf='fastfetch'
+alias nf='neofetch'
 alias pf='fastfetch'
 alias ff='fastfetch'
 alias ls='eza -a --icons'
