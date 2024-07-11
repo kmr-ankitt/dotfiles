@@ -1,0 +1,7280 @@
+starship init nu 
+starship init nu | save -f ~/.cache/starship/init.nu
+use ~/.cache/starship/init.nu
+ls
+zoxide
+l
+ls
+cd .config/
+ls
+zoxide
+nu
+ls
+code .zoxide.nu
+ls
+nu
+nu
+zoxide
+sudo apt remove zoxide
+npm install -g zoxide
+sudo apt install zoxide
+ls
+nu
+ls
+bat
+tmux
+ls
+cd
+sudo cd /usr/local/share/fonts
+ls
+cd
+ls
+cd /usr/local/share/fonts
+ls
+ls\
+cd Dev
+ls
+cd Dev
+cd Zealot
+source .bashrc
+zealot example/function.zlt
+source .bashrc
+source = .bashrc
+source = ".bashrc"
+bash
+source .bashrc
+ls
+make clean
+source .bashrc
+ls
+source .bashrc
+cd DE
+cd Dev/Zealot
+source .bashrc
+git pull
+ls
+source .bashrc
+nvim .bashrc
+source .bashrc
+zealot
+source .bashrc
+ls
+make
+make all
+nvim .bashrc
+source .bashrc
+make clean
+nvim .bashrc
+git pull
+ls
+source .bashrc
+nvim .bashrc
+source .bashrc
+git oull
+git pull
+ls
+make all
+make
+nvim Makefile
+make compile
+make run
+make run example/closures.zlt
+make clean
+ls
+.bashrc
+nu
+s
+l
+cd nushell/
+ls
+nvim config.nu
+cd
+zealot Dev/Zealot/example/closures.zlt
+nvim config.nu
+cd .config/
+cd nu
+cd nushell/
+nvim config.nu
+ls
+cd nushell/
+ls
+cd
+cd Dev
+cd Zealot/
+ls
+make clean
+source .bashrc
+zealot example/function.zlt
+nvim config.nu
+clear
+ls
+cd
+nu
+nu
+ls
+cd
+bat Dev/Cax/src/cax.c
+clera
+clear
+git init
+git add .
+ls
+git remote add https://github.com/kmr-ankitt/dotfiles.git
+git remote
+git remote set-url https://github.com/kmr-ankitt/dotfiles.git
+git remote set-url --add https://github.com/kmr-ankitt/dotfiles.git
+git remote set-url --add main https://github.com/kmr-ankitt/dotfiles.git
+git status
+git remote add origin https://github.com/kmr-ankitt/dotfiles.git
+git fetch
+git add .
+git commit -m "First push"
+git push origin main
+git status
+git checkout main
+git push origin main
+git pull
+git pull origin main
+git push origin main
+ls
+echo "# dotfiles" >> README.md
+ls
+git add .
+git commit -m "First push"
+git branch -M main<\n>git remote add origin https://github.com/kmr-ankitt/dotfiles.git<\n>git push -u origin main
+git branch -M main
+git push origin main
+ls
+git add bat/ alacritty/ BraveSoftware/ burn-my-windows/ myscripts/ nushell/ nvim/ tmux/ starship.toml .zoxide.nu 
+git commit - m "Backup"
+git commit -m "Backup"
+git push origin main
+bash
+ls
+code
+brave-browser 
+locate nu
+nu
+ls
+cd 
+gconftool --recursive-unset /apps/gnome-terminal
+ls
+cd Dev
+cd Zealot/
+ls
+make clena
+make clean
+cd ..
+ls
+cd alacritty/
+ls
+nvim alacritty.toml
+ls
+cd themes/
+ls
+cd themes/
+ls
+cd ..
+ls
+bat print_colors.sh
+cd themes/
+cdruvbox_dark.toml
+cd
+cd Downloads/
+git clone https://github.com/morhetz/gruvbox.git
+cd gruvbox/
+ls
+l
+./gruvbox_256palette.sh
+sudo ./gruvbox_256palette.sh
+./gruvbox_256palette_osx.sh
+clear
+clear
+nu
+nu
+cd ./.themes/
+ls
+cd
+cd D
+cd Downloads/
+ls
+mv gruvbox/ ../.themes/
+cd 
+cd .themes/
+ls
+cd Downloads/
+unzip Gruvbox-Dark-BL-LB.zip
+l
+mv Gruvbox-Dark-BL-LB/ ../.themes/
+cd
+cd .themes/
+ls
+rm -rf gruvbox/
+ls
+rm -rf gruvbox/
+sudo rm -rf gruvbox/
+ls
+cd ..
+cd .themes/
+ls
+cd ..
+cd .themes/
+ls
+c
+cd ..
+ls
+nvim
+cd .config/
+cd 
+cd  .config/
+cd nvim/
+ls
+nvim init.lua
+ls
+nvim init.lua
+clear
+clea
+clear
+ls
+clear
+nu
+cd .config/
+cd tmux/
+cd /bin/
+l
+nvim tmux.conf
+l
+cd
+ls
+tmux
+ls
+nu
+git add tmux/
+git commit -m "fixing tmux bugs"
+git push origin main
+cd Downloads/
+git clone https://github.com/Lxtharia/minegrub-theme.git
+cd ./minegrub-theme<\n>sudo cp -ruv ./minegrub /boot/grub/themes/
+GRUB_THEME=/boot/grub/themes/minegrub/theme.txt
+cd
+cd /etc/default/grub.d/
+ls
+bat init-select.cfg
+l
+nvim init-select.cfg
+ls
+cd //
+cd
+cd /etc/default/
+ls
+cd grub
+ls
+cd grub
+nvim grub
+sudo nvim grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+reboot
+cd Downloads/
+ls
+cd WhiteSur-gtk-theme/
+ls
+bat install.sh
+./install.sh -i arch
+cd iee
+ls
+cd ..
+mv BJT_JFET.pdf iee/
+open .
+ls
+cd Brave-Browser/
+ls
+d
+cd
+cd Dev
+cd dotfiles/
+ls
+cd .config/
+ls
+neofetch
+fastfetch
+pfetch
+cd
+neofetch
+fastfetch
+pfetch
+sudo apt install neofetch 
+neofetch
+cd Downloads/
+ls
+rm -rf `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+remove `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+delete `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+help
+list
+help list
+help =h
+help -h
+help
+help  list
+help help
+help delete
+rm `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+rmdir `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+rm `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+list
+nu -help
+nu -h
+rm --trash `DS ASSIGNMENT-4_2024_04_28_22_00_54_774.pdf`
+ls
+ls
+gpinh
+gping
+sudo apt remove gpinh
+sudo apt remove gping
+sudo apt install gpinh
+sudo apt install gping
+gpinh
+gping
+echo 'deb [signed-by=/usr/share/keyrings/azlux.gpg] https://packages.azlux.fr/debian/ bookworm main' | sudo tee /etc/apt/sources.list.d/azlux.list<\n>sudo apt install gpg<\n>curl -s https://azlux.fr/repo.gpg.key | gpg --dearmor | sudo tee /usr/share/keyrings/azlux.gpg > /dev/null<\n>sudo apt update<\n>sudo apt install gping
+gping www.google.com
+ls
+cd .config/
+ls
+gping www.google.com
+ls
+cd Dev/
+ls
+bat linked_list.asm
+cd .config/
+ls
+cd bat/
+ls
+bat config
+cd themes/
+l
+gping www.google.com
+cd ..
+ls
+nvim config
+ls
+bat cache --build
+bat list-themes
+bat --list-themes
+clear
+ls
+bat linked_list.asm
+nvim config
+bat linked_list.asm
+nvim config
+bat linked_list.asm
+ls
+cd De
+cd Dev
+ls
+cd De
+cd Dev
+cd cax
+cd Cax/
+l
+fastfetch
+make
+ls
+make run
+make
+.src/cax
+ls
+bat Makefile
+maek celan
+make celan
+make clean
+ls
+mkae
+maek 
+make
+ls
+./cax
+ls
+cd
+ls
+disk
+cd Zealot/
+vim example/closures.zlt
+nvim .bashrc
+vim zealot.bat
+la
+ls
+l
+javac
+gcc
+rustup
+lua
+cd Zealot/
+ls
+cd Dev
+ls
+cd Zealot/
+make repl
+ls
+diff <( command1 ) <( command2 )<\n><\n><\n>
+ls
+make clean
+cd 
+cd Dev
+diff <( command1 ) <( command2 )<\n><\n><\n>xd
+ls
+netstat
+netstart
+ls
+sl
+sl -la<\n>
+watch cmd
+code
+screen
+youtube-dl 
+ls
+# Update apt.<\n>sudo apt update<\n><\n># Install tools.<\n>sudo apt install \<\n>  bazel \<\n>  clang \<\n>  libc++-dev \<\n>  libc++abi-dev \<\n>  lld<\n><\n># Download Carbon's code.<\n>$ git clone https://github.com/carbon-language/carbon-lang<\n>$ cd carbon-lang
+# Update apt.<\n>sudo apt update<\n><\n># Install tools.<\n>sudo apt install \<\n>  bazel \<\n>  clang \<\n>  libc++-dev \<\n>  libc++abi-dev \<\n>  lld
+sudo apt install bazel
+bazel
+sudo apt install bazel-bootstrap
+sudo apt remove mpv
+storage
+diskspacce
+cd /usr/include/
+ls
+cd ..
+ls
+cd include/
+ls
+nvim termio.h
+ls
+nvim syscall.h
+ls
+nvim aliases.h
+ks
+clear
+ls
+list
+sudo apt list
+c 
+tm 
+ls
+gping web.whatsapp.com
+cd Dev
+cd
+cd Downloads/
+lsc
+cd iee
+ls
+open `IEE QB 2.pdf`
+sudo apt update grub
+git clone https://github.com/kmr-ankitt/Cax.git
+cd Cax
+ls
+cd src
+ls
+cd ..
+make 
+./cax
+ls
+rm -rf Cax
+del Cax/
+rm Cax/
+cd .config/
+ls
+cd nu
+cd nushell/
+ls
+rm 
+nvim config.nu
+ls
+nu
+trash
+ls
+mkdir rm -rf
+mkdir rm
+ls
+rm -rf rm
+ls
+cd .config/nushell/
+ls
+nvim config.nu
+ls
+cd
+ls
+mkdir rm
+rm rm
+ls
+mkdir lmao
+rm lmao
+ls
+dn
+cd .config/
+ls
+git add nushell/
+git commmit -m "Fixing nushell"
+git cm -m "Fixing nushell"
+git commit -m "Fixing nushell"
+git push origin main
+git fetch
+git push origin main
+git pull
+git pull origin main
+l
+git push origin main
+git pull origin main
+git push
+git push origin main
+ls
+git status
+git add nushell/
+git commit -m "Fixing nushell"
+git push origin main
+git pull origin mian
+git pull origin main
+git config
+copy
+git pull --ff-only
+git pull --ff-only main
+git pull --ff-only 
+git pull --ff-only=origin main 
+git pull --ff-only origin main 
+git pull origin main --rebase<\n><\n>
+ls
+git pull origin main --rebase<\n><\n>
+git config --global pull.ff true<\n>
+git pull origin main 
+git push origin main
+ls
+git push
+git push origin main -f
+ls
+l
+ls
+source .bashrc
+cd
+cd .config/
+ls
+cd nushell/
+sl
+l
+bat config.nu
+cd
+cd Dev
+cd Zealot/
+source .bashrc
+nvim .bashrc
+cd De
+cd Dev/Zealot/
+source .bashrc
+ls
+source .bashrc
+ls
+git status
+git push
+ls
+make clean
+tmux
+tmuc
+tmux
+nvim .bashrc
+cd Downloads/
+ls
+mv IMG-20240303-WA0086.png ../Dev/Rust/ascii_art/
+ls
+cd Dev
+cd
+cd Dev
+cd Rust/
+cd ascii_art/
+ls
+open IMG-20240303-WA0086.png
+open cat.png
+nvim src/main.rs
+ls
+open .
+cd Dev/Rust/ascii_art/
+nvim src/main.rs
+cargo run
+l
+cl
+cd
+cd .config/nushell/
+nvim config.nu
+ls
+cl
+cd Dev/Rust/ascii_art/
+cargo run
+cl
+cd Dev
+l
+cd DS
+ls
+mkdir endsem
+cd endsem/
+nvim deletionInBST
+nvim deletionInBST.c
+ip
+nvim BST.c
+mv BST.c
+mv BST.c endsem/
+ls
+cd endsem/
+ls
+code BST.c
+open .
+cd .config/nushell/
+ls
+bat config.nu
+ls
+cd ..
+ls
+cd bat/
+l
+cd themes/
+ls
+cd ..
+ls
+bat config
+cd ..
+ls
+cd alacritty/
+ls
+nvim alacritty.toml
+ls
+tmux
+ls
+tmux
+ls
+tmux --v
+tmux -v
+tmux he,p
+tmux help
+ls
+os
+cd
+cd /boot/grub/themes/minegrub/backgrounds/
+ls
+cd ..
+ls
+cd ..
+ls
+cd Dev/Cax/
+nvim src/cax.c
+code src/cax.c
+exit
+cd Dev/Cax/
+make
+./cax
+cd Dev/Cax/
+make
+./cax
+make
+./cax
+make
+./cax
+make
+./cax
+make
+./cax
+cd Ca
+cd Cax/
+git add .
+git commit -m "Adding quit and clear functions and default screen"
+make clean
+ls
+git add .
+git commit -m "Adding quit and clear functions and default screen"
+git push origin main 
+rm -rf .vscode/
+git add .
+git commit -m "Removing .files"
+git push origin main 
+cd
+cd Dev
+git clone https://github.com/Overv/bf.git
+cargo run --release samples/mandelbrot.bf
+cd bf/
+cargo run --release samples/mandelbrot.bf
+cargo run --release samples/loop-without-beginning.bf
+cargo run --release samples/helloworld.bf
+cargo run --release samples/loop-without-end.bf
+ls
+cd
+cd Dev/bf
+ls
+cargo run --release samples/loop-without-end.bf
+cargo run --release samples/helloworld.bff
+cargo run --release samples/helloworld.bf
+cargo run samples/helloworld.bf
+ls
+bat Cargo.toml
+nvim Cargo.toml
+ls
+rm -rf .git/
+rm -rf ./.gitignore
+ls
+rm -rf ./LICENSE
+git add .
+git status
+git push
+git push origin main 
+cd ..
+rm -rf bf/
+git clone https://github.com/MustafaSalih1993/tai.git
+cd tai<\n>cargo install --path .
+cargo run
+cargo run ../Rust/ascii_art/alka.png
+cargo run ../Rust/ascii_art/cat.png
+cd ..
+rm -rf tai/
+ls
+rm -rf tmux-client-22209.log
+ls
+nu
+cd Dev/kilo-src/
+make clean
+ls
+nvim Makefile
+ls
+cd example/
+ls
+cd ..
+ls
+cd WebDev/
+code Piscan-portfolio/
+info
+indo
+info 
+linus
+what is this
+lmao
+we are god
+god
+cat
+bat
+cd Dev/kilo-src/
+./kilo
+ls
+cd.
+cd..
+cd ..
+sudo apt list upgradeable
+sudo apt list --upgradeable
+ls
+sudo apt list upgradeable
+sudo apt update
+cd Dev/wifi-bf/
+ls
+bat src/__main__.py
+bat src/ssid.py
+bat src/__pycache__/ssid.cpython-310.pyc
+ls
+bat README.md
+python3 src/__main__.py --verbose
+sudo python3 src/__main__.py --verbose
+<\n>wifi-bf
+zealot
+sudo python3 src/__main__.py --verbose
+cd Dev/wifi-bf/
+sudo python3 src/__main__.py --verbose
+bat README.md
+sudo python3 src/__main__.py --h
+sudo python3 src/__main__.py -f
+sudo python3 src/__main__.py --f
+sudo python3 src/__main__.py -u
+sudo python3 src/__main__.py -url
+gping web.whatsapp.com
+sudo python3 src/__main__.py -url
+sudo python3 src/__main__.py -u
+sudo python3 src/__main__.py --url
+sudo python3 src/__main__.py -f
+python3 src/__main__.py -f
+sudo python3 src/__main__.py -f
+sudo python3 src/__main__.py -h
+sudo python3 src/__main__.py -v
+neofetch
+fastfetch
+wayland
+ls
+lsusb
+adb
+cl
+cd "/home/ankit/Dev/DS/endsem/" && g++ graph.cpp -o graph && "/home/ankit/Dev/DS/endsem/"graph
+./graph
+cl
+cl-launcher
+sudo nano /etc/gdm3/custom.conf
+master*​<\n>❯ sudo nano /etc/gdm3/custom.conf<\n>
+master*​<\n>❯ sudo nano /etc/gdm3/custom.conf
+sudo nano /etc/gdm3/custom.conf
+cl
+exit
+neofetch
+cd /boot/grub/themes/minegrub/
+ls
+python3 src/__main__.py -verbose
+sudo python3 __main__.py -verbose
+sudo python3 __main__.py -v
+bat update_theme.py
+ls
+cd Zealot/
+ls
+cd com/piscan/zealot/
+ls
+bat Parser.java
+ls
+cd
+cd Dev
+ls
+cd
+cd Dev
+ls
+rm -rf dotfiles/
+ls
+cd grub2-themes/
+ls
+open preview.png
+ls
+open .
+ls
+cd hitAndTry/
+l
+cd Zealot/
+ls
+cd ..
+rm -rf Zealot/
+ls
+cd ..
+ls
+cd kilo-src/
+las
+cd ..
+ls
+rm -rf sort
+ll
+ls
+rm -rf SelectionSort.cpp
+ls
+cd Jaca
+cd Java
+;s
+k
+l
+cd ..
+ls
+cd Rust/
+ls
+cd ascii_art/
+ls
+cargo run 
+ls
+cd Dev
+ls
+nv bf.java
+javac bf.java -o bf
+javac bf.java
+./BrainFuck.class
+javac bf.java
+java BrainFuck.class
+java ./BrainFuck.class
+java BrainFuck.class
+javac bf.java
+./BrainFuck.class
+java BrainFuck.class
+rm -rf BrainFuck.class
+ls
+r bf.java
+rm bf.java
+ls
+cd hitAndTry/
+nvim bf.java
+l
+java bf.java
+r bf.java
+rm bf.java
+l
+cd hitAndTry/
+;s
+ls
+nvim QuestionSet.js
+vimrc
+cd
+cd .config/nvim/
+ls
+nvim ./init.lua
+ls
+cd
+lua
+sudo apt cli
+ls
+homebrew
+which
+which neovim
+which sh
+bat /usr/bin/sh
+cat /usr/bin/sh
+tmuc
+tmux
+tmux -help
+sh
+tmux
+bat
+cd Dev
+bat l
+bat linked_list.asm
+cd hitAndTry/
+bat Json-script.py
+ls
+tmux -help
+tmux -h
+tmux --h
+cd Downloads/Apps/go1.22.3.linux-amd64/
+cd go
+cd ..
+cd Go
+cd go
+ls
+bat README.md
+ls
+./codereview.cfg
+bat codereview.cfg
+wget
+cd ..
+ls
+sudo tar -C /usr/local -xzf gold go1.22.3.linux-amd64.tar.gz
+sha256sum go1.22.3.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.22.3.linux-amd64.tar.gz
+sudo chown -R root:root /usr/local/go
+nano ~/.profile
+. ~/.profile
+sudo . ~/.profile
+. ~/.profile
+1
+. ~/.profile
+go
+go version
+prin
+go
+nvim 
+cd .config/nvim/
+ls
+cd lua
+ls
+cd plugins/
+ls
+cd ..
+nvim lazy-lock.json
+nv
+ls
+lua
+ls
+cd ..
+ls
+nyacat
+nyancat
+ls
+git status
+git
+git last
+git commit 
+git history
+git list
+git -h
+git --help
+git log
+nvim src/cax.c
+cd Dev/Cax/
+make
+./cax
+;s
+cd Downloads/
+ls
+mv lspconfig.lua ../.config/nvim/lua/plugins/
+cd
+cd .config/nvim/lua/
+ls
+cd plugins/
+ls
+nvim null-ls.lua
+nvim
+ls
+cd ...
+cd ..
+cd .config/
+ls
+git log
+git
+git pull
+git fetch
+git pull origin main
+cd nvim
+ls
+cd lua
+ls
+cd plugins/
+ls
+rm -rf lspconfig.lua
+rm null-ls.lua
+ls
+cd ..
+ls
+nvim chadrc.lua
+ls
+nvim
+cd Dev
+ls
+cd GO
+cd G
+cd Go/
+LS
+l
+clear
+go mod init example/hello
+ls
+nvim hello.go
+l
+mkdir greetings
+cd greetings/
+ls
+go mod initi example.com/greetings
+go mod init example.com/greetings
+l
+bat go.mod
+cl
+go run greetings.go
+ls
+go run .
+ls
+go run .
+go mod init example.com/hello
+cl
+nvim greetings.go
+cd ..
+nvim 
+nvim -O greetings/greetings.go hello/hello.go
+cd hello/
+clear
+go run .
+ls
+go test
+cd ../greetings/
+go test
+cd ../greetings/
+go test
+go test -v
+go test
+go test -v
+cd ../hello/
+go build
+ls
+./hello
+go list -f '{{.Target}}'
+export PATH=$PATH: /home/ankit/go/bin/
+export PATH=$PATH: /home/ankit/go/bin
+export PATH=$PATH:/home/ankit/go/bin
+export PATH=$PATH:/home/ankit/go/bin/hello
+go env -w GOBIN=go/bin
+ls
+go install
+go env -w GOBIN=/home/ankit/go/bin
+go install
+hello
+go list -f '{{.Target}}'
+nvim hello.go
+cd Dev/Go/hello/
+ls
+go run .
+ls
+cd ..
+ls
+cd hello/
+ls
+go 
+go c
+ls
+cd go
+ls
+cd
+cl
+cd Dev/Go/
+ls
+rm go.sum
+ls
+rm -rf go.mod
+rm -rf external.go
+ls
+mkdir fibo
+cd fibo
+ls
+go mod init example.com/fibo
+nvim fibo.go
+code .
+ls
+cl
+cd DO
+cd Go/
+cd Dev/Go/
+ls
+mkdir LinkedList
+cd LinkedList/
+ls
+go mod init example.com/linkedlist
+ls
+cd ..
+rename
+rename LinkedList/ linkedlist
+ls
+open .
+ls
+cd linkedlist/
+ls
+go mod init example.com/linkedlist
+ls
+nvim linkedlist.go
+cl
+go run .
+ls
+go build
+ls
+./linkedlist
+hello
+cd
+cd go
+ls
+cd bin
+ls
+rm -rf hello
+ls
+hello
+cd
+cd ..
+cd Zealot/
+cd ..
+ls
+nvim fibo.zlt
+ls
+cd GO
+cd Go
+ls
+cd greetings/
+ls
+cd ..
+ls
+go mod init https://github.com/kmr-ankitt/Brainfuck-in-Go-.git
+rm go.mod
+go mod init https://github.com/kmr-ankitt/Brainfuck-in-Go-.git
+ls
+go mod init www.github.com/kmr-ankitt/Brainfuck-in-Go-.git
+;s
+go mod tidy
+go mod init www.github.com/kmr-ankitt/Brainfuck-in-Go-.git
+ls
+bat go.mod
+ls
+git add .
+git commit -m "adding modules"
+git push origin main 
+cd Dev/
+ls
+cd bfg
+ls
+go mod init www.github.com/kmr-ankitt/Brainfuck-in-Go.git
+go mod tidy
+ls
+go mod init www.github.com/kmr-ankitt/Brainfuck-in-Go.git
+rm go.mod
+go mod tidy
+go mod init www.github.com/kmr-ankitt/Brainfuck-in-Go.git
+go mod tidy
+go mod init www.github.com/kmr-ankitt/Brainfuck-in-Go.git
+ls
+bat go.mod
+git add .
+git commit 
+git commit -m "deploy"
+git push origin main 
+cd Dev/bfg/
+ls
+cd src
+ls
+go run .
+ks
+ls
+go run .
+ls
+mkdir examples
+rm examples/
+cd ..
+mkdir examples
+go run . ../examples/helloworld.bf
+nvim bfg.go
+ls
+nvim
+;
+l
+cd ..
+ls
+cd src
+cd ..
+go mod tidy
+ls
+bat go.mod
+cd src/
+ls
+;s
+l
+ls
+cd ..
+ls
+cd ..
+ls
+git clone https://github.com/MihajloNesic/gobrainfuck.git
+cd gobrainfuck/
+ls
+go run .
+go mod init
+go mod init example.com/bff
+go mod ti
+go mod tidy
+go mod ti
+ls
+go run .
+go run . programs/helloworld.bf
+cd ..
+cd bfg/
+ls
+nvim src/bfg.go
+ls
+cd gobrainfuck/
+ls
+nvim main.go
+nvim src/bfg.go
+cd
+cd Dev/gobrainfuck/
+nvim main.go
+cd 
+cd Dev/gobrainfuck/
+cd
+cd Dev/bfg/
+ls
+cd src/
+l
+go run src/bfg.go
+go run src/bfg.go examples/helloworld.bf
+git status
+git pull 
+nvim bfg.go
+nvim 
+ls
+cd //
+cd
+cd Dev/bfg/
+ls
+bat README.md
+git pull origin main
+bat README.md
+ls
+nvim README.md
+ls
+nvim go.mod
+git add .
+git commit -m "fixing bugs"
+git push origin main 
+nvim README.md
+;s
+nvim go.mod
+ls
+git add .
+git commit -m "Renaming"
+git push origin main 
+ls
+cd gobrainfuck/
+l
+cd programs/
+ls
+bat a1.bf
+ls
+cd ..
+go run . programs/a1.bf
+go run . programs/squares.bf
+cd programs/
+cp squares.bf ../../bfg/examples/
+cd ..
+ls
+cd bgf
+bfg
+cd bfg
+ls
+go run . examples/squares.bf
+go run src/bfg.go examples/squares.bf
+ls
+bat examples/squares.bf
+ls
+cd ..
+cd gobrainfuck/
+ls
+cd programs/
+l
+cd ..
+go run . programs/sierpinski.bf
+cp programs/sierpinski.bf ../bfg/examples/
+ls
+cd
+cd Dev/bfg/
+;s
+l
+go run src/bfg.go examples/pattern.bf
+nvim README.md
+go run src/bfg.go examples/squares.bf
+git add .
+nvim README.md
+git add .
+git commit -m "Adding examples"
+git push origin main 
+cd
+cd ev
+cd Dev
+ls
+cd WebDev/
+ls
+cd Piscan-portfolio/
+ls
+nvim index.html
+code .
+git add .
+git commit -m "Adding bfg and text editor"
+git push origin main 
+er
+df
+bat
+cat
+touch
+touch --h
+touch --help
+touch a.zlt
+ls
+rm -rf a.zlt
+ls
+l
+cd .git/
+ls
+cd logs
+ls
+cd ..
+git logs
+git log
+rm .git/
+ls
+cd bfg/
+ls
+nvim examples/fibonacci.bf
+go run src/bfg.go examples/fibonacci.bf
+nvim examples/fibonacci.bf
+ls
+cd examples/
+ls
+:w
+exit
+ls
+z w
+z
+ls
+z
+ls
+cd
+cd .config/
+ls
+cd alacritty/
+l
+bat alacritty.toml
+ls
+cd themes/
+ls
+cd ..
+ls
+c nushell/
+ls
+s
+n
+cd nushell/
+ls
+fastfetch
+neofetch
+nvim config.nu
+cd ..
+ls
+git add nushell/
+ls
+git commit -m "adding shortcuts"
+git log
+git status
+ls
+git add 
+git add -help
+ls
+git
+git add -help
+git show
+git add go/
+git commit -m "go"
+git push origin main 
+git rm -r --cached BraveSoftware/
+git commit -m "removing brave"
+git push origin main 
+nvim README.md
+git add README.md
+git commit -m "Adding readme"
+git push origin main 
+ls
+cd
+b
+cd .config/
+cd nushell/
+ls
+nvim config.nu
+cd
+cd .config/
+cd 
+q
+cd .config/
+ls
+nvim starship.toml
+nvim .zoxide.nu
+lx
+ls
+zoxide
+q
+exit
+cd
+cd .cache/starship/
+ls
+starship
+cd ..
+cd 
+cd .config/
+ls
+nvim starship.toml
+exit
+ls
+cd share/
+ls
+cd man/
+ls
+cd man1/
+ls
+cd ..
+ls
+cd man/
+ls
+cd ..
+sudo rm -rf man 
+cd
+nvim .bashrc
+locate
+ls
+la
+ls
+alacritty 
+ls
+cd alacritty/
+ls
+cd themes/
+ls
+cd themes/
+l
+cd ..
+ls
+cd ..
+open .
+git clone https://github.com/kmr-ankitt/dotfiles.git
+cd ..
+git clone https://github.com/kmr-ankitt/dotfiles.git
+rm dotfiles/
+git clone https://github.com/kmr-ankitt/dotfiles.git
+cd dotfiles/
+ls
+l
+go
+cd Downloads/
+ls
+dpkg go1.22.3.linux-amd64.tar.gz
+dpkg apt  go1.22.3.linux-amd64.tar.gz
+open .
+cd Downloads/
+ls
+cd go1.22.3.linux-amd64/
+ls
+export PATH=$PATH:/usr/local/go/bin
+sha256sum go1.22.3.linux-amd64.tar.gz
+rm go1.22.3.linux-amd64/
+ls
+sudo tar -C /usr/local -xzf go1.22.3.linux-amd64.tar.gz
+sudo chown -R root:root /usr/local/go
+mkdir -p $HOME/go/{bin,src}
+l
+sudo update-alternatives --config x-terminal-emulator
+ls
+cd Downloads/
+ls
+cd mojMasti/dotfiles/
+ls
+cd .config/
+ls
+cp 
+cp zellij/ ../
+cp zellij/ ../ --recursive 
+ls
+cd
+cd Dev
+ls
+cd mojMasti/dotfiles/
+cd .config/
+ls
+open .
+open .
+cargo install --locked zellij
+zellij 
+fdsjflkjdasfjdjlksfdjasfdjfsf
+zellij 
+rm zellij/
+ls
+nvim alacritty.toml
+nvim alacritty.yml
+cd ..
+cd myscripts/
+ls
+nvim tmux_with_alacritty.sh
+cd startup_scripts/
+ls
+nvim set_performance_mode_by_default
+ls
+cd ..
+ls
+cd ..
+ls
+cd nushell/
+ls
+nvim env.nu
+nvim config.nu
+ls
+zd
+ls
+cd Zealot/
+cd ..
+cd dotfiles/
+ls
+cd ..
+cd .config/
+ls
+cd
+cd .config/
+ls
+cp myscripts/ ../Dev/ --recusive
+cp myscripts/ ../Dev/ --r
+cp myscripts/ ../Dev/
+cp myscripts/ ../Dev/ --recursive
+cd
+cd Dev
+ls
+mv myscripts/ dotfiles/
+open .
+zd
+ls
+cd bfg
+ls
+git pull
+git status
+git push origin main 
+cd
+cd /media/ankit/e1789827-1a3d-4ccd-b22b-64e83b0948c0/home/
+ls
+cd ankit/
+ls
+cd ./.ssh/
+ls
+nvim known_hosts
+cd
+cd Dev
+ls
+git config --global credential.helper store<\n>
+git pull
+cd dotfiles/
+git pull
+git config --global credential.helper store<\n>
+git push origin main
+git remote add origin https://github.com/kmr-ankitt/dotfiles.git
+git config -global user.name “kmr-ankitt”
+git version
+git config -global user.name “kmr-ankitt”
+git config
+git config --global user.name “kmr-ankitt”
+git config –-global user.email "sahuankit.murhu@gmail.com"
+git config –global user.email "sahuankit.murhu@gmail.com"
+git config -–global user.email "sahuankit.murhu@gmail.com"
+git config –global user.email "sahuankit.murhu@gmail.com"
+git config
+git config -–global user.email "sahuankit.murhu@gmail.com"
+git config -–global 
+cd /usr/bin/
+ls
+nvim gh
+find
+find gh
+bat ghostscript
+gh
+zd 
+cd dotfiles/
+ls
+git push origin main
+(type -p wget >/dev/null || (sudo apt update && sudo apt-get install wget -y)) \<\n>&& sudo mkdir -p -m 755 /etc/apt/keyrings \<\n>&& wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg > /dev/null \<\n>&& sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \<\n>&& echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null \<\n>&& sudo apt update \<\n>&& sudo apt install gh -y
+zd
+cd dotfiles/
+git push origin main
+gh
+zd
+cd dotfiles/
+git push origin main
+ssh-keygen<\n>cat ~/.ssh/id_rsa.pub
+cd
+ssh-keygen<\n>cat ~/.ssh/id_rsa.pub
+ls
+cd Dev
+ls
+cd dotfiles/
+ls
+gh
+ls
+bat README.rst
+./configure
+bat README.rst
+make
+zd
+cd Cax/
+ls
+git log
+make test
+nvim src/cax.c
+cd
+.config/nvim/
+ls
+cd lua/
+ls
+cd configs/
+ls
+cd ..
+ls
+cd ..
+ls
+cd lua 
+ls
+cd plugins/
+ls
+nvim init.lua
+cd
+z
+zd
+cd Cax/
+ls
+nvim src/cax.c
+code src/cax.c
+make
+clear
+make
+cl
+make
+nvim src/cax.c
+./cax
+nvim src/cax.c
+make
+nvim src/cax.c
+make
+./cax
+nvim src/cax.c
+./cax
+cl
+make
+nvim src/cax.c
+./ca
+./cax
+nvim src/cax.c
+make
+nvim src/cax.c
+make
+./ca
+./cax
+cd ..
+cd kilo-src/
+./kilo
+cd ..
+cd Cax
+ls
+make clean
+nvim src/cax.c
+make
+make clean
+git add .
+dit log
+git log
+git commit -m "Adding home, end and delete keys"
+git push origin main
+ls
+zd
+cd Go/
+ls
+cd linkedlist/
+go run .
+cd
+zd
+cd .
+ls
+ls -a
+l
+cd Rust/
+l
+cd ascii_art/
+ls
+cd ..
+cl
+cd
+cd .config/
+ls
+zd 
+ls
+mkdir Myshell
+cd Myshell/
+ks
+ls
+cl
+mkdir src
+go mod init github.com/kmr-ankitt/Myshell
+go mod tidy
+ls
+cd src
+ls
+nv main.go
+cd ..
+ls
+git remote add origin https://github.com/kmr-ankitt/Myshell.git
+git push origin main
+go run .
+go run src/main.go
+git add .
+git commit -m "ls command execution"
+git push origin main
+go run .
+go run src/main.go
+cl
+go run src/main.go
+ls -l
+l
+ls -l
+go run src/main.go
+cl
+go run src/main.go
+ls
+git add .
+git commit -m "Adding cd and exit functionsality"
+git push origin main
+ls
+c
+cl
+go run src/main.go
+go get github.com/fatih/color<\n>
+go get github.com/fatih/color
+ls
+go run src/main.go
+exit
+go run src/main.go
+go get github.com/fatih/color
+go run src/main.go
+$GOPATH
+$env.GOPATH
+cd
+cd go/
+ls
+cd src/
+ls
+l -a
+go get github.com/fatih/color<\n>
+go install github.com/fatih/color<\n>
+go install github.com/fatih/color@latest<\n>
+cd 
+zd
+cd Myshell/
+go install github.com/fatih/color@latest<\n>
+cd src/
+go install github.com/fatih/color@latest<\n>
+go get -d github.com/fatih/color@latest<\n>
+go install github.com/fatih/color@latest<\n>
+go run src/main.go
+cd .
+cd ..
+go run src/main.go
+$GOPATH
+sl
+ls
+ls src/
+go mod tidy
+l
+cd ..
+ls
+cd Myshell/
+ls
+go run src/main.go
+cd
+cd go
+ls
+cd src/
+ls
+cd 
+cd /usr/local/go/
+ls
+cd pkg/
+ls
+cd tool/
+ls
+cd ..
+ls
+cd ..
+ls
+bat go.env
+ls
+cd pkg
+ls
+cd ..
+cd
+zd
+cd Myshell/
+ls
+go run src/main.go
+git add .
+git commit -m "Mixing some colours"
+git push origin main
+nvim 
+go run src/main.go
+go get github.com/mattn/go-shellwords<\n>
+go run src/main.go
+git pull
+git pull origin main
+nvim src/main.go
+ls
+git pull origin main
+bat go.mod
+ls
+git log
+qls
+ls
+git pull origin main -f
+ls
+bat go.mod
+nvim go.mod
+ls
+nvim go.sum
+ls
+cd src/
+ls
+go get github.com/chzyer/readline
+go run .
+ls
+cd mojMasti/
+ls
+cd dotfiles/
+ls
+cd .config/
+ls
+cd bat/
+ls
+nvim config
+ls
+nvim config
+cd themes/
+ls
+bat 
+cd ..
+bat config
+go run .
+b
+git add .
+git pull origin main -f
+ls
+nvim main.go
+cd ..
+ls
+nvim go.sum
+go run src/main.go
+ls
+nvim go.sum
+cd ..
+ls
+cd mojMasti/
+cd ..
+cd Myshell/
+ls
+go run src/main.go
+nvim src/main.go
+ls
+nu
+cd
+cd Dev
+ls
+zd
+ls
+cd Myshell/
+ls
+go build src/main.go
+./main
+nvim README.md
+git add .
+git commit -m "Updating readme"
+git push origin main
+zd
+cd mojMasti/
+ls
+rm Myshell/
+ls
+cd ..
+ls
+rm -rf mojMasti/
+ls
+cd myscripts/
+ls
+cd ..
+rm myscripts/
+ls
+zd
+ls
+cd Myshell/
+ls
+go run src/main.go
+cd Dev
+cd Myshell/
+go clean
+ls
+rm main
+ls
+git add .
+git commit -m "Removing compiled files"
+git push origin main
+cd Myshell/
+ls
+cd Rust/
+ls
+cd DEv
+zd
+cd Rust/
+ls
+cd ascii_art/
+ls
+rm alka.png
+ls
+cd src/
+ls
+nvim main.rs
+cd ..
+cargo run
+clear
+cd
+nvim src/main.go
+cd ..
+cd Rust/ascii_art/
+ls
+cargo run
+cd ..
+b
+ls
+cd Myshell/
+ls
+go run src/main.go
+ls
+nvim src/main.go
+zd
+cd Myshell/
+git pull origin main
+cd Myshell/
+ls
+nvim README.md
+git add .
+git commit -m "prequisites"
+git push origin main
+zd
+ls
+cd WebDev/
+ls
+l
+cd Bootcamp/
+ls
+cd image/
+ls
+cd ..
+ls
+cd ..
+sl
+ls
+cd Fresh
+ls
+cd Dump/
+ls
+cd ..
+ls
+open .
+zd
+cd
+cd .config/
+cd nushell/
+ls
+nvim config.nu
+l
+b
+ls
+cd 
+cd Dev
+ls
+cd dotfiles/
+ls
+mv .git/ ../../.config/
+cd
+cd .config/
+cd
+ls
+cd Dev
+web
+zd
+ls
+cd
+cd Documents/
+ls
+cd
+zd
+ls
+cd dotfiles/
+ls
+bat starship.toml
+ls
+bat tmux_with_alacritty.sh
+bat
+sudo apt install bat
+ls
+open .
+cd
+nu
+ls
+cd 
+cd .config/
+cd myscripts/
+ls
+cd startup_scripts/
+ls
+bat set_performance_mode_by_default
+ls
+cd
+cd .config/
+ls
+cd myscripts/
+ls
+bat tmux_with_alacritty.sh
+ls
+zd
+cd dotfiles/
+ls
+bat .zoxide.nu
+rm .zoxide.nu
+mv .zoxide.nu ../../.config/
+git pull
+ls
+cd .config/
+ls
+cd alacritty/
+ls
+nvim alacritty.toml
+bat alacritty.yml
+bat alacritty.to
+nvim alacritty.yml
+bat alacritty.to
+bat alacritty.toml
+cd .config/alacritty/
+ls
+bat alacritty.toml
+cd
+toucheg
+bat alacritty.toml
+cd
+cd Downloads/
+ls
+cd dotfiles/
+;ls
+ls
+cd ./.git/
+ls
+cd. .
+cd ..
+ls
+cd ./.config/
+ls
+cd
+sudo add-apt-repository ppa:touchegg/stable<\n>
+ls
+flatpak install flathub com.github.joseexposito.touche
+sudo apt install gnome-session
+ls
+zd
+ls
+git clone https://github.com/kmr-ankitt/bfg.git
+git config --global credential.helper store<\n>
+git pull
+ls
+git clone https://github.com/kmr-ankitt/Brainfuck-go/<\n>cd Brainfuck-go
+git config --global credential.helper store<\n>
+git pull
+git push
+ls
+cd
+nvim .git-credentials
+zd
+ls
+cd
+ls
+rm Brainfuck-go/
+ls
+cd Dev
+ls
+git clone https://github.com/kmr-ankitt/Brainfuck-go/<\n>cd Brainfuck-go
+ls
+cd ..
+ls
+cd Brainfuck-go/
+ls
+go
+udo wget https://golang.org/dl/go1.16.5.linux-amd64.tar.gz
+sudo wget https://golang.org/dl/go1.16.5.linux-amd64.tar.gz
+go run src/main.go
+go
+sha256sum go1.16.5.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.16.5.linux-amd64.tar.gz
+sudo chown -R root:root /usr/local/go
+mkdir -p $HOME/go/{bin,src}
+ls
+rm go1.16.5.linux-amd64.tar.gz
+ks
+l
+cd .git
+ls
+xcd
+cd
+ls
+zd
+ls
+zd
+ls
+git clone https://github.com/kmr-ankitt/Zealot.git
+ls
+git clone https://github.com/kmr-ankitt/Cax.git
+ls
+cd dotfiles/
+ls
+bat mimeapps.list
+ls
+rm 
+ls
+cd ..
+ls
+cd
+ls
+nivm
+nvim
+cd Downloads/
+git clone https://github.com/vinceliuice/WhiteSur-icon-theme.git
+cd WhiteSur-icon-theme/
+ls
+./install.sh
+cd Downloads/
+ls
+git clone https://github.com/Itz-Abhishek-Tiwari/pop-os-dock-application-color-changer.git
+cd pop-os-dock-application-color-changer/
+./install.sh
+sudo apt install code
+code
+sudo apt update code
+sudo apt update
+sudo apt upgrade
+zd
+git clone https://github.com/flancast90/wifi-bf.git
+cd wifi-bf/
+ls
+python3 src/__main__.py -verbose
+sudo python3 src/__main__.py -verbose
+sudo python3 src/__main__.py -
+sudo python3 src/__main__.py -v
+ls
+rm misha.html
+zd
+ls
+cd
+cd .config/nushell/
+nvim ./config.nu
+cd ..
+git status
+cd ..
+cd .config/
+ls
+cd
+zd
+ls
+cd dotfiles/
+ls
+cp .git/ ../../.config/
+copy .git/ ../../.config/
+cd .config/
+ls
+l
+git status
+git add nushell/ pop-shell/ 
+git push origin main
+git commit -m "Nushell new shortcut and popshell"
+git-credential-manager-core configure<\n>
+ls
+cd Dev
+ls
+git clone https://github.com/kmr-ankitt/Piscan-portfolio.git
+cd Piscan-portfolio/
+ls
+nvim README.md
+git add .
+git commit -m "Updating README"
+git push origin main
+cd
+sudo apt remove git-credential-manager 
+sudo apt install plocate
+sudo apt autoclean
+zp
+cd
+zp
+zl
+nvim .config/nushell/config.nu
+cd
+cd .config/
+git add nushell/ 
+git commit -m "Updating new shortcut"
+git push origin main
+cd
+zp
+ls
+cd
+cd .config/
+ls
+cd alacritty/
+ls
+zp
+cd dotfiles/
+ls
+cd .config/alacritty/
+nvim alacritty.yml
+cd
+locate nushell
+nvim alacritty.yml
+ls
+cd
+nvim .config/nushell/config.nu
+nvim .config/alacritty/alacritty.yml
+chsh
+which nu
+nvim .config/alacritty/alacritty.yml
+cd .config/
+ls
+cd alacritty
+ls
+nvim alacritty.toml
+ls
+cd alacritty/
+ls
+nvim alacritty.toml
+nvim alacritty.yml
+nvim alacritty.toml
+zd
+cd
+web
+zd
+ls
+mkdir Web
+cd Web
+mkdir Zips
+rm Zips/
+mkdir zips
+cd ..
+cd
+nvim .config/nushell/config.nu
+cd .config/
+git add nushell/
+git commit -m "Updating new shortcut"
+git pu
+git push origin main
+cd
+mkdir Dev/Web/Fresh
+web
+ls
+zd
+ls
+cd Web/ls
+cd Web/
+ls
+web
+cd
+web
+ls
+cd ..
+ls
+mv zips/ Fresh/
+ls
+cd Fresh/
+ls
+unzip 11.2+Bootstrap+Components.zip
+ls
+mv 11.2+Bootstrap+Components.zip zips/
+ls
+code `11.2 Bootstrap Components/`
+ks
+ls
+unzip 11.3+TinDog+Project.zip
+ls
+mv 11.3+TinDog+Project.zip zips/
+ls
+code `11.3 TinDog Project/`
+ls
+cd `11.3 TinDog Project/`
+ls
+bat README.md
+rm README.md
+ls
+cd ..
+ls
+cd `11.3 TinDog Project/`
+ls
+cd ..
+ls
+cd ..
+ls
+mkdir web-projects
+cd ..
+cd
+web
+ls
+cp `11.3 TinDog Project/` ../web-projects/
+cp `11.3 TinDog Project/` ../web-projects/ -r
+cd ..
+ls
+cd web-projects/
+ls
+git init
+open .
+ls
+cd `11.3 TinDog Project/`
+ls
+cd ..
+ls
+git add .
+git commit -m "TinDog project"
+git remote add origin https://github.com/kmr-ankitt/web-projects.git
+git push origin main
+git status
+git branch -M main
+git st
+git status
+git push origin main
+ls
+web
+ls
+cd
+zd
+ls
+cd Cax/
+ls
+nvim src/
+zd
+ls
+mkdir go
+ls
+cd go
+ls
+nvim main.go
+ls
+sudo snap remove nvim 
+sudo add-apt-repository ppa:neovim-ppa/unstable<\n>sudo apt-get update<\n>sudo apt-get install neovim
+nvim main.go
+cd
+cd .config/
+cd nvim/
+ls
+cd ..
+cd
+sudo apt remove nvim
+sudo snap remove nvim
+sudo snap remove nvim 
+nvim
+locate nvim
+which nvim
+rm /usr/bin/nvim
+sudo rm /usr/bin/nvim
+ls
+nvim
+nv
+ld
+ls
+cd nvim.bak/
+ls
+mv * ../nvim/
+ls
+cd ..
+rm nvim.bak/
+ls
+nvim
+ls
+cd
+;a
+ls
+web
+ls
+cd
+zd
+cd Dev
+ls
+cd go/
+ls
+nvim main.go
+cd
+cd .config/nvim
+ls
+nvim init.lua
+nvim
+nvim init.lua
+ls
+nvim
+ls
+cd
+zd
+cd go/
+ls
+which query
+locate query.lua
+nvim /home/ankit/.local/share/nvim/lazy/nvim-treesitter/lua/nvim-treesitter/query.lua
+ls
+cl
+locate query.lua
+cd .local/share/nvim
+ls
+rm lazy
+ls
+cd ..
+ls
+rm nvim 
+ls
+rm nvim.bak
+ls
+sudo snap remove nvim 
+which nvim
+locate nvim
+nvim main.go
+nvim
+cd
+locate nvim
+:q1
+rm .config/nvim/
+ls
+ls /home/ankit/snap/alacritty/common/.cache/nvim
+cd /home/ankit/snap/alacritty/common/.cache/nvim
+ls
+cd ..
+ls
+cd nvim
+ls
+cd luac/
+ls
+cd ..
+nvim
+ls
+zd
+ls
+cd go/
+nvim main.go
+shutdown now
+zd
+ls
+cd go/
+nvim main.go
+zd
+cd Cax/
+ls
+nvim src/cax.c
+git add .
+git commit -m "row insert"
+git push origin main
+ls
+web
+ls
+cd ..
+ls
+cd web-projects/
+ls
+mkdir Portfolio
+cd Portfolio/
+l
+cd ..
+code Portfolio/
+zd
+cd Piscan-portfolio/
+ls
+cd images/
+ls
+cp ankit.png ../../Web/web-projects/Portfolio/images/
+web
+cd ..
+cd web-projects/
+ls
+code Portfolio/
+zd
+ls
+web
+ls
+cd .
+cd .cd ..
+cd ..
+ls
+cd web-projects/\
+cd web-projects/
+ls
+cd Portfolio/
+ls
+chrome index.html
+brave-browser index.html
+flatpak install flathub com.obsproject.Studio
+sudo apt install mpv
+ls
+cd 
+cd .config/
+ls
+cd
+zd
+ls
+cd go
+ls
+cd ..
+ls
+cd go/
+ls
+nvim main.go
+rm *;
+ls
+cd ..
+rm go/
+ls
+zdd
+zd
+ls
+cd Cax/
+ls
+nvim src/
+./cax
+./cax Makefile
+nv src/cax.c
+maek
+make
+./ca
+./cax
+nv src/cax.c
+make
+nv src/cax.c
+mkae
+make
+./cax
+ls
+./cax README.md
+ls
+bat README.md
+nv README.md
+make clean
+ls
+nv src/cax.c
+make
+./cax README.md
+./cax
+make clean
+ls
+git add .
+git commit -m "Backspace and inset key"
+git push origin main
+cl
+make
+nv src/cax.c
+./cax
+ls
+rm Piscan.cax
+make clean
+ls
+git add .
+git commit -m "Save and save as"
+git push origin main
+cl
+ls
+what 
+echo
+echo what
+ls
+js
+index.js
+nv index.js
+ls
+cd go
+ls
+cd
+zd
+l
+web
+ls
+unzip DOM+Challenge+Starting+Files.zip
+ls
+mv DOM+Challenge+Starting+Files.zip zips/
+ls
+cd `DOM Challenge Starting Files/`
+ls
+code .
+ls
+cd ..
+ls
+cd __MACOSX/
+ls
+cd `DOM Challenge Starting Files/`
+ls
+cd ..
+b
+rm __
+rm __MACOSX/
+ls
+unzip Dicee+Challenge+-+Starting+Files.zip
+ls
+mkdir DiceChallenge
+ls
+mv dicee.html images/ styles.css DiceChallenge/
+ls
+mv Dicee+Challenge+-+Starting+Files.zip zips/
+ls
+code DiceChallenge/
+cd ..
+ls
+cd web-projects/
+ls
+mv ../Fresh/
+ls
+mv ../Fresh
+mv Drum+Kit+Starting+Files.zip ../Fresh
+b
+cd Fresh/
+ls
+unzip Drum+Kit+Starting+Files.zip
+ls
+mv __MACOSX/ Drum+Kit+Starting+Files.zip zips/
+mv `Drum Kit Starting Files/` ../web-projects/
+ls
+b
+cd web-projects/
+;s
+l
+code Portfolio/
+code `Drum Kit Starting Files/`
+ls
+web
+ls
+cd ..
+ls
+cd web-projects/
+ls
+nvim `Drum Kit Starting Files/`
+c `Drum Kit Starting Files/`
+cd `Drum Kit Starting Files/`
+code .
+ls
+cd ..
+ls
+git add .
+git commit -m "Drumkit website"
+git push origin main
+ls
+cd ..
+ls
+cd
+ls
+sl
+l
+zl
+sl
+zl
+ls
+totem
+l
+web
+ls
+mkdir jQuery
+cd jQuery/
+code .
+cd ..
+b
+ls
+cd web-projects/
+ls
+mv Simon+Game+Challenge+Starting+Files.zip ../Fresh/
+cd ../Fresh/
+ls
+unzip Simon+Game+Challenge+Starting+Files.zip
+ls
+rm __MACOSX/
+ls
+mv Simon+Game+Challenge+Starting+Files.zip zips/
+mv `Simon Game Challenge Starting Files/` ../web-projects/
+b
+cd web-projects/
+ls
+code `Simon Game Challenge Starting Files/`
+b
+cd Fresh/
+unzip Simon+Game+Challenge+Step+3+Answer.zip
+l
+mv Simon+Game+Challenge+Step+3+Answer.zip zips/
+code `Simon Game Challenge Step 3 Answer/`
+b ../web-projects/
+b /web-projects
+b
+ls
+cd web-projects/
+code `Simon Game Challenge Starting Files/`
+atom
+wwb
+web
+ls
+cd ..
+ls
+cd web-projects/
+ls
+cd `Simon Game Challenge Starting Files/`
+ls
+live-server index.html
+zd
+zp
+git clone https://github.com/tapio/live-server<\n>cd live-server<\n>npm install # Local dependencies if you want to hack<\n>npm install -g # Install globally
+npm audit fix --force
+cl
+pwd
+live-server 
+zp
+ls
+rm live-server/
+ls
+web
+ls
+cd ..
+ls
+cd web-projects/
+ls
+c `Simon Game Challenge Starting Files/`
+cd `Simon Game Challenge Starting Files/`
+c .
+b
+cd Fresh/
+l
+unzip Simon+Game+Challenge+Step+7+Answer.zip
+l
+mv Simon+Game+Challenge+Step+7+Answer.zip zips/
+code `Simon Game Challenge Step 7 Answer/`
+unzip Simon+Game+Challenge+Step+8+Answer.zip
+wbe
+web
+ls
+unzip Simon+Game+Challenge+Completed.zip
+ls
+code Simon+Game+Challenge+Completed.zip
+code Simon+Game+Challenge+Completed
+code `Simon Game Challenge Completed/`
+ls
+mv Simon+Game+Challenge+Step+10+Answer.zip Simon+Game+Challenge+Completed.zip Simon+Game+Challenge+Step+8+Answer.zip zips/
+ls
+cd ..
+ls web-projects/
+ls
+cd web-projects/
+ls
+clap
+ls
+zd
+cd
+web
+ls
+cd ..
+ls
+cd web-projects/
+ls
+cd `Simon Game Challenge Starting Files/`
+ls
+nvim .
+nvim
+ls
+bat defaults
+nvim
+ls
+ls
+cd ..
+ls
+cd ..
+ls
+cd mason/
+ls
+cd .
+ls
+cd ..
+ls
+rm lazy/
+rm *
+ls
+cd
+cd .config/
+ls
+cd nvim/
+ls
+cd ..
+rm nvim/
+ls
+cd
+cd .local/share/
+ls
+rm nvim/
+cd
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim<\n>
+git clone https://github.com/NvChad/starter ~/.config/nvim and nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim ; nvim
+ls
+cd .config/nvim/
+ls
+rm ./.git/
+ls
+nvim .
+ls
+web
+mkdir GSAP
+cd GSAP/
+ls
+code  .
+ls
+b
+ls
+cd web-projects/
+ls
+git add .
+git commit -m "Simon Game"
+git push origin main
+git add .
+git commit -m "GSAP Animations"
+git push origin main
+ls
+npm
+sudo apt-get install python-software-properties <\n>
+curl -fsSL https://deb.nodesource.com/setup_22.x -o nodesource_setup.sh
+sudo -E bash nodesource_setup.sh
+sudo apt-get  update 
+sudo -E bash nodesource_setup.sh
+sudo apt-get install -y nodejs
+node -v
+node
+node -v
+sudo apt remove nodejs
+sudo apt autoclean
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.3/install.sh | bash
+nvm -version
+nvm --version
+web
+ls
+unzip 2.1+Using+Node.zip
+ls
+mv 2.1+Using+Node.zip zips/
+ls
+c `2.1 Using Node/`
+cd `2.1 Using Node/`
+b
+ls
+code `2.1 Using Node/`
+ls
+node index.js
+cd
+web
+ls
+web
+ls
+code `2.1 Using Node/index.js`
+web
+cd `2.1 Using Node/`
+unzip 2.2+Native+Modules.zip
+ls
+mkdir zips
+ls
+mv 2.2+Native+Modules.zip zips/
+code `2.2 Native Modules/`
+cl
+node index.js
+bat message.txt
+node index.js
+unzip 2.3+NPM.zip
+mv 2.3+NPM.zip zips/
+code `2.3 NPM/`
+npm init
+npm i sillyname
+node index.js
+npm install superheroes<\n>
+node index.js
+unzip 2.4+QR+Code+Project.zip
+ls
+mv 2.4+QR+Code+Project.zip
+mv 2.4+QR+Code+Project.zip zips/
+ls
+code `2.4 QR Code Project/`
+npm install --save inquirer<\n>
+npm install qr-image<\n>
+node index.js
+npm init -y
+npm init
+node index.js
+ls
+web
+ls
+mkdir ExpressServer
+cd ExpressServer/
+c 
+touch index.js
+npm init -y
+npm i express
+nvim .
+sudo lsof -i -P -n | grep LISTEN
+grep
+node index.js
+rm *
+touch index.js
+npm init -y
+npm i express
+node index.js
+nodemon index.js
+npm i -g nodemon
+nodemon index.js
+ls
+b
+ls
+b
+ls
+unzip 3.3+Postman.zip 
+mv 3.3+Postman.zip zips/
+ls
+code `3.3 Postman/`
+ls
+nodemon index.js
+node index.js
+npm init -y
+npm i express 
+ls
+cd Postman/
+ls
+zp
+ls
+cd postman-linux-x64/
+ls
+cd Postman/
+ls
+./Postman
+sudo mkdir -p /opt/apps/
+cd ..
+rm postman-linux-x64/
+tar -xzf postman-linux-x64.tar.gz
+l
+sudo mv Postman /opt/apps/
+sudo ln -s /opt/apps/Postman/Postman /usr/local/bin/postman
+postman
+nodemon index.js
+cl
+neofetch
+cl
+ls
+unzip 3.4+Middleware.zip
+ls
+mv 3.4+Middleware.zip zips/
+code `3.4 Middleware/`
+npm install 
+nodemon index1.js
+npm install body-parser
+nodemon index1.js
+postman
+npm i morgan
+nodemon index1.js
+nodemon index2.js
+ls
+web
+ls
+s
+ls
+cl
+ls
+web
+ls
+code `3.4 Middleware/`
+nodemon index2.js
+nodemon index3.js
+nodemon index4.js
+npm i
+nodemon index4.js
+unzip 3.5+Secrets+Project.zip
+ls
+mv 3.5+Secrets+Project.zip zips/
+ls
+code `3.5 Secrets Project/`
+code `3.5 Secrets Project/`\
+code `3.5 Secrets Project/`
+npm i
+nodemon index.js
+ls
+unzip 4.0+EJS.zip
+ls
+mv 4.0+EJS.zip zips/
+ls
+code `4.0 EJS/`
+mkdir EJS
+code EJS/
+npm init -y
+mkdir views
+cd views/
+touch index.js
+cd ..
+npn i express
+npn install express
+npm i express
+npm i ejs
+code `4.0 EJS/`
+npm i body-parser
+npm -h
+npm remove
+npm remove body-parser
+nodemon index.js
+unzip  4.1+EJS+Tags.zip
+ls
+mv 4.1+EJS+Tags.zip zips/
+code `4.1 EJS Tags/`
+npm i
+nodemon index.js
+ls
+node i 
+node install
+nodemon index.js
+node index.js
+sudo apt install gping
+sudo snap install gping
+web
+ls
+nodemon index.js
+reboot
+ls
+web
+ls
+code `4.1 EJS Tags/`
+nodemon index.js
+ls
+unzip 4.2+Passing+Data.zip
+mv 4.2+Passing+Data.zip zips/
+l
+code 4.2/
+npm i
+nodemon index.js
+nodemon solution.js
+nodemon index.js
+nodemon solution.js
+nodemon index.js
+unzip  4.3+EJS+Partials.zip
+ls
+mv 4.3+EJS+Partials.zip zips/
+code `4.3 EJS Partials/`
+npm i
+node index.js
+nodemon index.js
+unzip 4.4+Band+Generator+Project.zip
+ls
+mv 4 4.4+Band+Generator+Project.zip zips/
+mv 4.4+Band+Generator+Project.zip zips/
+code `4.4 Band Generator Project/`
+npm i
+cl
+nodemon index.js
+npm i
+nodemon index.js
+nodemon solution.js
+nodemon index.js
+ls
+mv `4.4 Band Generator Project/` ../../web-projects/
+cd ..
+;s
+l
+cd ../web-projects/
+l
+open .
+open
+o
+open GSAP/
+nvim /home/ankit/.config/nushell/config.nu
+oo
+o
+open .
+nvim /home/ankit/.config/nushell/config.nu
+ls
+web
+ls
+cd ..
+ls
+cd ..
+ls
+cd Fresh/
+ls
+cd back/
+ls
+b
+la
+cd web-projects/
+ls
+git add .
+git commit -m "First backend project"
+git push origin main
+ls
+cd ..
+ls
+cd
+zd
+;s
+ls
+web
+b
+ls
+cd web-projects/
+ls
+cd
+zd
+ls
+code Piscan-portfolio/
+ls
+mkdir Blogg.
+cd Blogg./
+ls
+git init .
+git remote add origin https://github.com/kmr-ankitt/Blogg.git
+touch README.md
+nvim README.md
+git add .
+git commit -m "First push"
+git push origin main
+git branch -M main
+git push origin main
+npm init 
+ls
+mkdir public
+ls
+nvim package.json
+ls
+touch index.js
+ls
+mkdir views
+ls
+zd
+ls
+cd
+web
+ls
+b
+ls
+b
+ls
+cd web-projects/
+ls
+code `4.4 Band Generator Project/`
+mkdir views/partials
+ls
+mkdir public/styles
+mkdir public/images
+ls
+touch public/styles/style.css
+ls
+touch views/partials/header.ejs
+touch views/partials/footer.ejs
+touch views/home.ejs
+touch views/about.ejs
+git add .
+git commit -m "configuring all items"
+git push origin main
+ls
+npm i express 
+ls
+git add .
+npm i body-parser
+git add .
+git commit -m "installing packages"
+ls
+code .
+ls
+mkdir public/font
+nodemon index.js
+ejs
+npm i ejs
+nodemon index.js
+ls
+git add .
+git commit "Backend work"
+git commit -m "Backend work"
+git add .
+git commit -m "First home page"
+git add .
+git commit -m "Home page styling"
+git add .
+git commit -m "gsap"
+git push origin main
+nvim README.md
+ls
+node index.js
+ls
+zd
+cd
+zd
+ls
+cd Blogg./
+c
+node index.js
+nodemon index.js
+npm i node-html-parser
+nodemon index.js
+npm remove node-html-parser
+nodemon index.js
+npm i method-override
+ls
+git add .
+git commit -m "Edit functionality"
+git add .
+git commit -m "delete mtd added "
+git add .
+git commit -m "fixing buttons"
+git add .
+git commit -m "Post page"
+git add .
+git commit -m "About page"
+ls
+git add .
+git commit -m "animations<\n>"
+git push origin main
+ls
+zd
+ls
+cd Blogg./
+nodemon index.js
+zd
+cd Blogg./
+git add .
+git commit -m "Adding some animations"
+git push origin main
+nodemon index.js
+npm i -g vercel<\n>
+vercel login
+vercel dev
+zd
+cd Blogg./
+bat package.json
+zd
+cd Blogg./
+ls
+nvim vercel.json
+git add .
+git commit -m "vercel"
+git push origin main
+code .
+git add .
+git commit -m "deployment setting"
+git push origin main
+nodemon index.js
+git add .
+git commit -m "Responsive bugs"
+git push origin main
+zd
+cd Blogg./
+nodemon index.js
+ls
+cd Blogg./
+cd Blogg/
+cd Blogg
+zd
+cd Blogg
+ls
+cd Blogg
+cd Blogg.
+ls
+cd Blogg
+cl
+ls
+code .
+nodemon index.js
+git add .
+git commit -m "bugs"
+git push origin main
+touch .gitignore
+open code .gitignore
+open .gitignore
+git add .
+git commit -m "git ignore"
+git status
+git push origin main
+ls
+c
+exit
+cd ..
+ls
+git clone https://github.com/emighostblue/blog.git
+cd blog/
+ls
+npm i
+nodemon index.js
+cd ..
+ls
+rm  blog/
+ls
+nu
+postman
+nodemon index.js
+git add .
+git commit -m "removing unecessary middlewares"
+git push origin main -u
+b
+bb
+bls
+l
+web
+ls
+b
+ls
+cd Blogg./
+la
+l
+nodemon index.js
+c
+nodemon index.js
+web
+cd
+zd
+cd Blogg./
+code 
+c
+cd
+web
+unzip 5.2+JSON.zip
+ls
+mv 5.2+JSON.zip zips/
+code `5.2 JSON/`
+nodemon solution.js
+ls
+node solution.js
+npm i
+nodemon solution.js
+nodemon index.js
+clear
+nodemon index.js
+nodemon solution.js
+nodemon index.js
+unzip 5.3+Axios.zip
+ls
+mv 5.3+Axios.zip zips/
+code `5.3 Axios/`
+npm i
+nodemon index.js
+nodemon solution.js
+nodemon index.js
+nodemon solution.js
+nodemon index.js
+zd
+nvim axios.js
+cd
+web
+ls
+mkdir moj
+cd moj/
+ls
+npm i -y
+npm init -y
+nvim package.json
+ls
+npm i axios
+npm i express
+nvim index.js
+b
+rm moj/
+ls
+unzip 5.4+API+Authentication.zip
+ls
+code Auth/
+npm i
+nodemon index.js
+nodemon solution.js
+nodemon index.js
+unzip  5.5+REST+APIs.zip
+ls
+mv 5.5+REST+APIs.zip zips/
+code `5.5 REST APIs/`
+npm o
+npm i
+nodemon index.js
+nodemon solution.js
+nodemon index.js
+unzip 5.6+Secrets+Project.zip
+ls
+mv 5.6+Secrets+Project.zip zips/
+ls
+code `5.6 Secrets Project/`
+npm i
+ls
+nodemon index.js
+sudo lsof -i -P -n | grep LISTEN
+kill 57459
+nodemon index.js
+ls
+z
+zf
+zd
+ls
+cd
+web
+ls
+code
+cd
+zd
+ls
+l
+mkdir Wedr
+cd Wedr/
+ls
+npm init 
+touch index.js
+mkdir public
+mkdir public/styles
+c
+mkdir views
+touch views/index.ejs
+ls
+npm i express
+npm i axios
+touch public/styles/style.css
+nodemon index.js
+sudo lsof -i -P -n | grep LISTEN
+kill 15252
+nodemon index.js
+npm i ejs
+nodemon index.js
+npm i body-parser
+nod
+zd
+cd 
+zd
+cd Wedr/
+c
+nodemon index.js
+npm install googlemaps<\n>
+b
+ls
+rm Wedr/
+sudo apt update && sudo apt upgrade
+sudo apt update ; sudo apt upgrade
+ls
+cd snap/
+ls
+cd
+zd
+ls
+zd 
+cd
+web
+ls
+unzip 6.0+DIY+API.zip
+ls
+mv 6.0+DIY+API.zip zips/
+code `6.0 DIY API/`
+postman
+sudo snap remove postman
+nodemon index.js
+postman
+cd
+zd
+cd
+web
+ls
+unzip 6.1+Blog+API+Project.zip
+ls
+code 6.1+Blog+API+Project/
+npm i 
+nodemon index.js
+npm i
+nodemon index.js
+nodemon solution.js
+nodemon server.js
+nodemon index.js
+cd
+zd
+cd Blogg./
+c
+cl
+cd
+nvim .config/nushell/config.nu
+web
+ls
+psql<\n>
+psql
+sudo apt remove psql
+sudo apt remove postgres
+sudo apt remove postgresql
+ls
+psql
+which psql
+cd /usr/bin/
+ls
+sudo rm psql
+ls
+psql
+cd
+ps
+apt
+apt insall postgresql postgresql-contrib
+apt install postgresql postgresql-contrib
+sudo apt install postgresql postgresql-contrib
+systemctl start postgresql
+systemctl start postgresql.service
+systemctl status postgresql.service
+..
+ls
+cd
+systemctl enable postgresql.service
+sudo -i -u postgres
+sudo apt remove postgresql
+sudo apt install postgresql postgresql-contrib
+sudo apt autoclean
+systemctl start postgresql
+systemctl status postgresql.service
+systemctl enable postgresql.service
+sudo -i -u postgres
+ls
+psql
+ls
+sudo apt remove postgresql
+sudo apt autoremove
+# Import the repository signing key:<\n>sudo apt install curl ca-certificates<\n>sudo install -d /usr/share/postgresql-common/pgdg<\n>sudo curl -o /usr/share/postgresql-common/pgdg/apt.postgresql.org.asc --fail https://www.postgresql.org/media/keys/ACCC4CF8.asc<\n>
+<\n># Create the repository configuration file:<\n>sudo sh -c 'echo "deb [signed-by=/usr/share/postgresql-common/pgdg/apt.postgresql.org.asc] https://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'<\n><\n># Update the package lists:<\n>sudo apt update<\n><\n># Install the latest version of PostgreSQL:<\n># If you want a specific version, use 'postgresql-16' or similar instead of 'postgresql'<\n>sudo apt -y install postgresql
+<\n># Create the repository configuration file:<\n>sudo sh -c 'echo "deb [signed-by=/usr/share/postgresql-common/pgdg/apt.postgresql.org.asc] https://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'<\n><\n># Update the package lists:<\n>sudo apt update<\n><\n># Install the latest version of PostgreSQL:<\n># If you want a specific version, use 'postgresql-16' or similar instead of 'postgresql'<\n>sudo apt -y install postgresql<\n># Create the repository configuration file:<\n>sudo sh -c 'echo "deb [signed-by=/usr/share/postgresql-common/pgdg/apt.postgresql.org.asc] https://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'<\n><\n># Update the package lists:<\n>sudo apt update<\n><\n># Install the latest version of PostgreSQL:<\n># If you want a specific version, use 'postgresql-16' or similar instead of 'postgresql'<\n>sudo apt -y install postgresql
+<\n># Create the repository configuration file:<\n>sudo sh -c 'echo "deb [signed-by=/usr/share/postgresql-common/pgdg/apt.postgresql.org.asc] https://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'<\n><\n># Update the package lists:<\n>sudo apt update<\n><\n># Install the latest version of PostgreSQL:<\n># If you want a specific version, use 'postgresql-16' or similar instead of 'postgresql'<\n>sudo apt -y install postgresql
+sudo apt autoremove
+ls
+psql
+sudo apt autoremove
+sudo apt install curl ca-certificates<\n>sudo install -d /usr/share/postgresql-common/pgdg<\n>sudo curl -o /usr/share/postgresql-common/pgdg/apt.postgresql.org.asc --fail https://www.postgresql.org/media/keys/ACCC4CF8.asc<\n>sudo sh -c 'echo "deb [signed-by=/usr/share/postgresql-common/pgdg/apt.postgresql.org.asc] https://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list'<\n>sudo apt update<\n>sudo apt -y install postgresql
+ls
+sudo rm pgdg.list
+sudo rm pgdg.sources
+cd
+sudo apt install -y postgresql-common<\n>sudo /usr/share/postgresql-common/pgdg/apt.postgresql.org.sh
+sudo apt update
+sudo apt install postgresql postgresql-contrib
+sudo systemctl start postgresql.service
+sudo -i -u postgres
+sudo -u postgres psql
+psql
+sudo apt install postgresql postgresql-contrib
+sudo apt remove postgresql
+sudo apt install postgresql<\n>
+sudo -u postgres psql<\n>
+sudo -u postgres psql
+export PATH=/usr/pgsql-9.2/bin:$PATH<\n>
+sudo -u postgres psql
+ls
+sudo apt remove postgresql
+sudo apt remove psql 
+sudo apt install postgresql<\n>
+sudo -u postgres psql<\n>
+sudo pgadmin4-setup<\n>
+sudo pgadmin4-setup
+sudo apt remove pgadmin
+sudo apt remove pgadmin4
+which pgadmin4
+which pgadmin
+locate pgadmin
+locate pgadmin4
+LOG_FILE = '/var/log/pgadmin4/pgadmin4.log'<\n>SQLITE_PATH = '/var/lib/pgadmin4/pgadmin4.db'<\n>SESSION_DB_PATH = '/var/lib/pgadmin4/sessions'<\n>STORAGE_DIR = '/var/lib/pgadmin4/storage'<\n>SERVER_MODE = True
+ls
+zd
+ls
+cd Piscan-portfolio/
+ls
+code .
+neofetch
+zd
+ls
+cd Cax/
+make
+make clan
+make clean
+git add .
+git commit -m "Searching feature"
+git push origin main -u
+nvim .
+ls
+web
+ls
+bat capitals.csv
+ls
+l
+ls
+sls
+ls
+l
+sl
+cl
+ls
+cd.cd.cd.
+cd..cd..cd..
+cd .. cd .. 
+cd .. ; cd ..
+ls
+cd .. ; cd ..
+ls
+cl
+firebase
+la
+cleae
+clear
+l
+neofetch
+clear
+ls
+curl
+curl --help
+curl www.google.com
+curl --help
+code
+git --help
+ls
+lg
+zd
+cd Cax/
+ls
+git log
+make
+make clena
+make clean
+searching part 2
+git add .
+git commmit -m "Searching part 2"
+git commit -m "Searching part 2"
+git add .
+git commit -m "Searching part 2"
+git push origin main 
+git add .
+ls
+git commit -m "Searching part 2"
+make
+make clean
+git add .
+git commit -m "Searching part 2"
+make
+nvim .
+./cax
+ls
+./cax README.md
+make clean
+ls
+git add .
+git commit -m "searching forward and backwards"
+nvim .
+ls
+nvim .bashrc
+ls
+zd
+ls
+cd Cax/
+ls
+./cax
+mkae
+make
+./cax
+make clean
+git add .
+git commit -m "Highligting numbers by red"
+make
+make clena
+make clean
+make
+make celan
+make clean
+git add .
+git commit -m "Refractor syntax highlighting"
+git push origin main 
+nvim src/cax.c
+nvim .
+cd ..
+ls
+git clone https://github.com/BisuBaniya/Rock-Paper-Scissors-Game.git
+cd Rock-Paper-Scissors-Game/
+ls
+brave-browser game.html
+nvim  game.js
+ls
+cd ..
+ls
+rm Rock-Paper-Scissors-Game/
+git clone https://github.com/BisuBaniya/amazon-homepage-clone.git
+cd amazon-homepage-clone/
+brave-browser index.html
+nvim style.css
+ls
+cd ..
+ls
+rm amazon-homepage-clone/
+ls
+cd Blogg./ls
+cd Blogg./
+ls
+c
+npm i
+nodemon index.js
+cd
+zd
+cd
+wbe
+web
+ls
+unzip  World+Capital+Quiz.zip
+ls
+code World+Capital+Quiz/
+npm i
+nodemon index.js
+npm i pg
+nodemon index.js
+ls
+mkdir zips
+mv World+Capital+Quiz/ zips/
+ls
+l
+ls
+mv World+Capital+Quiz/ zips/
+l
+ls
+web
+ls
+web
+ls
+mv World+Capital+Quiz.zip zips/
+mv zips/World+Capital+Quiz/ ../
+ls
+b
+ls
+mv World+Capital+Quiz/ back/
+ls
+cd back/
+ls
+mv World+Capital+Quiz/ ../postgres/
+cd
+web
+ls
+unzip 8.2+Postgres+READ.zip
+ls
+mv 8 8.2+Postgres+READ.zip z
+mv 8 8.2+Postgres+READ.zip zips/
+mv 8.2+Postgres+READ.zip zips/
+code `8.2 Postgres Read/`
+npm i
+nodemon index.js
+nodemon solution.js
+nodemon index.js
+bat world-food.csv
+ls
+unzip 8.3+Travel+Tracker.zip
+ls
+mv 8.3+Travel+Tracker.zip zips/
+ls
+code `8.3 Travel Tracker/`
+ls
+npm i
+cl
+nodemon index.js
+nodemon solution1.js
+nodemon index.js
+cl
+nodemon index.js
+nodemon solution2.js
+nodemon index.js
+c
+code
+code `8.3 Travel Tracker/`
+cd
+zd
+cd Cax/
+git log
+ls
+cd
+zd
+db
+dc
+cd
+web
+ls
+b
+ls
+b
+ls
+cd we
+cd web-projects/
+ls
+git log
+mkdir Calculator
+cd Calculator/
+ls
+c
+touch index.html
+touch style.css
+touch script.js
+ls
+cd ..
+rm Calculator/
+cd
+web
+code `8.3 Travel Tracker/`
+nodemon index.js
+npx
+npx kill port 3000
+nodemon index.js
+netstat -aon | findstr 3000<\n>
+sudo lsof -i -P -n | grep LISTEN
+kill 76472
+nodemon index.js
+unzip 8.5+Family+Travel+Tracker.zip
+ls
+mv 8.5+Family+Travel+Tracker.zip zips/
+ls
+code world-food.csv
+code `8.5 Family Travel Tracker/`
+npm o
+npm i
+nodemon index.js
+cl
+npm i
+nodemon index.ts
+node index.ts
+rm index.ts
+npm i
+ls
+b
+ls
+b
+ls
+b
+nodemon index.js
+nodemon solution.js
+b
+mv `8.5 Family Travel Tracker/` ../../web-projects/
+code `8.5 Family Travel Tracker/`
+cd
+web
+ls
+cd ..
+b
+ls
+cd web-projects/
+ls
+code `8.5 Family Travel Tracker/`
+cl
+nodemon index.js
+ls
+wbe
+web
+b
+cd web-projects/
+ls
+code
+nodemon index.js
+clear
+nodemon index.js
+git add .
+b
+ls
+git add .
+git commit -m "Travel Tracker"
+git push origin main 
+cdcdcdcdcdcd
+cd
+ad
+zd
+cd Cax
+ls
+git push origin main 
+neofetch
+zd
+ks
+cd Piscan-portfolio/
+ls
+c
+git add .
+git commit -m "Animation smoothness"
+git push origin main 
+zd
+cd Piscan-portfolio/
+c
+web
+b
+cd web-projects/
+code `8.5 Family Travel Tracker/`
+nodemon index.js
+sudo lsof -i -P -n | grep LISTEN
+kill 4428
+sudo lsof -i -P -n | grep LISTEN
+nodemon index.js
+ls
+cd
+web
+ls
+unzip Permalist+Project.zip
+l
+mv zips/
+mv Permalist+Project.zip zips/
+mv `8.6 Permalist Project/` ../../web-projects/
+b
+ls
+cd web-projects/
+ls
+code `8.6 Permalist Project/`
+npm i
+nodemon index.js
+nodemon solution.js
+nodemon index.js
+cl
+nodemon index.js
+nodemon solution.js
+nodemon index.js
+git add .
+git commit -m "Permalist: To do list"
+git push origin main 
+npm install dotenv
+touch .env
+touch .gitignore
+nodemon index.js
+npm install pg dotenv<\n>
+nodemon index.js
+code `8.5 Family Travel Tracker/`
+code `8.6 Permalist Project/`
+git add .
+git commit -m "Fix some issues"
+git push origin main 
+cd `8.5 Family Travel Tracker/`
+git add .
+git commit -m "Fix some issues"
+c
+git add .
+git commit -m "Fix some issues"
+git push origin main 
+web
+b
+cd web-projects/
+ls
+code `8.6 Permalist Project/`
+code `8.5 Family Travel Tracker/`
+git add .
+git commit -m "security"
+git rm -r --cached .env<\n>
+git add .
+git commit -m "security"
+git push origin main 
+ls
+b
+ls
+cd
+web
+b
+cd back/
+ls
+zd
+git clone https://github.com/EldarGljiva/Book-inventory.git
+cd Book-inventory/
+npm i
+nodemon index.js
+nodemon app.js
+ls
+b
+rm Book-inventory/
+ls;
+ls
+ls;
+cl
+zd
+ls
+cl
+mkdir Bookeepr
+cd Bookeepr/
+ls
+mkdir public/styles
+mkdir views
+mkdir views/partials
+touch app.js
+touch public/styles/styles.css
+touch views/index.ejs
+touch views/partials/header.ejs
+touch views/partials/footer.ejs
+npm init
+ls
+npm i express
+npm i pg
+npm i body-parser
+npm i axios
+npm i ejs
+npm i dotenv
+ls
+c
+git add .
+ls
+touch .env
+touch .gitignore
+git init
+ls
+l
+touch README.md
+c
+git add .
+git branch -M main
+git remote add origin https://github.com/kmr-ankitt/Bookeepr
+git remote add origin https://github.com/kmr-ankitt/Bookeepr.git
+rm .git/
+ls
+git init
+git add .
+git branch -M main
+git remote add origin https://github.com/kmr-ankitt/Bookeepr.git
+git commit -m "Setting up files"
+git push origin main 
+git add ,
+git add .
+git commit -m "privacy"
+git push origin main 
+git add .
+git commit -m "privacy"
+git push origin main 
+git push origin main -f
+git rm .env --cached<\n>git commit -m "Stopped tracking .env File"
+git rm node_modules/ --cached<\n>git commit -m "Stopped tracking .env File"
+git rm node_modules/ --cached -r<\n>git commit -m "Stopped tracking .env File" 
+git push origin main
+git add .
+git commit -m "Updating readme<\n><\n>"
+git push origin main
+c
+nodemon app.js
+c
+code
+web
+cd
+zd
+cd Bookeepr/
+ls
+c
+cl
+zd
+ls
+nodemon app.js
+cl
+nodemon app.js
+git add .
+git commit -m "hadlling input and output in database"
+git push origin main
+nodemon app.js
+lws
+ls
+zd
+l
+cd Bookeepr/
+ls
+c
+git pull
+git pull origin main
+bat README.md
+ls
+cl
+ls
+zd
+ls
+cd Bookeepr/
+ls
+c
+ls
+cl
+clear
+cl
+clear
+ls
+clear
+ks
+ls
+clear
+ls
+clear
+ls
+nodemon app.js
+git add .
+git commit -m "Post request compeleted"
+git push origin main
+nodemon app.js
+git add .
+git commit -m "Patch req "
+git push origin main
+ls
+zd
+;ls
+cd
+web
+ls
+cd
+zd
+ls
+cd Bookeepr/
+ls
+c
+ls
+cl
+nodem
+npm install method-override<\n>
+bat package.json
+npm remove method-override
+npm install method-override<\n>
+sudo apt-get update<\n>sudo apt-get install apt-transport-https<\n>wget -qO- https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo gpg --dearmor -o /usr/share/keyrings/dart.gpg<\n>echo 'deb [signed-by=/usr/share/keyrings/dart.gpg arch=amd64] https://storage.googleapis.com/download.dartlang.org/linux/debian stable main' | sudo tee /etc/apt/sources.list.d/dart_stable.list
+sudo apt-get update<\n>sudo apt-get install dart
+dart run
+flutter pub
+dart pub
+dart install
+dart
+dart run
+sudo apt-get install flutter
+sudo snap install flutter
+sudo snap install flutter --classic
+ls
+rm Spotify-AdKiller/
+zd
+git clone https://github.com/SecUpwN/Spotify-AdKiller.git
+rm Spotify-AdKiller/
+ls
+cd
+zp
+git clone https://github.com/SecUpwN/Spotify-AdKiller.git
+cd Spotify-AdKiller<\n>./install.sh
+sudo snap remove fluttre
+sudo snap remove flutter
+sudo apt-get remove dart
+cd
+spotify
+cd /bin/
+ls
+ls -f 
+ls
+find Spotify-AdKiller
+locate Spotify-AdKiller
+which Spotify-AdKiller
+ls
+cd
+zp
+ls
+cd Spotify-AdKiller/
+ls
+cd
+spotify
+zp
+ls
+cd Spotify-AdKiller<\n>./install.sh
+ls
+cd
+zd
+cd
+web
+cd
+zd
+cd Bookeepr/
+ls
+c
+cl
+git add .
+git commit -m "completed backend"
+git push origin main
+ls
+cd.
+b
+ls
+cd Blogg./
+ls
+cd public/
+ls
+cp fonts/ ../../Bookeepr/public/
+cp fonts/ ../../Bookeepr/public/ --r
+cp fonts/ ../../Bookeepr/public/ -r
+ls
+cd
+zd
+cd Bookeepr/
+ls
+cd
+zd 
+cd Blogg./
+ls
+nvim public/styles/style.css
+bat  public/styles/style.css
+nvim public/styles/style.css
+bat  public/styles/style.css
+cd
+git add .
+ls
+git commit -m "Fonts"
+b
+cd Blogg./
+nodemon start index.js
+nv
+cd
+zd
+cd Bookeepr/
+git add .
+git commit -m "First page styling"
+git add .
+git commit -m "Second page styling"
+git add .
+git commit -m "Completing styling"
+git push origin main
+git add .
+git commit -m "Documentation"
+git push origin main
+ls
+zd
+ls
+cd Bookeepr/
+nodemon start app.js
+git pull origin main
+cd 
+cd Blogg./
+ls
+zd
+cd Blogg./
+nodemon start index.js
+b
+cd Bookeepr/
+c
+b
+cd Blogg./
+l
+nvim README.md
+ls
+git rm node_modules/ --cached -r
+ls
+bat .gitignore
+git commit -m "Security and examples"
+git push origin main
+bat README.md
+nvim README.md
+s
+git add .
+git commit -m "preview"
+git push origin main
+web
+ls
+rm 9.1+Authentication+Lv.1.zip
+cd..
+cd ..
+ls
+mkdir auth
+nvim /home/ankit/.config/nushell/config.nu
+web
+ls
+unzip 9.1+Authentication+Lv.1.zip
+ls
+mkdir zips
+mv 9.1+Authentication+Lv.1.zip zips/
+ls
+rm ./.DS_Store
+code 9.1+Authentication+Lv.1/
+nodemon start index.js
+ls
+zd
+cd Blogg./
+nodemon start index.js
+c
+nodemon start index.js
+git add .
+git commit -m "Adding local database"
+c
+git add .
+git commit -m "Optimisation"
+git push origin main
+c
+git add .
+git commit -m "Memory Optimisation"
+git pus
+git push origin main
+node index.js
+git add .
+git commit -m "Fixes"
+git push origin main
+nvim README.md
+b
+cd Bookeepr/
+nvim README.md
+git add .
+git commit -m "Fixes"
+git push origin main
+ls
+zd
+cd
+web
+ls
+code 9.1+Authentication+Lv.1/
+cl
+npm i
+npm i bcrypt
+ls
+touch mian.go
+rm mian.go
+touch mian.asm
+rm mian.asm
+touch main.jsx
+rm main.jsx
+l
+nvim 9.1+Authentication+Lv.1/
+nvim 9.1+Authentication+Lv.1/.
+cd 9.1+Authentication+Lv.1/
+nodemon start index.js
+nv
+nodemon start index.js
+b
+uzip 9.3+Sessions+and+Cookies.zip
+unzip 9.3+Sessions+and+Cookies.zip
+ls
+nvim /home/ankit/.config/nushell/config.nu
+o
+open .
+version | transpose key value | to md --pretty
+web
+code 9.3+Sessions+and+Cookies/
+npm i
+nodemon start index.js
+zd
+mkdir moj
+ls
+cd moj
+c
+b
+rm moj/
+web
+code 9.3+Sessions+and+Cookies/
+nodemon start index.js
+ls
+unzip 9.5+Authentication+Lv.3.zip
+ls
+rm solution.js
+ls
+rm ./.DS_Store
+ls
+l
+code 9.5+Authentication+Lv.3/
+cl
+nodemon start index.js
+cl
+sudo apt remove vlc
+which Spotify-AdKiller
+locate Spotify-AdKiller
+rm /home/ankit/Downloads/Spotify-AdKiller/
+ls
+locate Spotify-AdKiller
+rm /home/ankit/.config/Spotify-AdKiller/
+locate Spotify-AdKiller
+cd  /home/ankit/.config
+ls
+cd
+zd
+cd
+zp
+ls
+locate Spotify-AdKiller
+ls
+zd
+ls
+rm tuxkarma.co/
+ls
+locate Spotify-AdKiller
+rm /home/ankit/.config/Spotify-AdKiller
+rm /home/ankit/Downloads/Spotify-AdKiller
+locate Spotify-AdKiller
+sudo rm -rf man /home/ankit/.config/Spotify-AdKiller
+sudo rm -rf /home/ankit/.config/Spotify-AdKiller
+ls
+locate Spotify-AdKiller
+nodemon start index.js
+ls
+cd
+web
+nvim /home/ankit/.config/nushell/config.nu
+ls
+web
+zd
+ls
+cd Web/
+ls
+cd Fresh/
+ls
+mkdir react
+cd
+web
+ls
+npm create vite@latest my-react-app --template react<\n><\n>
+ls
+cd my-react-app/
+ls
+npm i
+npm run dev
+ls
+c
+npm run dev
+b
+rm my-react-app/
+ls
+zd
+ls
+sudo apt update
+sudo apt-get update
+sudo apt upgrade
+start
+ls
+start .
+cl
+cd Cax/
+ls
+make
+make clean
+git add .
+git commit -m "Colourful searches"
+make
+make clean
+git add .
+git commit -m "syntax highlighting fixes"
+maek
+make
+make clean
+git add .
+git commit -m "Adding colourful numbers"
+make
+make cle
+make clean
+git add .
+git commit
+git push origin main
+curl void editorUpdateSyntax(erow *row) {<\n>  row->hl = realloc(row->hl, row->rsize);<\n>  memset(row->hl, HL_NORMAL, row->rsize);<\n>  int prev_sep = 1;<\n>  int i = 0;<\n>  while (i < row->rsize) {<\n>    char c = row->render[i];<\n>    unsigned char prev_hl = (i > 0) ? row->hl[i - 1] : HL_NORMAL;<\n>    if ((isdigit(c) && (prev_sep || prev_hl == HL_NUMBER)) ||<\n>        (c == '.' && prev_hl == HL_NUMBER)) {<\n>      row->hl[i] = HL_NUMBER;<\n>      i++;<\n>      prev_sep = 0;<\n>      continue;<\n>    }<\n>    prev_sep = is_separator(c);<\n>    i++;<\n>  }<\n>}
+ls
+git push origin main
+ls
+nv
+which nvim
+which neovim
+cd /usr/bin/
+ls
+find 
+find nvim
+ls
+bat nvim
+cd
+ls
+nvim qt
+qt
+ls
+locate nvim
+cd snap/
+ls
+cd nvim/
+ls
+cd 2819/
+ls
+cd ..
+ls
+cd 2819/
+l
+b
+ls
+cd 2823/
+l
+b
+ls
+cd
+ls
+cd go/
+ls
+cd
+zd
+ls
+mkdir golang
+rm golang/
+web
+sl
+code 293-keeper-app-part-1-challenge-start/
+cd 293-keeper-app-part-1-challenge-start/
+ls
+code 293-keeper-app-part-1-challenge/
+neofetch
+cl
+npm run dev
+b
+rm  *
+ls
+zd
+git clone https://github.com/BisuBaniya/React-project.git
+cd React-project/
+npm i
+npm start
+npm run
+npm run dev
+npm stor
+npm stop
+b
+rm React-project/
+ls
+web
+unzip keeper2.zip
+ls
+npm i
+npm r
+npm run dev
+npm run 
+npm start
+cl
+ls
+rm *
+ls
+zp
+ls
+git clone https://github.com/vinceliuice/WhiteSur-firefox-theme.git
+cd WhiteSur-firefox-theme/
+./install.sh
+cd
+zd
+cd Cax/
+ls
+nv
+git log
+nvim src/cax.c
+make
+mkae
+make
+make clean
+git add .
+git commit -m "Recognise filesystem"
+mkae
+make 
+./cax
+./cax README.md
+make
+make clean
+Plug 'jose-elias-alvarez/null-ls.nvim'<\n>
+sudo apt install shellcheck<\n>
+which init.vim
+locate init.vim
+cd /home/ankit/.config/nvim/
+ls
+cd lua
+ls
+cd plugins/
+ls
+b
+ls
+b
+ls
+b
+cd .local/share/nvim/
+ls
+cd
+cd .config/nvim/
+lls
+l
+mkdir autoload
+ls
+rm autoload/
+cd lua/pluginsl
+cd lua/plugins
+l
+nvim init.lua
+b
+ls
+l
+nvim src/cax.c
+b
+git clone https://github.com/benjamalegni/custom-nvchad.git
+cd custom-nvchad/
+ls
+start .
+b
+cd .config/nvim/
+start .
+cd
+zd
+cd Cax/
+nvim src/cax.c
+cd
+cd .config/nvim/
+ls
+cd ..
+git fetch
+git checkout origin/master -- nvim
+git checkout origin/main -- nvim
+git pull
+nivm
+nvm
+nvim
+git -C nvim pull
+ls
+nvim
+rm nvim
+cd
+zd
+l
+rm custom-nvchad/
+cd dotfiles/
+ls
+mv nvim /home/ankit/.config/
+nvim
+git clone https://github.com/NvChad/starter ~/.config/nvim --depth 1<\n>
+nvim
+ls
+b
+cd Cax/
+make
+make clean
+git add .
+git commit -m "Making string colourful"
+make 
+ls
+./cax README.md
+make clean
+git add .
+git commit -m "comment highlighting"
+l
+git add .
+git commit -m "highlighting keywords"
+git add .
+git commit -m "highlighting keywords"
+git add .
+git commit -m "Non printable characters"
+make
+nvim src/cax.c
+./cax README.md
+ls
+,/cax src/cax.c
+./cax src/cax.c
+ls
+make clena
+make clean
+git add .
+git commit -m "Winding up"
+git push origin main
+curl https://github.com/kmr=ankitt
+curl https://github.com/kmr-ankitt
+curl https://github.com/kmr-ankitt/Cax
+curl -h
+ls
+nvim README.md
+c
+gcc src/cax.c as cax
+gcc src/cax.c  cax
+g++ src/cax.c  cax
+make
+make clean
+source .bashrc
+b
+ls
+cd Zealot/
+ls
+cd example/
+ls
+cax forLoop.zlt
+b
+ls
+./cax ../Brainfuck-go/src/bfg.go
+ls
+cax
+source .bashrc
+git clone https://github.com/kmr-ankitt/Garbage-Collector
+ls
+./cax Garbage-Collector/src/main.c
+./cax .bashrc
+git add ..
+git add .
+rm Garbage-Collector/
+ls
+git add .
+git commit -m "Documentation"
+git push origin main
+start .
+./cax src/cax.c
+l
+git pull origin main
+cd
+mkdir moj
+cd moj
+ls
+b
+zd
+cd Cax/
+ls
+nvim .bashrc
+c
+ls
+cd
+rm moj/
+ls
+cd Cax
+zd
+cd Cax
+ls
+git add .
+git commit -m "fixes"
+git pull origin main
+git push origin main
+ls
+zd
+ls
+cd Piscan-portfolio/
+ls
+n
+cl
+brave-browser index.html
+git add .
+git commit -m "Fixes"
+nv
+c
+git add .
+git commit -m "Updating skills"
+git push origin main
+c
+git add .
+ls
+cd images/
+ls
+start
+start .
+git add .
+git commit -m "new service"
+git push origin main
+c
+bb
+b
+c
+git add .
+git commit -m "typo fix"
+git push origin main
+ls
+web
+npm create vite@latest piscan --template react
+ls
+cd piscan
+npm i
+npm run dev
+l
+ls
+cd src
+;s
+l
+nv
+b
+rm *
+sudo apt install trash-cli
+nvim /home/ankit/.config/nushell/config.nu
+nu
+nu
+nvim /home/ankit/.config/nushell/config.nu
+ls
+nvim /home/ankit/.config/nushell/config.nu
+ls
+zd
+rm moj/
+ls
+trash-list
+nvim /home/ankit/.config/nushell/config.nu
+ls
+zd
+ls
+restore
+nvim /home/ankit/.config/nushell/config.nu
+ls
+zd
+restore
+ls
+rm moj
+ls
+loacte .alacritty.conf\
+loacte .alacritty.conf
+locate .alacritty.conf
+locate .tmux.conf
+which tmux
+locate tmux
+tmux show -g | cat > ~/.tmux.conf<\n>
+cd
+cd .config/
+ls
+tmux
+cd
+cd .config/
+ls
+vim
+nv
+ls
+cd Postman/
+ls
+cd files/
+l
+ls
+cl
+cmatrix
+wen
+web
+unzip 35d8438f-25be-4771-81ac-549b504c5a2c.zip
+ls
+c
+npm i
+ls
+sl
+nvim /home/ankit/.config/alacritty/
+nvim /home/ankit/.config/alacritty/alacritty.toml
+nvim /home/ankit/.config/alacritty/alacritty.yml
+ls
+;s
+ls
+cd .config/
+ls
+cd myscripts/
+ls
+nvim tmux_with_alacritty.sh
+nvim startup_scripts/set_performance_mode_by_default
+ls
+b
+ls
+nvim alacritty/alacritty.yml
+b
+ls
+cd .config/
+tmux
+locate tmux
+cd /usr/share/doc/tmux/
+l
+bat README
+nvim example_tmux.conf
+bat README
+cd
+locate .tmux
+locate .tmux.conf
+sudo apt remove tmux
+sudo apt install tmux
+nvim .git-credentials
+locate .tmux.conf
+tmux
+sudo apt remove tmux
+sudo apt install tmux<\n>
+zp
+ls
+cd dotfiles/
+ls
+cd .config/
+ls
+cp tmux/ ../../../.config/
+cp tmux/ ../../../.config/ -r
+cd
+cd .config/tmux/
+ls
+what 
+cd .config/tmux/
+ls
+nvim tmux.conf
+ls
+nvim tmux.conf
+nvim .config/tmux/tmux.conf
+ls
+nu
+ls
+\ls
+l
+ls
+nvim .config/tmux/tmux.conf
+ls
+nvim .config/tmux/
+cd .config/tmux/
+ls
+cd plugins/
+ls
+b
+nvim tmux.conf
+cd plugins/tpm/
+ls
+l
+b
+ls
+cd tmux-sensible/
+ls
+b
+ls
+git add tmux/ alacritty/
+git commit -m "tmux alacritty config"
+git push origin main
+reboot
+code
+ls
+zd
+cd
+web
+ls
+rm -rf 35d8438f-25be-4771-81ac-549b504c5a2c.zip node_modules/ package-lock.json package.json public/ src/
+l
+trash-list
+trash
+trash -h
+(crontab -l ; echo "@daily $(which trash-empty) 30") | crontab -
+crontab -l<\n><\n>
+crontab
+crontab -h
+(crontab -l ; echo "@daily $(which trash-empty) 30") | crontab -
+crontab e
+crontab -e
+sudo crontab -u username -e
+sudo crontab -u ankit -e
+crontab -l
+(crontab -l ; echo "@daily $(which trash-empty) 30") | crontab -
+cl
+crontab -h
+crontab -r
+ls
+crontab -r
+crontab -l
+nu
+ls
+cl
+ls
+web
+ls
+uzip todolist.zip
+ls
+unzip todolist.zip
+lls
+l
+rm todolist.zip
+l
+mkdir ../../web-projects/Todolist
+l
+mv * ../../web-projects/Todolist/
+ls
+b
+cd web-projects/
+ls
+cd Todolist/
+ls
+c
+npm i
+node
+nodemon
+ls
+npm
+npm i
+nvim /home/ankit/.config/nushell/config.nu
+nvim /home/ankit/.config/alacritty/alacritty.yml
+ls
+neofetch
+node
+ls
+l
+ls
+node
+ls
+node
+# MacOS or Linux<\n>$env.PATH = ($env.PATH | split row (char esep) | prepend $"(pyenv root)/shims")<\n>
+# MacOS or Linux<\n>$env.PATH = ($env.PATH | split row (char esep) | prepend $"(pyenv root)/shims")<\n>
+# MacOS or Linux<\n>$env.PATH = ($env.PATH | split row (char esep) | prepend $"(pyenv root)/shims")
+nvim /home/ankit/.config/
+ls
+cd .config/
+ls
+cd tmux/
+nvim tmux.conf
+b
+ls
+cd alacritty/
+ls
+b
+cd nushell/
+ls
+nvim env.nu
+code env.nu
+ls
+node
+cd .config/
+cd nushell/
+ls
+nvim env.nu
+ls
+b
+ls
+git log
+ls
+node
+npm
+ls
+rm tmux/
+ls
+node
+zp
+ls
+cd dotfiles/
+ls
+cd .config/
+ls
+bat tmux/
+ls
+cd tmux/
+ls
+nvim tmux.conf
+ls
+tmux
+b
+zd
+cd dotfiles/
+;ls
+l
+git pull origin main
+ls
+cd tmux/
+ls
+nvim tmux.conf
+ls
+b
+zp
+ls
+cd dotfiles/
+ls
+cd .config/
+ls
+cd tmux/
+ls
+b
+ls
+cp tmux/ ../../../.config/ -r
+nvim /home/ankit/.config/tmux/tmux.conf
+ls
+node
+ls
+nvim /home/ankit/.config/tmux/
+ls
+cd .config/
+cd tmux/
+ls
+b
+ls
+cd myscripts/
+ls
+nvim tmux_with_alacritty.sh
+ls
+nvim startup_scripts/
+ls
+bat startup_scripts/set_performance_mode_by_default
+:q1
+ls
+cd
+zp
+cd dotfiles/
+ls
+cd .config/myscripts/
+ls
+bat tmux_with_alacritty.sh
+:q1
+cd
+zd
+ls
+cd
+cd .config/tmux/
+ls
+cd plugins/
+ls
+cd tmux-sensible/
+ls
+b
+cd plugins/tpm/
+ls
+l
+b
+ls
+b
+ls
+nvim starship.toml
+ls
+cd alacritty/
+ls
+nvim alacritty.toml
+ls
+b
+ls
+b
+node
+npm
+nvim .config/.zoxide.nu
+ls
+cd .config/tmux/
+b
+ls
+l
+bat .zoxide.nu
+b
+cd
+zp
+cd dotfiles/.config/
+ls
+l
+bat .zoxide.nu
+ls
+tmux
+cd
+rm .config/.zoxide.nu
+zp
+cd dotfiles/.config/
+cp .zoxide.nu /home/ankit/.config/
+ls
+cd
+cd .config/
+ls
+nvim .zoxide.nu
+node
+zp
+cd dotfiles/.config/
+b
+git pull origin main
+cd ./.config/
+b
+cd ./.config/
+ls
+l
+test -d ~/.linuxbrew && eval "$(~/.linuxbrew/bin/brew shellenv)"<\n>test -d /home/linuxbrew/.linuxbrew && eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"<\n>echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.bashrc
+ls
+cd .config/
+rm tmux/
+ls
+test -d ~/.linuxbrew && eval "$(~/.linuxbrew/bin/brew shellenv)"<\n>test -d /home/linuxbrew/.linuxbrew && eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"<\n>echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.bashrc
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+cd /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+cd /bin 
+ls
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+b
+cd
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+ccd/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+cd
+zp
+## Install Oh my Posh<\n>sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /usr/local/bin/oh-my-posh<\n>sudo chmod +x /usr/local/bin/oh-my-posh<\n><\n>## Download the themes<\n>mkdir ~/.poshthemes<\n>wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/themes.zip -O ~/.poshthemes/themes.zip<\n>unzip ~/.poshthemes/themes.zip -d ~/.poshthemes<\n>chmod u+rw ~/.poshthemes/*.json<\n>rm ~/.poshthemes/themes.zip
+cd dotfiles/
+cd .config/
+l
+bat .bashrc
+ls
+l
+cp .ohmyposh.nu .ohmyposh.omp.json dracula.qbtheme /home/ankit/.config/
+cd .config/
+ls
+rm .ohmyposh.nu .ohmyposh.omp.json dracula.qbtheme 
+cd
+sudo rm /usr/local/bin/oh-my-posh<\n>
+rm ~/.poshthemes
+## Remove the oh-my-posh binary<\n>sudo rm /usr/local/bin/oh-my-posh<\n><\n>## Remove the themes directory and its contents<\n>rm -rf ~/.poshthemes<\n>
+cd Pictures/l
+cd Pictures/
+ls
+cd Screenshots/
+ls
+rm *
+l
+b
+cd .config/
+ls
+l
+ls
+cd .config/
+ls
+l
+b
+ls
+l
+cd .config/
+ls
+l
+cd .config/
+l
+cd
+cd .config/
+l
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/uninstall.sh)"<\n>
+b
+l
+rm linuxbrew/
+sudo rm linuxbrew/
+sudo rm -rf linuxbrew/
+b
+ls
+l
+cd ankit/
+ls
+l
+nvim .profile
+nvim .bashrc
+ls
+l
+l;
+l
+web
+ls
+b
+cd web-projects/
+ls
+cd Todolist/
+ls
+c
+npm i
+npm run
+npm run dev
+npm run
+npm i
+npm -h
+npm rum src/index.js
+npm run
+npm run-script
+npm start
+ls
+c
+npm start
+ls
+l
+ls
+l
+sl
+b
+git add .
+git commit -m "todolist"
+git push origin main
+git commit -m "todolist"
+git push origin main
+sudo gparted<\n>
+sudo apt install gparted
+cd /var/lib/dpkg/
+ls
+bat lock-frontend
+l
+sudo bat lock-frontend
+bat
+sudo cat lock-frontend
+b
+cf
+cd
+ls
+cl
+:w
+;fasfdsaf
+dsf
+dsa
+f
+sf
+adsf
+as
+cl
+as
+as -l
+as -h
+as -help
+cl
+lmao
+ls
+neofetch 
+nu
+ls
+rm a.out
+ls
+zd
+ls
+cd
+web
+l
+code Keepr/
+cd Keepr/
+npm i
+npm install 
+npm start
+code
+sudo apt update
+sudo apt upgrade
+cd .local/bin/ls
+cd .local/bin/
+l
+b
+ls
+cd share/
+l
+cd
+locate adkiller
+locate spotify
+b
+ls
+b
+cd
+cd snap/
+ls
+cd spotify/
+ls
+b
+bl
+l
+nvm install 14<\n>nvm use 14<\n>
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash<\n>
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+<\n>wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+mkdir .nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+source ~/.bashrc
+web
+code
+cd Keepr/
+npm i
+rm -rf node_modules<\n>rm package-lock.json<\n>npm install<\n>
+npm i
+npm start
+npm run
+npm start
+npm i react-scripts
+ls
+l
+nvm 
+nvm
+ls
+web
+ls
+mv Keepr/ ../../web-projects/
+b
+cd web-projects/
+git add .
+git commit -m "Notes keepr"
+git push origin main
+web
+neofetch 
+sudo apt remove tmux
+ls
+neofetch 
+web
+bat sandbox.html
+code
+l
+clear
+ls
+zd
+mkdir Typescript
+ls
+cd Typescript/
+ls
+nv 
+sudo npm install -g typescript 
+npm
+nvm
+rm nvm 
+ls
+nodemon
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash<\n>
+mkdir /home/ankit/.nvm
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash<\n>
+source ~/.bashrc<\n>
+node -v
+nodemon
+npm install -g nodemon # or using yarn: yarn global add nodemon<\n>
+nvm update
+nvm
+nvim /home/ankit/.config/nushell/config.nu
+nvm
+ls
+l
+nvim .bashrc
+nvim /home/ankit/.config/nushell/config.nu
+ls
+cl
+zp
+ls
+cd dotfiles/.config/
+l
+cp tmux/ ../../../.config/ -r
+nvim /home/ankit/.config/tmux/tmux.conf
+ls
+echo
+lfsafjsdlkfj
+ls
+slj
+tmux
+which alacritty
+cp /snap/bin/alacritty /usr/share/terminfo/
+sudo cp /snap/bin/alacritty /usr/share/terminfo/
+ls
+tmux
+sudo rm /snap/bin/alacritty /usr/share/terminfo/
+sudo rm /snap/bin/alacritty /usr/share/terminfo/ -r
+sudo rm -rf /snap/bin/alacritty /usr/share/terminfo/ 
+apt install cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev libxkbcommon-dev python3
+sudo apt install cmake pkg-config libfreetype6-dev libfontconfig1-dev libxcb-xfixes0-dev libxkbcommon-dev python3
+cargo install alacritty
+zp
+git clone https://github.com/alacritty/alacritty.git<\n>cd alacritty
+rustup override set stable<\n>rustup update stable
+cargo build --release
+infocmp alacritty
+sudo tic -xe alacritty,alacritty-direct extra/alacritty.info
+infocmp alacritty
+sudo cp target/release/alacritty /usr/local/bin # or anywhere else in $PATH<\n>sudo cp extra/logo/alacritty-term.svg /usr/share/pixmaps/Alacritty.svg<\n>sudo desktop-file-install extra/linux/Alacritty.desktop<\n>sudo update-desktop-database
+gzip
+scdoc
+sudo apt install scdoc
+sudo mkdir -p /usr/local/share/man/man1<\n>sudo mkdir -p /usr/local/share/man/man5<\n>scdoc < extra/man/alacritty.1.scd | gzip -c | sudo tee /usr/local/share/man/man1/alacritty.1.gz > /dev/null<\n>scdoc < extra/man/alacritty-msg.1.scd | gzip -c | sudo tee /usr/local/share/man/man1/alacritty-msg.1.gz > /dev/null<\n>scdoc < extra/man/alacritty.5.scd | gzip -c | sudo tee /usr/local/share/man/man5/alacritty.5.gz > /dev/null<\n>scdoc < extra/man/alacritty-bindings.5.scd | gzip -c | sudo tee /usr/local/share/man/man5/alacritty-bindings.5.gz > /dev/null
+mkdir -p ~/.bash_completion<\n>cp extra/completions/alacritty.bash ~/.bash_completion/alacritty<\n>echo "source ~/.bash_completion/alacritty" >> ~/.bashrc
+ls
+tmux
+nvim /home/ankit/.config/tmux/tmux.conf
+l
+tmux
+tmux --h
+ux
+tmux
+ls
+l
+ls
+sudo npm install -g typescript 
+npm
+sud npm install -g typescript
+sudo npm install -g typescript
+npm
+npm i -g typescript
+tsc
+tsc -v
+zd
+cd Typescript/
+c
+cl
+touch intro.tsx
+rm intro.tsx
+touch intro.ts
+tsc inro.ts
+tsc intro.ts
+l
+touch variable.ts
+tsc variable.ts
+node variable.ts
+tsc variable.ts
+node variable.js
+touch function.ts
+tsc function.ts
+touch object.ts
+touch array.ts
+tsc object.ts
+rm clena
+rm clean
+trash -h
+trash-clear
+rm *.js
+npx
+cl
+tsc enum.ts
+node enum.js
+rm enum.js
+tsc enum.ts
+node enum.js
+rm enum.js
+cl
+sudo apt install gnome-network-displays<\n>
+flatpak run org.gnome.NetworkDisplays
+flatpak install flathub org.gnome.NetworkDisplays
+ls
+cl
+nu
+mkdir ts
+cd ts
+code -r
+code -r ts
+cd ts/
+c
+tsc init
+tsc --init
+npm init -y
+touch index.html
+mkdir src dist
+tsc src/index.ts
+tsc -w 
+npm start
+npm i -g lite-server
+npm i lite-server
+npm install lite-server
+tsc -w
+npm start
+web
+ls
+npm create vite@latest piscan --template react
+cd piscan/
+l
+web
+cd piscan/
+npm i
+l
+c
+pm i --save-dev @types/babel<\n><\n>npm i --save-dev @types/babel__core<\n><\n>npm i --save-dev @types/babel-generator
+npm i --save-dev @types/babel<\n><\n>npm i --save-dev @types/babel__core<\n><\n>npm i --save-dev @types/babel-generator
+npm run dev
+b
+npx create-react-app my-app
+l
+rm sandbox.html my-app/
+npx create-react-app piscann
+l
+cd piscann/
+npx i
+npm i
+l
+npm install react-scripts@latest
+l
+b
+rm piscann/
+cd  piscan/
+l
+ls
+l
+web
+ls
+b
+cd we
+cd web-projects/
+l
+cd Todolist/
+npm install @mui/material @emotion/react @emotion/styled
+cl
+cd
+web
+l
+rm *
+b
+ls
+zd
+mkdir Shopy
+cd Shopy/
+b
+rm Shopy/
+npm create vite@latest Shopie --template react
+zd
+cd Shopy/
+l
+cd Shopie/
+l
+npm i
+l
+ls
+npm run dev
+c
+cl
+npm i --save-dev @types/babel__template
+npm i --save-dev babel__template
+npm i --save-dev @types/babel__traverse
+npm remove  @types/babel__traverse
+npm remove --save-dev @types/babel__template
+git init
+git add .
+git branch -M main
+git remote add origin https://github.com/kmr-ankitt/Shopie.git
+git commit -m "repo init"
+git push origin main
+ls
+l
+git rm node_modules/ --cached -r
+git rm node_modules/ -r
+git rm node_modules/
+l
+git add .
+.gitignore
+touch .gitignore
+npm install @types/babel__generator @types/babel__template @types/babel__traverse --save-dev<\n>
+rm node_modules/
+npm i
+npm install @types/babel__generator @types/prop-types --save-dev<\n>
+rm node_modules/
+npm i
+git pull origin main
+git revert
+git revert HEAD
+git log
+git reset --hard HEAD<\n>
+rm node_modules/
+npm i
+git add .
+git commit -m "packages"
+git pull origin main
+cd src/
+l
+cd assets/
+l
+cd components/
+l
+cd ..
+rm *
+b
+mkdir components
+npm install -D tailwindcss
+npx tailwindcss init
+npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+npx tailwindcss -i ./src/index.css -o ./src/output.css --watch
+b
+npx tailwindcss -i ./src/input.css -o ./src/output.css --watch
+npx tailwindcss -i ./src/index.css -o ./src/output.css --watch
+npm remove tailwind
+npm install -D tailwindcss postcss autoprefixer<\n>npx tailwindcss init -p
+git add src/
+git commit -m "First Page skeleton"
+git add .
+git stag
+git reset
+git add index.html 
+git commit -m "title fix"
+git add .
+git commit -m "tailwind config"
+git push origin main
+npm install tailwindcss postcss autoprefixer<\n><\n>
+npx tailwindcss init -p<\n><\n>
+git add vite.config.ts 
+git commit -m "tailwind fix"
+git add index.html
+git reset
+git commit src/index.css
+git add src/index.css
+git commit -m "tailwind final fix"
+git push origin main
+b
+cd Blogg./
+l
+cd public/fonts/
+l
+cp * ../../../Shopie/public/fonts/
+b
+cd Shopie/
+git add public/ 
+git commit -m "fonts"
+git push origin main
+git add .
+git commit -m "firstPage styling "
+git push origin main
+ls
+cd Shopie/
+zd
+ls
+cd Shopie/
+c
+cl
+zd
+cd web-projects/
+npm install framer-motion
+npm install @nextui-org/react framer-motion
+npm remove framer-motion
+npm remove @nextui-org/react
+git add tailwind.config.js
+git commit -m "font config"
+npm install express cors node-fetch
+nodemon backend/server.ts
+npm install ts-node --save-dev<\n>
+npm start
+npm install axios
+npm start
+npm install concurrently
+npm start
+nodemon --exec ts-node backend/server.ts
+nodemon --exec ts-node backend/server.js
+npm start
+npm remove concurrently
+npm run dev
+git add backend/ package-lock.json package.json 
+git commit -m "Backend server"
+git add . 
+git commit -m "api fetchin"
+git push origin main
+git add .
+git commit -m "ThirdPage"
+git push origin main
+npm i -D daisyui@latest
+git add src/sections/ForthPage.tsx src/sections/Footer.tsx src/App.tsx 
+git commit -m "forth page and footer"
+git add tailwind.config.js package-lock.json package.json 
+git commit -m "daisy ui"
+git commit -m "minor fixes"
+git add .
+git commit -m "minor fixes"
+git push origin main
+ls
+zd
+cd Shopie/
+ls
+c
+git log
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+npm install @mui/icons-material
+npm run dev
+git add .
+git commit -m "styling and animations"
+git push origin main
+nodemon --exec ts-node backend/server.js
+ls
+zd
+cd Shopie/
+npm run dev
+npm run dev --host
+ls
+zd 
+cd Shopie/
+npm run dev
+c
+nodemon --exec ts-node backend/server.js
+npm run dev
+nu
+ld
+zd
+mkdir oochi
+rm oochi/
+mkdir Oochi
+cd Oochi/
+git init
+l
+npm create vite@latest 
+cd Oochi/
+zd
+cd Oochi/
+npm i
+l
+rm *
+b
+rm Oochi/
+npm create vite@latest 
+cd Oochi/
+npm i
+git init
+git add .
+git branch -M main
+git remote add origin https://github.com/kmr-ankitt/Oochi.git
+git commit -m "Repo init"
+git push origin main
+npm install -D tailwindcss<\n>npx tailwindcss init
+c
+git reset --hard HEAD<\n>
+rm tailwind.config.js
+npm remove tailwindcss
+npm install -D tailwindcss postcss autoprefixer<\n>npx tailwindcss init
+npm remove tailwindcss postcss autoprefixer
+rm tailwind.config.js
+npm install -D tailwindcss postcss autoprefixer<\n>npx tailwindcss init -p
+cd
+cd Oochi/
+zd
+c
+cd
+zp
+ls
+cp l
+l
+cd
+zd
+cd Oochi/
+git add public/ tailwind.config.js postcss.config.js package-lock.json package.json 
+git commit -m "Tailwind and fonts config"
+git add .
+git commit -m "Navbar"
+git tailwind.config.js src/index.css
+git add tailwind.config.js src/index.css
+git commit -m "Fonts"
+npm install react-icons --save<\n>
+git add .
+git commit -m "Designing Landing Page"
+git push origin main
+npm i framer-motion
+git add .
+git commit -m "Marquee page done"
+git push origin main
+git add .
+git commit -m "About done"
+git push origin main
+git add .
+git commit -m "Typo"
+git push origin main
+zd
+cd Shopie/
+npm run dev
+nodemon --exec ts-node backend/server.js
+zd
+cd Shopie/
+nodemon --exec ts-node backend/server.js
+zd
+l
+cd Ochi/
+c
+cl
+git add .
+gti commit -m "About styling fixes"
+git commit -m "About styling fixes"
+git push origin main
+git add .
+git commit -m "Eyes structure"
+git add .
+git commit -m "Eyeball rotation"
+git push origin main
+git reset --hard HEAD<\n>
+git add .
+git commit -m "Featured page"
+git add .
+git commit -m "Cards page"
+git add src/components/Featured.tsx 
+git commit -m "Alignment issues fixed"
+git add .
+git commit -m "Footer "
+git push origin main
+npm install locomotive-scroll@beta<\n>
+npm i framer-motion gsap
+npm install locomotive-scroll@beta<\n>
+git add src/components/LandingPage.tsx src/components/Marquee.tsx
+git commit -m "Marquee animation"
+git add src/components/Featured.tsx 
+git commit -m "Featured animation"
+git add .
+git reset
+git add package-lock.json package.json 
+git commit -m "framermotion locomotive and gsap"
+git add .
+git commit -m "Eyes pupil animation"
+git push origin main
+ls
+zd
+cd Ochi/
+c
+git add .
+git commit -m "Docs"
+git push origin main
+git add package-lock.json package.json 
+git commit -m "React router"
+git push origin main
+git revert HEAD
+git reset --hard HEAD<\n>
+npm i locomotive-scroll
+npm remove locomotive-scroll
+npm install locomotive-scroll@beta<\n>
+npm run dev
+git reset --hard HEAD<\n>
+npm run dev
+git add .
+git commit -m "Locomotive bugs fixed"
+git push origin main
+git reset --hard <revision_id_of_last_known_good_commit><\n>git push --force
+git reset --hard HEAD@{1}<\n>git push -f<\n>git reset --hard HEAD@{1}
+git add .
+git status
+git commit -m "reverting back"
+git push origin main -f
+npm run dev
+git add .
+git commit -m "title and icon"
+git push origin main 
+$ npm install gh-pages --save-dev
+npm install gh-pages --save-dev
+npm run deploy
+git reset --hard HEAD<\n>
+zd
+git clone https://github.com/safak/animated-portfolio.git
+cd animated-portfolio/
+npm i
+npm run dev
+nvim
+rm **
+l
+rm -rf *
+l
+git clone https://github.com/safak/animated-portfolio.git
+l
+cd animated-portfolio/
+l
+git checkout completed
+git pull origin main
+git pull origin main -f
+nvim
+npm i
+ls
+zd
+ls
+zd
+cd Shopie/
+ls
+npm run dev
+ls
+npx
+node
+ls
+zd
+web
+cd
+web
+ls
+mkdir learn
+rm *
+ls
+npx create vite@latest
+npm create vite@latest 
+cd lear
+cd learn/
+npm i
+n
+ls
+nv
+ls
+c
+sudo apt install 
+sudo apt update ; sudo apt upgrade
+ls
+web
+ls
+cd learn/
+c
+ls
+npm install tailwindcss postcss autoprefixer<\n><\n>
+curl https://github.com/kmr-ankitt/Ochi/README.md
+curl https://github.com/kmr-ankitt/Ochi/
+curl https://github.com/kmr-ankitt/Ochi/blob/main/README.md
+curl -s URL | pandoc -f html -t plain
+curl -s URL | pandoc -f html
+lynx
+npm install tailwindcss postcss autoprefixer<\n><\n>
+b
+ls
+npx init tailwind
+npx tailwindcss init -p<\n><\n>
+rm tailwind.config.js
+npx tailwindcss init 
+npm run dev
+npm install react-router-dom # always need this!<\n>
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm i axios
+ls
+zd
+c
+wcd
+cd
+web
+ls
+cd learn/
+c
+npm run dev
+ls
+npm i dotenv
+touch .env
+b
+ls
+mv learn/ /home/ankit/Dev/Web/web-projects/
+c
+code /home/ankit/Dev/Web/web-projects/learn/
+ls
+b
+git add .
+git commit -m "Github api practice, routing"
+git push origin main
+ls
+nvim /home/ankit/.config/nushell/config.nu
+zd
+cd Web/Fresh/
+mkdir nextjs
+cd
+ls
+web
+ls
+npx create-next-app@latest nextjs-dashboard --use-npm --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example"
+cd nextjs-dashboard/
+l
+c
+npm i
+npm run dev
+b
+npm create vite@latest 
+ls
+cd nextjs-dashboard/
+ls
+cl
+npm run dev
+ls
+zd
+cd Bookeepr/
+c
+b
+cd Blogg./
+c
+b
+cd Shopie/
+c
+npm start
+npm lmao
+npm run dev
+ls
+b
+ls
+git clone https://github.com/hkirat/neet-scraper.git
+cd neet-scraper/
+npm i
+npm run dev
+tsc index.ts
+c
+npm start
+b
+rm neet-scraper/
+l
+ls
+zd
+cd
+web
+code nextjs-dashboard/
+rm vite-project/
+web
+nv
+cd nextjs-dashboard/
+nv
+c
+nu
+cl
+sudo apt update
+sudo apt update ; sudo apt upgrade
+l
+rm .git/
+b
+mv nextjs-dashboard/ ../../web-projects/
+npm run dev
+zd
+cd web-projects/
+pwd
+nvim /home/ankit/.config/nushell/config.nu
+ls
+web
+ls
+code nextjs-dashboard/
+ls
+cl
+b
+git add .
+git commit -m "next js font and images"
+git push origin main
+git add .
+git commit -m "Layout and pages"
+git push origin main
+git add .
+git commit -m "Next navigation"
+git push origin main
+web
+ls
+mv nextjs-dashboard/ ../Fresh/postgres/
+git add .
+git commit -m "folder redirect"
+b
+ls
+b
+cd
+nvim /home/ankit/.config/nushell/config.nu
+sl
+ls
+web
+ls
+b
+ls
+cd nextjs/
+ls
+b
+ls
+b
+l
+b
+l
+cd
+web
+b
+l
+rm ./.DS_Store
+l
+mv postgres/nextjs-dashboard/ nextjs/
+cd
+web
+ls
+code nextjs-dashboard/
+nu
+git init
+git add .
+git remote add origin https://github.com/kmr-ankitt/next-dashboard
+rm .git/
+git init
+git add .
+git remote add origin https://github.com/kmr-ankitt/next-dashboard.git
+git branch -M main
+git commit -m "First push"
+git push origin main
+pnpm i @vercel/postgres
+pnpm seed
+clear
+ls
+cl
+pnpm seed
+vercel env pull .env.development.local
+vercel link
+pnpm i -g vercel@latest
+vercel link
+vercel env pull .env.development.local 
+pnpm seed
+npm run seed
+l
+rm .vercel/
+l
+ls
+npm run seed
+git reset --hard HEAD<\n>
+npm run seed
+npm install bcryptjs<\n><\n>
+pnpm seed
+pnpm i @vercel/postgres
+pnpm seed
+git add .
+git commit -m "Database connect"
+git push origin main
+zd
+git clone https://github.com/gkbrk/slowloris.git<\n>
+cd slowloris/
+python3 slowloris.py example.com
+python3 slowloris.py https://erp.cgu-odisha.ac.in/
+python3 slowloris.py erp.cgu-odisha.ac.in -ua -s 150
+python3 slowloris.py erp.cgu-odisha.ac.in -ua -s 150 -v
+ls
+l
+ll
+l
+bat .sudo_as_admin_successful
+web
+code nextjs-dashboard/
+ls
+cl
+npm run dev
+vercel dev
+npm run dev
+pnpm run dev
+npm run dev
+vercel dev
+web
+code nextjs-dashboard/
+npm run dev
+vercel dev
+pnpm run dev
+git add .
+git commit -m "revenue chart"
+git push origin main
+npm run dev
+vercel dev
+cl
+ls
+neofetch 
+neofetch -h
+neofetch --h
+cl
+screenfetch
+cl
+neofetch 
+ver
+dz
+zd
+mkdir go
+l
+cd go
+ls
+go mod init
+go mod init example.com/try
+git mod ridy
+git mod tidy
+go mod tidy
+l
+nvim api.go
+l
+go run
+go run api.go
+go get google.golang.org/api/youtube/v3
+go run api.go
+go -v
+go version
+sudo apt update go
+sudo apt install go
+sudo apt install golang
+go version
+git clone https://github.com/udhos/update-golang<\n>cd update-golang<\n>sudo ./update-golang.sh
+go version
+git clone https://github.com/udhos/update-golang<\n>cd update-golang<\n>sudo ./update-golang.sh
+l
+rm *
+cd
+ls
+zd
+cd go/
+l
+rm update-golang/
+git clone https://github.com/udhos/update-golang<\n>cd update-golang<\n>sudo ./update-golang.sh
+ls
+b
+rm update-golang/
+git clone https://github.com/udhos/update-golang<\n>cd update-golang<\n>sudo ./update-golang.sh
+rm -rf /usr/local/go1.22.4.linux-amd64.tar.gz
+sudo rm -rf /usr/local/go1.22.4.linux-amd64.tar.gz
+b
+rm update-golang/
+git clone https://github.com/udhos/update-golang<\n>cd update-golang<\n>sudo ./update-golang.sh
+rm -rf /usr/local/go-20240613-201621/
+sudo rm -rf /usr/local/go-20240613-201621/
+go version
+go update
+go 
+$ sudo ./update-golang.sh remove
+zd
+cd go/update-golang/
+go
+go version
+apt install ffmpeg
+sudo apt install ffmpeg
+zp
+git clone https://github.com/r0oth3x49/udemy-dl.git
+cd udemy-dl/
+pip install -r requirements.txt
+touch lmao.txt
+nvim lmao.txt
+python udemy-dl.py https://www.udemy.com/course/nextjs-from-scratch/?campaigntype=Search&portfolio=India&language=EN&product=Course&test=&audience=DSA&topic=&priority=&matchtype=&gad_source=1&couponCode=IND21PM  -k lmao.txt
+python3 udemy-dl.py https://www.udemy.com/course/nextjs-from-scratch/?campaigntype=Search&portfolio=India&language=EN&product=Course&test=&audience=DSA&topic=&priority=&matchtype=&gad_source=1&couponCode=IND21PM  -k lmao.txt
+python3 udemy-dl.py https://www.udemy.com/course/nextjs-from-scratch  -k lmao.txt
+sudo python3 udemy-dl.py https://www.udemy.com/course/nextjs-from-scratch  -k lmao.txt
+python3 udemy-dl.py https://www.udemy.com/course/nextjs-from-scratch  -k lmao.txt
+b
+rm udemy-dl/
+vercel dev
+git add .
+git commit -m "fetching sorting"
+git push origin main
+cl
+cd
+web
+code nextjs-dashboard/
+cl
+git add .
+git commit -m "Dynamic rendering"
+git push origin main
+git add .
+git commit -m "Streaming a webpage"
+git push origin main
+ls
+zd
+cd
+web
+code nextjs-dashboard/
+ls
+cl
+cd
+zd
+cd Zealot/
+ls
+c
+cle
+cl
+b
+ls
+web
+code nextjs-dashboard/
+npm run dev
+vercel dev
+pnpm i -g vercel@latest
+git add .
+git commit -m "Streaming componentes"
+git push origin main
+pnpm i use-debounce
+git add .
+git commit -m "Adding searching"
+git push origin main
+git add .
+git commit -m "title"
+git push origin main
+vercel dev
+git add .
+git commit -m "Pagination"
+git push origin main
+ls
+web
+l
+code nextjs-dashboard/
+vercel dev
+cd nextjs-dashboard/
+cd .config/
+l
+loacte AdKiller
+locate AdKiller
+rm /home/ankit/.local/share/applications/Spotify (AdKiller).desktop
+rm `/home/ankit/.local/share/applications/Spotify (AdKiller).desktop`
+fastfetch
+neofetch 
+screenfetch
+rm `/home/ankit/.local/share/applications/Spotify (AdKiller).desktop`
+ls
+cl
+sudo apt install code
+sudo apt au
+sudo apt autoremove
+sudo apt remove contacts
+git add .
+git add -h
+git add -v
+git unstag
+git add .
+git reset
+git add -v
+git add .  -v
+git commit -m "Data Mutation and error page"
+git push origin main
+vercel dev
+code
+npm run dev
+git add .
+git commit -m "404 not found errors"
+git push origin main
+pnpm lint
+git add .
+git commit -m "Accessiblity features"
+git push origin main
+pnpm i next-auth@beta
+openssl rand -base64 32
+git add .
+git commit -m "Adding nextjs auth"
+git push origin main
+git add .
+git commit -m "Readme update"
+git push origin main
+git add .
+git commit -m "typos"
+git push origin main
+curl -fsSL https://bun.sh/install | bash
+bun
+git add .
+git commit -m "Adding metadatas"
+git push origin main
+web
+nvim nextjs-dashboard/
+cd nextjs-dashboard/
+nv
+l
+nc
+nv
+c
+cd
+zd
+mkdir Krax
+cd Krax/
+ls
+b
+rm Krax/
+mkdir snas
+rm snas
+mkdir Snas
+cd Snas/
+npx create-next-app@latest 
+npx create-next-app@latest .
+b
+rm snas
+rm Snas/
+npx create-next-app@latest 
+code snas/
+b
+rm snas/
+ls
+mkdir Crunx
+cd Crunx/
+npx create-next-app@latest 
+npx create-next-app@latest .
+b
+rm Crunx/
+mkdir crunx
+rm crunx/
+zd
+mkdir crunx
+cd crunx/
+npx create-next-app@latest .
+npm i
+l
+cd .git/
+l
+b
+l
+git status
+git push origin main
+git add .
+git branch -M main
+git remote add origin https://github.com/kmr-ankitt/Crunx
+rm .git
+l
+git init
+git branch -M main
+git add .
+git remote add origin https://github.com/kmr-ankitt/Crunx.git
+git commit -m "Nextjs file config"
+git pus
+git push origin main
+c
+ls
+npm run dev
+l
+b
+cd crunx/
+rm *
+npx create-next-app@latest .
+git add .
+git status
+git commit -m "Nextjs file config"
+git push
+git remote add origin https://github.com/kmr-ankitt/Crunx.git
+git status
+git commit -m "changes"
+git add .
+git commit -m "changes"
+git push origin main
+git fetch
+l
+git add .
+git commit -m "changes"
+git push origin main
+git branch
+git checkout main
+git add .
+git commit -m "changes"
+git fetch
+git status
+git push origin main
+git push origin main -f
+sls
+ls
+git log
+cl
+ls
+zd
+ls
+npx create-next-app@latest 
+cd todo-app/
+git add ,
+git add .
+git branch -M main
+git remote add origin https://github.com/kmr-ankitt/todo-app.git
+git commit -m "nextjs config"
+l
+git fetch
+git push origin main 
+c
+git commit -m "Dashboard"
+git push origin main 
+ls
+zd
+k
+l
+mkdir Playlen
+cd Playlen/
+npm create vite@latest 
+npm create vite@latest .
+npm i
+l
+code src/
+c
+npm install -D tailwindcss postcss autoprefixer<\n>npx tailwindcss init
+npm run dev
+npm install -D tailwindcss postcss autoprefixer<\n>
+npm install -D postcss
+npx tailwindcss init<\n>
+npm install -D tailwindcss postcss autoprefixer<\n>npx tailwindcss init -p
+npm i react-router-dom
+git add .
+git init
+git add .
+git branch -M main
+git commit -m "Navbar"
+git add src/components/Navbar.tsx src/App.tsx 
+git commit -m "Fonts"
+npm install react-hook-form
+git add .
+git commit -m "form and playlist id"
+git add src/components/Input.tsx 
+git commit -m "sending input data"
+git add . 
+git remote add origin https://github.com/kmr-ankitt/Playlen.git
+git push origin main 
+npm i axios
+npm i dotenv
+npm i --save-dev @types/node
+npm remove --save-dev @types/node
+git add .
+git commit -m "fetching apis"
+git push origin main 
+npm run dev
+touch src/backend/server.ts
+touch src/server.ts
+open src/server.ts
+start src/server.ts
+npm i express
+npm install @types/express --save-dev<\n>
+npm i body-parser
+nodemon --exec ts-node src/server.js
+nodemon src/server.js
+nodemon --exec ts-node src/server.ts
+nodemon src/server.ts
+npm start
+nodemon src/server.ts
+npm start
+zd
+cd Playlen/
+c
+cd frontend/
+cd frontend<\n>npm install<\n>npm run dev<\n>
+npm i
+git reset --hard HEAD<\n>
+git pull origin main -f
+rm *
+git pull origin main -f
+rm list
+rm -h
+b
+rm Playlen/
+git clone https://github.com/kmr-ankitt/Playlen
+cd Playlen/
+code -h
+code -r 
+code -r .
+b
+code Playlen/ -r
+code Playlen/ -r 
+code -r Playlen/
+npm i --save-dev @types/cors
+ts-node server.ts<\n>
+ts-node
+npx ts-node server.ts<\n>
+npx ts-node server.js<\n>
+postman
+git add .
+git commit -m "fked up"
+git push origin main 
+cl
+zd 
+cd Shopie/
+npm run dev
+zd
+git clone https://github.com/kmr-ankitt/s-lang
+ls
+cd s-lang/
+echo "# S-lang" >README.md
+l
+echo "# S-lang" >> README.md
+l
+ls
+echo "# s-lang" >> README.md
+ls
+touch README.md
+nvim README.md
+git add .
+git commit -m "Repo init"
+git branch -M main
+git remote add origin https://github.com/kmr-ankitt/s-lang.git
+git push origin main 
+tsc init
+l
+tsc index.ts
+l
+ts
+tsc
+tsc --init
+l
+mkdir src
+l
+npm i
+npx tsx
+npx tsc
+l
+rm tsconfig.json
+npx tsc --init
+l
+nvim tsconfig.json
+cd
+l
+zd
+l
+cd Typescript/
+l
+cd ts
+ls
+b
+ls
+b
+ls
+cd s-lang/
+npm init 
+ls
+npm start
+npm run
+l
+npx tsc
+c
+npx tsc
+node dist/main.js
+clear
+touch Makefile
+make
+mkae
+make
+make all
+npx tsc -w
+mkae
+make
+make build
+make clean
+make
+make all
+make build
+make watch
+make
+make build
+make install
+make clean
+make run
+make all
+make build
+mkae build
+make build
+make clealn
+make clean
+make build
+make run
+make all
+make
+make clean
+git add .
+git commit -m "Makefiles and tsconfig"
+git push origin main 
+make
+fs
+cl
+npm install typescript @types/node
+make
+git add .
+git reset
+git add package.json package-lock.json
+git commit -m "Readline module"
+git add . -v
+git reset
+make clean
+touch .gitignore
+git add .
+git reset
+git add . -v
+git reset
+git add .gitignore
+git commit -m "git ignore"
+git add .
+git commit -m "Run, Runfile and error reporting"
+git push origin main 
+nvim .git/index
+fastfetch
+neofetch 
+screenfetch
+tsc src/Tokens/token.ts
+mkae clean
+git add .
+git commit -m "Token type declearation"
+git push origin main 
+git add src/Tokens/ 
+git commit -m "Tokens datatype change"
+git add src/Error/error.ts
+git commit -m "error export"
+git add src/Error/ src/main.ts 
+git reset
+git add src/Error/ src/main.ts 
+git commit -m "changing definations"
+git add .
+git commit -m "Creating Lexer"
+git add .
+git commit -m "ambiguity resolved"
+git push origin main 
+git add .
+git commit -m "Adding number literal to lexical grammer"
+git add .
+git commit -m "Number literals and Keywords mapping"
+git push origin main 
+cl
+mkae
+make
+make all
+make -h
+make build
+make
+make run
+make all
+make install
+tsc src/main.ts
+node src/main.js
+make clean
+make
+zd
+cd Zealot/
+make
+make all
+make
+make run
+make clean
+source ~/.bashrc
+make
+makr
+make
+make lmao
+make 
+make
+clean
+cl
+make
+vczx
+vcz
+make
+cl
+make
+cl
+make
+mkae
+make
+cl
+make
+mkae
+make
+cl
+make
+git add .
+git commit -m "Token generation "
+git push origin main 
+make
+cl
+make
+node
+make
+git add .
+git commit -m "Typos"
+git push origin main 
+cd 
+zd
+cd Zealot/
+make 
+make all
+make run
+make repl
+nvim com/piscan/zealot/Scanner.java
+nvim com/piscan/zealot/Zealot.java
+cd
+make
+git add .
+git commit -m "Tokens push bugs fix"
+make
+git add .
+git commit -m "Multi line comment feature ";
+git push origin main 
+l
+ls
+zd
+nvim s-lang/
+cd s-lang/
+nv
+c
+cl
+make clean
+make
+cd
+b
+cd Zealot/
+l
+c
+make
+make repl
+make
+make repl
+make clean
+touch .gitignore
+git add .gitignore
+git commit -m "git ignore"
+git add .
+git commit -m "Multi line comment feature ";
+git push origin main 
+git add .
+git commit -m "Updating docs"
+git push origin main 
+cd
+zd
+cd s-lang/
+code
+c
+ls
+cl
+git log
+code
+ls
+zd
+cd
+cd .config/
+l
+nvim .zoxide.nu
+zoxide init nushell | save -f ~/.zoxide.nu
+source ~/.zoxide.nu
+l
+b
+l
+nvim .zoxide.nu
+cd .config/
+nvim .zoxide.nu
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf<\n>~/.fzf/install
+# Set up fzf key bindings and fuzzy completion<\n>eval "$(fzf --bash)"
+ls
+z
+z foo
+ls
+z
+l
+z foo bar
+z ..
+z -
+z foo
+zd
+z foo
+zd
+ls
+z
+z foo
+z foo/
+z
+wbeb
+cd Dev
+z foo
+cl
+cd
+zd 
+cd
+zd/s-lang
+zd
+cd s-lang/
+l
+ls
+l
+systemctl restart bluetooth.service<\n>
+bluetoothctl 
+s
+sudo apt update && sudo apt upgrade
+sudo apt update ; sudo apt upgrade
+cl
+lc
+lcl
+lc
+l
+iwctl
+ccccccclc
+cl
+lc
+cl
+clc
+cl
+clc
+cl
+l
+cl
+l
+nu
+nu
+l
+s
+cl
+c
+clc
+zd
+cd s-lang/
+l
+clear 
+clear
+claer
+clear
+cl
+c
+clcl
+cl
+clc
+cd
+nvim .config/alacritty/alacritty.yml
+nvim .config/alacritty/alacritty.toml
+ls
+cl
+clc
+ls
+cl
+zd
+ls
+cd slowloris/
+b
+ls
+cd s-lang/
+ls
+nvim README.md
+git add .
+git commit -m "status"
+git push origin main 
+xdg
+xdg-open https://www.github.com
+xdg-open https://www.github.com/kmr-ankitt
+nvim /home/ankit/.config/alacritty/alacritty.toml
+ls
+xdg-open https://www.github.com/kmr-ankitt
+git log
+tmux
+tmux --h
+tmux -T
+tmux -c
+tmux --c
+tmux -c lmao
+t
+to d
+to md
+l
+to d
+l
+to md
+to md ls
+to md -h
+to md asfddddddddddddd
+to md "fasdf"
+zd
+cd s-lang/
+l
+to md Makefile
+to md package-lock.json
+cl
+nu
+ls
+nvim /home/ankit/.config/alacritty/alacritty.toml
+ls
+zd
+ls
+npx create-next-app@latest 
+xdg-open https://www.github.com/kmr-ankitt
+npx create-next-app@latest nextjs-app
+rm nextjs-app/
+git clone https://github.com/safak/next14-starter.git
+cd next14-starter/
+npm i
+npm run dev
+l
+cd src/
+l
+cd app/
+l
+nvim page.jsx
+b
+ls
+rm *
+npx create-next-app@latest .
+l
+cd src/app/
+l
+b
+c
+npm i
+xdg-open https://www.github.com/kmr-ankitt
+iwctl
+reboot
+gping
+ping
+ping www.google.com
+ping web.whatsapp.com
+nmcli radio wifi off
+nmcli radio wifi on
+nmcli radio wifi off
+nmcli radio wifi on
+sudo hwinfo --network<\n>
+sudo systemctl restart NetworkManager<\n>
+nmcli radio wifi connect Desktop/
+nmcli radio wifi -h
+inxi
+nmcli 
+nmcli c
+nmcli -h
+nmcli d
+nmcli d -h
+nmtui
+nmcli d -h
+nmcli d wifi show-password -h
+nmcli d wifi show-password 
+cl
+exit
+ls
+zd
+cd animated-portfolio/
+l
+cd animated-portfolio/
+l
+npm run dev
+l
+b
+rm animated-portfolio/
+ls
+cd waiig_code_1.3/
+l
+cd 01/l
+cd 01/
+l
+cd src/
+l
+cd monkey/
+l
+cd lexer/
+b
+l
+rm waiig_code_1.3/
+l
+cd s-lang/
+ls
+c
+b
+l
+cd next14-starter/
+l
+c
+b
+rm next14-starter/
+ls
+cl
+ls
+zd
+cd s-lang/
+c
+cl
+l
+sl
+l
+zl
+cl
+l
+c
+cl
+make
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+node src/Tools/AstGenerator.js 
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js 
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/
+tsc src/Tools/AstGenerator.ts
+node src/Tools/AstGenerator.js src/Ast/
+git add .
+git commit -m "Expr generator script"
+git push origin main 
+git remote
+git remote origin
+git remote origin rename s-lang S-lang
+git remote --v
+git remote add origin
+git remote add origin -l
+git remote add origin https://github.com/kmr-ankitt/S-lang.git
+git remote set-url https://github.com/kmr-ankitt/S-lang.git
+git remote set-url origin https://github.com/kmr-ankitt/S-lang.git
+git status
+git remote
+git remote origin
+git remote origin -v
+git remote origin --v
+cl
+bluetoothctl 
+nu
+git add .
+git commit -m "typos<\n>"
+git push origin main 
+cl
+mkdir whisp
+npx create-next-app@latest .
+rm whisp/
+npx create-next-app@latest 
+cd whisp/
+npm run dev
+c
+npm i mongoose
+cd src/
+l
+mkdir schemas
+touch signUpSchema.ts verifySchema.ts signInSchema.ts acceptMessageSchema.ts messageSchema.ts
+mv  signUpSchema.ts verifySchema.ts signInSchema.ts acceptMessageSchema.ts messageSchema.ts schemas/
+npm i zod
+git add .
+git branch -M main
+git commit -m 
+git commit -m "Defining schemas"
+touch .env
+b
+git add .
+git commit -m "Connecting database"
+npm i resend
+mkdir emails
+touch emails/VerificationEmail.tsx
+npm i react-email
+npm install react-email @react-email/components -E<\n>
+zd
+code
+b
+l
+mv whisp/ Dev/
+zd
+cd whisp/
+git remote add origin https://github.com/kmr-ankitt/Whisp.git
+git push origin main 
+xdg-open https://www.discord.com
+ls
+l
+ls
+cl
+which kitty
+l
+locate kitty
+xdg-open https://www.github.com/kmr-ankitt
+l
+sudo apt install hollywood
+hollywood 
+sudo apt remove hollywood
+yws
+yes
+yes lmao cd Dev
+yes
+lmao
+rev
+sudo apt install libaa-bin<\n>
+aafire
+sudo apt remove libaa-bin<\n>
+figlet welcome
+l
+code
+zd
+cd whisp/
+c
+npm i bcrypt
+npm remove  bcrypt
+npm i bcryptjs
+npm i --save-dev @types/bcryptjs
+git commit -m "Email verification"
+git commit -m "Bycrpt modules "
+git push origin main 
+npm i next-auth
+npm run dev
+git log
+git add .
+git commit -m "Next Auth"
+git push origin main \
+git push origin main
+npm run dev
+git rm -r --cached .env
+git commit -m "enviroment variables"
+git push origin main
+ls
+zd
+cd
+cddc
+b
+l
+cd
+l
+restore 
+l
+z
+f
+e google.com
+e www.google.com
+e https://.google.com
+e https://google.com
+ls
+n
+next
+n
+npm i n 
+n
+p
+prev
+go
+goto
+nvim /home/ankit/.config/nushell/
+l
+ls
+l
+ls
+sl
+l;
+sl
+l
+bat .sudo_as_admin_successful
+zd
+cd Playlen/
+l
+c
+sudo apt install code
+l
+ls
+byobu
+sudo apt remove byobu
+ls
+zd
+ls
+web
+b
+web
+l
+zd
+cz
+zd
+z
+nvim /home/ankit/.config/nushell/
+nvim /home/ankit/.config/nushell/config.nu
+cd .config/
+l
