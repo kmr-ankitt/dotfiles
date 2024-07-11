@@ -15,6 +15,7 @@ PS1='[\u@\h \W]\$ '
 
 # Define Editor
 export EDITOR=nvim
+export VISUAL=nvim
 
 # -----------------------------------------------------
 # ALIASES
@@ -23,7 +24,8 @@ alias cl='clear'
 alias nf='neofetch'
 alias pf='fastfetch'
 alias ff='fastfetch'
-alias ls='eza -a --icons'
+alias ls='eza --icons'
+alias l='eza -a --icons'
 alias ll='eza -al --icons'
 alias lt='eza -a --tree --level=1 --icons'
 alias shutdown='systemctl poweroff'
@@ -105,7 +107,7 @@ alias confb='$EDITOR ~/dotfiles/.bashrc'
 # -----------------------------------------------------
 # EDIT NOTES
 # -----------------------------------------------------
-alias notes='$EDITOR ~/notes.txt'
+alias notes='$EDITOR ~/Dev/notes.txt'
 
 # -----------------------------------------------------
 # SYSTEM
