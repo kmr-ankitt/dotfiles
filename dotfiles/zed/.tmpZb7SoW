@@ -1,0 +1,12 @@
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"App","operation":"open"}
+{"signed_in":false,"milliseconds_since_first_event":23,"type":"Setting","setting":"theme","value":"One Dark"}
+{"signed_in":false,"milliseconds_since_first_event":23,"type":"Setting","setting":"keymap","value":"VSCode"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"html","version":"0.1.1"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"prisma","version":"0.0.3"}
+{"signed_in":false,"milliseconds_since_first_event":0,"type":"Extension","extension_id":"snippets","version":"0.0.5"}
+{"signed_in":false,"milliseconds_since_first_event":280,"type":"App","operation":"open node project"}
+{"signed_in":false,"milliseconds_since_first_event":280,"type":"App","operation":"open pnpm project"}
+{"signed_in":true,"milliseconds_since_first_event":3426,"type":"Action","source":"command palette","action":"cli: install"}
+{"signed_in":true,"milliseconds_since_first_event":3815,"type":"App","operation":"open yarn project"}
+{"signed_in":true,"milliseconds_since_first_event":239977,"type":"Memory","memory_in_bytes":758419456,"virtual_memory_in_bytes":41457192960}
+{"signed_in":true,"milliseconds_since_first_event":239977,"type":"Cpu","usage_as_percentage":66.40838,"core_count":12}

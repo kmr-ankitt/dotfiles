@@ -45,6 +45,7 @@ alias b='cd ..'
 alias c='code .'
 alias x='xdg-open'
 alias rm='trash-put'
+alias zed='zeditor'
 
 # PgAdmin
 alias pgadmin='source pgadmin4/bin/activate && pgadmin4'
@@ -162,3 +163,7 @@ export NVM_DIR="$HOME/.nvm"
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH=$BUN_INSTALL/bin:$PATH
+
+# zed
+export PATH="$HOME/.local/bin:/usr/lib/ccache/bin:$PATH"
+

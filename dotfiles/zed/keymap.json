@@ -1,0 +1,9 @@
+[
+  {
+    "context": "Editor",
+    "bindings": {
+      "ctrl-w": "pane::CloseActiveItem",
+      "ctrl-shift-W": "editor::SelectSmallerSyntaxNode"
+    }
+  },
+]
