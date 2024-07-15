@@ -12,7 +12,7 @@
   "theme": {
     "mode": "system",
     "light": "One Light",
-    "dark": "One Dark"
+    "dark": "Atelier Dune Light"
   },
   
   // LSPs
@@ -27,31 +27,14 @@
     }
   },
 
-  // Terminal
-  "terminal": {
-    "alternate_scroll": "off",
-    "blinking": "terminal_controlled",
-    "copy_on_select": true,
-    "env": {},
-    "font_family": null,
-    "font_features": null,
-    "font_size": null,
-    "option_as_meta": false,
-    "button": true,
-    "shell": {},
-    "toolbar": {
-      "title": true
-    },
-    "working_directory": "current_project_directory"
-  },
-  
+  "format_on_save": "on",
+  "formatter": "language_server",
   "auto_update": true,
   "autosave": {
     "after_delay": {
       "milliseconds": 1000
     }
   },
-  "format_on_save": "on",
   "vim_mode": true
   
 }

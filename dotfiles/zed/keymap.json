@@ -3,7 +3,10 @@
     "context": "Editor",
     "bindings": {
       "ctrl-w": "pane::CloseActiveItem",
-      "ctrl-shift-W": "editor::SelectSmallerSyntaxNode"
+      "ctrl-shift-W": "editor::SelectSmallerSyntaxNode",
+      "ctrl-enter":"editor::NewlineBelow",
+      "shift-enter":"editor::NewlineAbove"
     }
-  },
+    
+  }
 ]
