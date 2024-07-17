@@ -7,6 +7,26 @@ return {
     end,
   },
 
+  {
+   "supermaven-inc/supermaven-nvim",
+    lazy=false;
+    config = function()
+    require("supermaven-nvim").setup({
+      keymaps = {
+        accept_suggestion = "<C-Tab>",
+        clear_suggestion = "<C-]>",
+        accept_word = "<C-j>",
+        next_word = "<C-k>",
+        },
+      color = {
+        suggestion_color = "#F6FB7A",
+        cterm = 244,
+      },
+      -- disable_keymaps = false  -- disables built in keymaps for more manual control
+    })
+    end,
+  },
+
   -- These are some examples, uncomment them if you want to see them work!
   -- {
   --   "neovim/nvim-lspconfig",
