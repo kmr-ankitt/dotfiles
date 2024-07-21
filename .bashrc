@@ -47,7 +47,11 @@ alias b='cd ..'
 alias c='code .'
 alias x='xdg-open'
 alias rm='trash-put'
+alias clean='trash-empty'
 alias zed='zeditor'
+alias gpt='brave --app=https://chat.openai.com'
+alias nv='nvim .'
+
 
 # PgAdmin
 alias pgadmin='source pgadmin4/bin/activate && pgadmin4'
