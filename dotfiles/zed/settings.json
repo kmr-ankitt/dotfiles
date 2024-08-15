@@ -12,7 +12,7 @@
   "theme": {
     "mode": "system",
     "light": "One Light",
-    "dark": "Atelier Dune Light"
+    "dark": "Gruvbox Dark"
   },
   
   // LSPs
@@ -36,5 +36,6 @@
     }
   },
   "vim_mode": true
+  
   
 }

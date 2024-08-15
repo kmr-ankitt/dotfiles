@@ -5,7 +5,9 @@
       "ctrl-w": "pane::CloseActiveItem",
       "ctrl-shift-W": "editor::SelectSmallerSyntaxNode",
       "ctrl-enter":"editor::NewlineBelow",
-      "shift-enter":"editor::NewlineAbove"
+      "ctrl-shift-enter":"editor::NewlineAbove",
+      "alt-shift-down":"editor::DuplicateLineDown",
+      "alt-shift-up":"editor::DuplicateLineDown"
     }
     
   }
