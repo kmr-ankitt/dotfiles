@@ -51,6 +51,8 @@ alias clean='trash-empty'
 alias zed='zeditor'
 alias gpt='brave --app=https://chat.openai.com'
 alias nv='nvim .'
+alias lz='lazygit'
+mkcd() { mkdir -p "$@" && cd "$@"; }
 
 
 # PgAdmin
@@ -173,3 +175,4 @@ export PATH=$BUN_INSTALL/bin:$PATH
 # zed
 export PATH="$HOME/.local/bin:/usr/lib/ccache/bin:$PATH"
 
+export PATH="$PATH":~/.local/bin
