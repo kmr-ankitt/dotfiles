@@ -1,4 +1,17 @@
-#    _               _              
+# Lines configured by zsh-newuser-install
+HISTFILE=~/.histfile
+HISTSIZE=1000
+SAVEHIST=1000
+bindkey -e
+# End of lines configured by zsh-newuser-install
+# The following lines were added by compinstall
+zstyle :compinstall filename '/home/ankit/.zshrc'
+
+autoload -Uz compinit
+compinit
+# End of lines added by compinstall
+#
+# #    _               _              
 #   | |__   __ _ ___| |__  _ __ ___ 
 #   | '_ \ / _` / __| '_ \| '__/ __|
 #  _| |_) | (_| \__ \ | | | | | (__ 
@@ -17,11 +30,10 @@ PS1='[\u@\h \W]\$ '
 export EDITOR=nvim
 export VISUAL=nvim
 
-
-
 # -----------------------------------------------------
 # ALIASES
 # -----------------------------------------------------
+
 alias cl='clear'
 alias nf='neofetch'
 alias pf='fastfetch'
@@ -59,10 +71,9 @@ alias update='sudo pacman -Syu'
 mkcd() { mkdir -p "$@" && cd "$@"; }
 alias search='nvim $(fzf --preview='\''bat {}'\'')'
 
-
-
 # PgAdmin
 alias pgadmin='source pgadmin4/bin/activate && pgadmin4'
+
 
 # -----------------------------------------------------
 # ML4W Apps
@@ -145,8 +156,8 @@ alias dotsync="~/dotfiles-versions/dotfiles/.dev/sync.sh dotfiles"
 # -----------------------------------------------------
 # START STARSHIP
 # -----------------------------------------------------
-eval "$(starship init bash)"
-
+# eval "$(starship init bash)"
+eval "$(starship init zsh)"
 # -----------------------------------------------------
 # PYWAL
 # -----------------------------------------------------
@@ -174,7 +185,6 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-eval "$(zoxide init bash)"
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH=$BUN_INSTALL/bin:$PATH
@@ -182,4 +192,3 @@ export PATH=$BUN_INSTALL/bin:$PATH
 # zed
 export PATH="$HOME/.local/bin:/usr/lib/ccache/bin:$PATH"
 
-export PATH="$PATH":~/.local/bin
