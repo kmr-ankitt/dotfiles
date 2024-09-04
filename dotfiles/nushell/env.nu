@@ -124,11 +124,9 @@ $env.EDITOR = "nvim"
 # ohmyposh
 # oh-my-posh init nu --config ~/.config/.ohmyposh.omp.json --print | save ~/.config/.ohmyposh.nu --force
 
-# zoxide
-zoxide init nushell | save -f ~/.config/.zoxide.nu
 
 # starship
-$env.STARSHIP_CONFIG = ~/.config/starship.toml
+# $env.STARSHIP_CONFIG = ~/.config/starship.toml
 mkdir ~/.cache/starship
 starship init nu | save -f ~/.cache/starship/init.nu
 

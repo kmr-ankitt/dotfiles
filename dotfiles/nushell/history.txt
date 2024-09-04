@@ -7278,3 +7278,119 @@ nvim /home/ankit/.config/nushell/
 nvim /home/ankit/.config/nushell/config.nu
 cd .config/
 l
+exit
+nu
+exit
+mkdir ~/.cache/starship<\n>starship init nu | save -f ~/.cache/starship/init.nu
+use ~/.cache/starship/init.nu
+exit
+nvim .config/nushell/env.nu
+exit
+sudo pacman -R nushell
+sudo pacman -S nushell
+ls
+nu
+ls
+zd
+ls
+rm *
+ls
+b
+zoxide init nushell | save -f ~/.zoxide.nu
+source ~/.zoxide.nu
+sudo pacman -S fzf
+zoxide import --from=autojump "/path/to/autojump/db"
+z
+l
+zs
+zoxide
+zoxide -h
+z foo
+z ..
+ls
+z
+z -
+z
+zi foo
+zi Dev
+z Dev
+sudo pacman -R zoxide
+cd
+rm .zoxide.nu
+ls
+zoxide
+fzf
+ls
+bat README.md
+nvim .
+v
+nv
+ld
+ls
+npm run dev
+npm i
+bun dev
+npm run dev
+npm install @next/mdx @mdx-js/loader @mdx-js/react @types/mdx
+bun dev
+ls
+cd disk/
+ls
+cd by-id/
+ls
+b
+ls
+cd boot/
+s
+ls
+b
+ls
+cd root/
+ls
+sudo cd root/
+ls
+cd var/
+ls
+cd db/
+ls
+cd sudo/
+ls
+l
+ls
+b
+ls
+bat Makefile
+ls
+bat Makefile
+lz
+rm IMG_20240829_093613459.jpg compresses/
+ls
+shutdown
+shutdown -c
+shutdown
+kernel
+ls
+start IMG-20240829-WA0007.jpg
+start .
+ls
+open 
+open .
+ls
+nvim
+ls
+nv .bashrc
+source .bashrc
+exit
+ls
+open .
+start .
+ls
+nf
+exit
+eza
+ls
+exit
+,s
+ks
+ls
+exit
