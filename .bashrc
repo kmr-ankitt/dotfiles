@@ -3,7 +3,6 @@
 #   | '_ \ / _` / __| '_ \| '__/ __|
 #  _| |_) | (_| \__ \ | | | | | (__ 
 # (_)_.__/ \__,_|___/_| |_|_|  \___|
-# 
 # by Stephan Raabe (2023)
 # -----------------------------------------------------
 # ~/.bashrc
@@ -13,16 +12,9 @@
 [[ $- != *i* ]] && return
 PS1='[\u@\h \W]\$ '
 
-# Define Editor
-export EDITOR=nvim
-export VISUAL=nvim
+# Define Editor export EDITOR=nvim export VISUAL=nvim ----------------------------------------------------- ALIASES ----------------------------------------------------- 
 
-
-
-# -----------------------------------------------------
-# ALIASES
-# -----------------------------------------------------
-alias cl='clear'
+alias cl='clear' 
 alias nf='neofetch'
 alias pf='fastfetch'
 alias ff='fastfetch'
@@ -31,20 +23,13 @@ alias l='eza -a --icons'
 alias ll='eza -al --icons'
 alias lt='eza -a --tree --level=1 --icons'
 alias shutdown='systemctl poweroff'
-alias v='$EDITOR .'
+alias v='$EDITOR'
 alias vim='$EDITOR'
-alias ts='~/dotfiles/scripts/snapshot.sh'
 alias matrix='cmatrix'
 alias wifi='nmtui'
-alias od='~/private/onedrive.sh'
-alias rw='~/dotfiles/waybar/reload.sh'
-alias winclass="xprop | grep 'CLASS'"
-alias dot="cd ~/dotfiles"
-alias cleanup='~/dotfiles/scripts/cleanup.sh'
 alias h='Hyprland'
 alias zd='cd /home/ankit/Dev'
 alias zp='cd /home/ankit/Downloads/'
-alias dsa='cd /home/ankit/Dev/dsa/'
 alias b='cd ..'
 alias c='code .'
 alias x='xdg-open'
@@ -52,13 +37,9 @@ alias rm='trash-put'
 alias clean='trash-empty'
 alias zed='zeditor'
 alias gpt='brave --app=https://chat.openai.com'
+alias nv='nvim '
 alias lz='lazygit'
-alias study='cd ~/Dev/studies/'
-alias q='exit'
-alias update='sudo pacman -Syu'
-mkcd() { mkdir -p "$@" && cd "$@"; }
-alias search='nvim $(fzf --preview='\''bat {}'\'')'
-
+alias mkcd='function _mkcd(){ mkdir -p "$1"; cd "$1"; }; _mkcd'
 
 
 # PgAdmin
@@ -119,7 +100,7 @@ alias confb='$EDITOR ~/dotfiles/.bashrc'
 # -----------------------------------------------------
 # EDIT NOTES
 # -----------------------------------------------------
-alias notes='$EDITOR ~/Dev/notes.txt'
+alias notes='nvim /home/ankit/Dev/notes.txt'
 
 # -----------------------------------------------------
 # SYSTEM
@@ -146,6 +127,8 @@ alias dotsync="~/dotfiles-versions/dotfiles/.dev/sync.sh dotfiles"
 # START STARSHIP
 # -----------------------------------------------------
 eval "$(starship init bash)"
+
+eval "$(zoxide init bash)"
 
 # -----------------------------------------------------
 # PYWAL
@@ -174,7 +157,6 @@ export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-eval "$(zoxide init bash)"
 # bun
 export BUN_INSTALL="$HOME/.bun"
 export PATH=$BUN_INSTALL/bin:$PATH
@@ -182,4 +164,3 @@ export PATH=$BUN_INSTALL/bin:$PATH
 # zed
 export PATH="$HOME/.local/bin:/usr/lib/ccache/bin:$PATH"
 
-export PATH="$PATH":~/.local/bin

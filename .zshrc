@@ -9,17 +9,10 @@ zstyle :compinstall filename '/home/ankit/.zshrc'
 
 autoload -Uz compinit
 compinit
+
 # End of lines added by compinstall
-#
-# #    _               _              
-#   | |__   __ _ ___| |__  _ __ ___ 
-#   | '_ \ / _` / __| '_ \| '__/ __|
-#  _| |_) | (_| \__ \ | | | | | (__ 
-# (_)_.__/ \__,_|___/_| |_|_|  \___|
-# 
-# by Stephan Raabe (2023)
 # -----------------------------------------------------
-# ~/.bashrc
+# ~/.zshrc
 # -----------------------------------------------------
 
 # If not running interactively, don't do anything
@@ -34,7 +27,7 @@ export VISUAL=nvim
 # ALIASES
 # -----------------------------------------------------
 
-alias cl='clear'
+alias cl='clear' 
 alias nf='neofetch'
 alias pf='fastfetch'
 alias ff='fastfetch'
@@ -43,20 +36,13 @@ alias l='eza -a --icons'
 alias ll='eza -al --icons'
 alias lt='eza -a --tree --level=1 --icons'
 alias shutdown='systemctl poweroff'
-alias v='$EDITOR .'
+alias v='$EDITOR'
 alias vim='$EDITOR'
-alias ts='~/dotfiles/scripts/snapshot.sh'
 alias matrix='cmatrix'
 alias wifi='nmtui'
-alias od='~/private/onedrive.sh'
-alias rw='~/dotfiles/waybar/reload.sh'
-alias winclass="xprop | grep 'CLASS'"
-alias dot="cd ~/dotfiles"
-alias cleanup='~/dotfiles/scripts/cleanup.sh'
 alias h='Hyprland'
 alias zd='cd /home/ankit/Dev'
 alias zp='cd /home/ankit/Downloads/'
-alias dsa='cd /home/ankit/Dev/dsa/'
 alias b='cd ..'
 alias c='code .'
 alias x='xdg-open'
@@ -64,16 +50,15 @@ alias rm='trash-put'
 alias clean='trash-empty'
 alias zed='zeditor'
 alias gpt='brave --app=https://chat.openai.com'
+alias nv='nvim '
 alias lz='lazygit'
-alias study='cd ~/Dev/studies/'
-alias q='exit'
-alias update='sudo pacman -Syu'
-mkcd() { mkdir -p "$@" && cd "$@"; }
-alias search='nvim $(fzf --preview='\''bat {}'\'')'
+alias update='sudo pacman -Syu && yay -Syu'
+
+alias mkcd='function _mkcd(){ mkdir -p "$1"; cd "$1"; }; _mkcd'
+
 
 # PgAdmin
 alias pgadmin='source pgadmin4/bin/activate && pgadmin4'
-
 
 # -----------------------------------------------------
 # ML4W Apps
@@ -123,9 +108,7 @@ alias lg='~/dotfiles/scripts/looking-glass.sh'
 # -----------------------------------------------------
 # EDIT CONFIG FILES
 # -----------------------------------------------------
-alias confq='$EDITOR ~/dotfiles/qtile/config.py'
-alias confp='$EDITOR ~/dotfiles/picom/picom.conf'
-alias confb='$EDITOR ~/dotfiles/.bashrc'
+alias conf='nvim ~/.zshrc'
 
 # -----------------------------------------------------
 # EDIT NOTES
@@ -158,6 +141,9 @@ alias dotsync="~/dotfiles-versions/dotfiles/.dev/sync.sh dotfiles"
 # -----------------------------------------------------
 # eval "$(starship init bash)"
 eval "$(starship init zsh)"
+
+eval "$(zoxide init zsh)"
+
 # -----------------------------------------------------
 # PYWAL
 # -----------------------------------------------------
@@ -191,4 +177,9 @@ export PATH=$BUN_INSTALL/bin:$PATH
 
 # zed
 export PATH="$HOME/.local/bin:/usr/lib/ccache/bin:$PATH"
+
+# bindkey
+
+bindkey "^[[1;5C" forward-word
+bindkey "^[[1;5D" backward-word
 
