@@ -43,7 +43,6 @@ if status is-interactive
     end
 
 
-
 # -----------------------------------------------------
 # EDIT NOTES
 # -----------------------------------------------------
@@ -63,10 +62,38 @@ if status is-interactive
     alias gcredential="git config credential.helper store"
 
 
-# PgAdmin
+    # PgAdmin
     alias pgadmin='source pgadmin4/bin/activate && pgadmin4'
 
 
+    set fish_greeting
+
     zoxide init fish | source
     starship init fish | source
+
+
+# -----------------------------------------------------
+# PYWAL
+# -----------------------------------------------------
+    cat ~/.cache/wal/sequences
+
+# -----------------------------------------------------
+# Fastfetch if on wm
+# -----------------------------------------------------
+    fastfetch --config examples/13
+
+## Created by `pipx` on 2024-07-03 03:01:15
+#    export PATH="$PATH:/home/ankit/.local/bin"
+#
+#    export NVM_DIR="$HOME/.nvm"
+#    [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+#    [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+#
+## bun
+#    export BUN_INSTALL="$HOME/.bun"
+#    export PATH=$BUN_INSTALL/bin:$PATH
+#
+## zed
+#    export PATH="$HOME/.local/bin:/usr/lib/ccache/bin:$PATH"
+
 end
