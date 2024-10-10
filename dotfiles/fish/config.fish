@@ -71,6 +71,8 @@ if status is-interactive
     zoxide init fish | source
     starship init fish | source
 
+    # Created by `pipx` on 2024-07-03 03:01:15
+    export PATH="$PATH:/home/ankit/.local/bin"
 
 # -----------------------------------------------------
 # PYWAL
