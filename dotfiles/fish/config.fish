@@ -36,7 +36,8 @@ if status is-interactive
     alias lz='lazygit'
     alias update='sudo pacman -Syu && yay -Syu'
     alias q='exit'
-
+    alias conf='nvim ~/.config/fish/config.fish'
+    
     function mkcd
         mkdir -p "$argv"
         cd "$argv"
@@ -71,8 +72,8 @@ if status is-interactive
     zoxide init fish | source
     starship init fish | source
 
-    # Created by `pipx` on 2024-07-03 03:01:15
-    export PATH="$PATH:/home/ankit/.local/bin"
+# Created by `pipx` on 2024-07-03 03:01:15
+export PATH="$PATH:/home/ankit/.local/bin"
 
 # -----------------------------------------------------
 # PYWAL
