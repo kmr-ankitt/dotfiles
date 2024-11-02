@@ -37,7 +37,9 @@ if status is-interactive
     alias update='sudo pacman -Syu && yay -Syu'
     alias q='exit'
     alias conf='nvim ~/.config/fish/config.fish'
-    
+    alias todo='bat ~/Dev/todo.md'    
+    alias cax='make -C ~/Dev/Cax/ && cd ~/Dev/Cax/ && ./cax && cd -'
+
     function mkcd
         mkdir -p "$argv"
         cd "$argv"
@@ -47,7 +49,7 @@ if status is-interactive
 # -----------------------------------------------------
 # EDIT NOTES
 # -----------------------------------------------------
-    alias notes='$EDITOR ~/Dev/notes.txt'
+    alias notes='$EDITOR ~/Dev/notes.md'
 
 # -----------------------------------------------------
 # GIT
@@ -61,7 +63,7 @@ if status is-interactive
     alias gsp="git stash; git pull"
     alias gcheck="git checkout"
     alias gcredential="git config credential.helper store"
-
+    alias turso='cd  /home/ankit/.turso && ./turso'
 
     # PgAdmin
     alias pgadmin='source pgadmin4/bin/activate && pgadmin4'
@@ -85,6 +87,7 @@ export PATH="$PATH:/home/ankit/.local/bin"
 # -----------------------------------------------------
     fastfetch --config examples/13
 
+
 ## Created by `pipx` on 2024-07-03 03:01:15
 #    export PATH="$PATH:/home/ankit/.local/bin"
 #
@@ -98,5 +101,4 @@ export PATH="$PATH:/home/ankit/.local/bin"
 #
 ## zed
 #    export PATH="$HOME/.local/bin:/usr/lib/ccache/bin:$PATH"
-
 end
