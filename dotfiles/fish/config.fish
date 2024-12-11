@@ -85,7 +85,7 @@ export PATH="$PATH:/home/ankit/.local/bin"
 # -----------------------------------------------------
 # Fastfetch if on wm
 # -----------------------------------------------------
-    fastfetch --config examples/13
+    fastfetch --config examples/16
 
 
 ## Created by `pipx` on 2024-07-03 03:01:15
