@@ -39,6 +39,7 @@ if status is-interactive
     alias conf='nvim ~/.config/fish/config.fish'
     alias todo='bat ~/Dev/todo.md'    
     alias cax='make -C ~/Dev/Cax/ && cd ~/Dev/Cax/ && ./cax && cd -'
+    alias cache='sudo pacman -Scc'
 
     function mkcd
         mkdir -p "$argv"
@@ -74,6 +75,17 @@ if status is-interactive
     zoxide init fish | source
     starship init fish | source
 
+    
+    #-------------------------------------------------
+    # TMUX
+    #-------------------------------------------------
+
+    if test -z "$TMUX"
+    tmux attach || tmux new-session
+    end
+
+
+
 # Created by `pipx` on 2024-07-03 03:01:15
 export PATH="$PATH:/home/ankit/.local/bin"
 
@@ -88,12 +100,16 @@ export PATH="$PATH:/home/ankit/.local/bin"
     fastfetch --config examples/16
 
 
+
 ## Created by `pipx` on 2024-07-03 03:01:15
 #    export PATH="$PATH:/home/ankit/.local/bin"
 #
-#    export NVM_DIR="$HOME/.nvm"
-#    [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
-#    [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+
+
+    #export NVM_DIR="$HOME/.nvm"
+    #[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+    #[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 #
 ## bun
 #    export BUN_INSTALL="$HOME/.bun"
