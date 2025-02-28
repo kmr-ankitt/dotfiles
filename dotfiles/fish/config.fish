@@ -40,6 +40,8 @@ if status is-interactive
     alias todo='bat ~/Dev/todo.md'    
     alias cax='make -C ~/Dev/Cax/ && cd ~/Dev/Cax/ && ./cax && cd -'
     alias cache='sudo pacman -Scc'
+    alias nd='neovide '
+    alias lzd='sudo lazydocker'
 
     function mkcd
         mkdir -p "$argv"
@@ -88,6 +90,17 @@ if status is-interactive
 
 # Created by `pipx` on 2024-07-03 03:01:15
 export PATH="$PATH:/home/ankit/.local/bin"
+
+export PATH="$PATH:/home/ankit/.cargo/bin"
+
+#-------------------------------------------------
+# Android Studio
+#-------------------------------------------------
+export ANDROID_HOME="$HOME/Android/Sdk"
+export PATH="$PATH:$ANDROID_HOME/emulator"
+export PATH="$PATH:$ANDROID_HOME/platform-tools"
+
+
 
 # -----------------------------------------------------
 # PYWAL
