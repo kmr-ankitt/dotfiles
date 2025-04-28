@@ -45,7 +45,7 @@ if status is-interactive
 
     function mkcd
         mkdir -p "$argv"
-        cd "$argv"
+        z "$argv"
     end
 
 
@@ -69,7 +69,7 @@ if status is-interactive
     alias turso='cd  /home/ankit/.turso && ./turso'
 
     # PgAdmin
-    alias pgadmin='source pgadmin4/bin/activate && pgadmin4'
+    alias pgadmin='source pgadmin4/bin/activate.fish && pgadmin4'
 
 
     set fish_greeting
@@ -110,7 +110,7 @@ export PATH="$PATH:$ANDROID_HOME/platform-tools"
 # -----------------------------------------------------
 # Fastfetch if on wm
 # -----------------------------------------------------
-    fastfetch --config examples/16
+    fastfetch --config ~/.config/fastfetch/config.jsonc
 
 
 
