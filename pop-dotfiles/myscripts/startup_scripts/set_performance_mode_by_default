@@ -1,6 +1,0 @@
-#!/bin/sh
-
-system76-power profile performance
-
-# zenity --notification --text "Change mode to performance." 
-
