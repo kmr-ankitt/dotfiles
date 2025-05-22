@@ -19,7 +19,6 @@ if status is-interactive
     alias lt='eza -a --tree --level=1 --icons'
     alias shutdown='systemctl poweroff'
     alias v='$EDITOR'
-    alias vim='$EDITOR'
     alias matrix='cmatrix'
     alias wifi='nmtui'
     alias h='Hyprland'
@@ -101,6 +100,8 @@ export PATH="$PATH:$ANDROID_HOME/emulator"
 export PATH="$PATH:$ANDROID_HOME/platform-tools"
 
 
+set GOPATH $HOME/go  
+set PATH $PATH:/usr/local/go/bin:$GOPATH/bin
 
 # -----------------------------------------------------
 # PYWAL
@@ -112,7 +113,8 @@ export PATH="$PATH:$ANDROID_HOME/platform-tools"
 # -----------------------------------------------------
     fastfetch --config ~/.config/fastfetch/config.jsonc
 
-
+export PKG_CONFIG_PATH="/usr/local/lib/pkgconfig:$PKG_CONFIG_PATH"
+export LD_LIBRARY_PATH="/usr/local/lib:$LD_LIBRARY_PATH"
 
 ## Created by `pipx` on 2024-07-03 03:01:15
 #    export PATH="$PATH:/home/ankit/.local/bin"
