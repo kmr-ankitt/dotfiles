@@ -3,7 +3,6 @@ local options = {
     lua = { "stylua" },
     css = { "prettier" },
     html = { "prettier" },
-    rust = { "rustfmt" },
     typescript = { "prettier" },
   },
 
@@ -14,4 +13,4 @@ local options = {
   },
 }
 
-require("conform").setup(options)
+return options
