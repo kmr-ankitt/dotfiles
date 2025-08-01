@@ -1,0 +1,55 @@
+{
+  "layer": "top", // Waybar at top layer
+  "position": "top", // Waybar position (top|bottom|left|right)
+  "height": 16, // Waybar height (to be removed for auto height)
+  // "width": 1280, // Waybar width
+  "spacing": 8, // Gaps between modules (4px)
+  "margin-top": 8,
+  "margin-left": 8,
+  "margin-right": 8,
+  "mode": "dock",
+  "reload_style_on_change": true,
+  "include": [
+    "~/.config/waybar/modules.json",
+    "~/.config/waybar/quicklinks.json",
+    "~/.config/waybar/hardware.json",
+    "~/.config/waybar/media.json",
+    "~/.config/waybar/power.json",
+    "~/.config/waybar/net.json"
+  ],
+  "modules-left": [
+    // "custom/appmenu",
+    // "group/quicklinks",
+    // "tray",
+    "clock",
+    "hyprland/window"
+  ],
+  "modules-center": [
+    "hyprland/workspaces"
+  ],
+  "modules-right": [
+    "group/net",
+    "group/media",
+    "group/hardware",
+    "custom/power"
+  ],
+  "hyprland/window" : {
+    "max-length": 10
+  },
+
+  "clock": {
+    "format": "{:%I:%M %p}",
+    "interval": 1,   
+    "tooltip-format": "<tt>{calendar}</tt>",
+    "calendar": {
+        "format": {
+            "today": "<span color='#fAfBfC'><b>{}</b></span>"
+        }
+    },
+    "actions": {
+        "on-click-right": "shift_down",
+        "on-click": "shift_up"
+    }
+  }
+}
+

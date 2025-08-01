@@ -1,0 +1,30 @@
+{
+  "network": {
+    "interface": "wlp0s20f3",
+    "format": " {essid}({signalStrength}%)",
+    "tooltip": true,
+    "rotate": 0,
+    "format-ethernet": " {ifname} ↓{bandwidthDownBits} ↑{bandwidthUpBits}",
+    "tooltip-format": "SSID: <b>{essid}</b>\nDown: <b>{bandwidthDownBits}</b>\nUp: <b>{bandwidthUpBits}</b>\nSignal: <b>{signalStrength}%</b>\nInterface: <b>{ifname}</b>",
+    "format-linked": " {ifname} (No IP)",
+    "format-disconnected": "󰖪 Disconnected",
+    "tooltip-format-disconnected": "No Network",
+    "format-alt": "<span foreground='#99ffdd'> {bandwidthDownBits}</span> <span foreground='#ffcc66'> {bandwidthUpBits}</span>",
+    "interval": 2,
+    "on-click-right": "alacritty -e nmtui"
+  },
+
+  "bluetooth": {
+    "on-click": "~/.config/waybar/scripts/bluetooth.sh",
+    "format": " {status}",
+    "max-length": 8,
+    "format-connected": "󰂱 {device_alias}",
+    "tooltip-format-connected": " {device_alias} {device_battery_percentage}%",
+    "on-click-right": "blueman-manager"
+  },
+
+  "group/net": {
+    "orientation": "horizontal",
+    "modules": ["network", "bluetooth"]
+  }
+}

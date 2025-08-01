@@ -1,0 +1,30 @@
+{
+  "cpu": {
+    "format": " {usage}%"
+  },
+
+  "memory": {
+    "format": " {}%"
+  },
+
+ "battery": {
+    "interval": 1,
+    "bat": "BAT0",
+    "states": {
+        "warning": 30,
+        "critical": 15
+    },
+      "format": "{icon} {capacity}%", 
+      "format-charging": "󰂄 {capacity}%",
+      "format-plugged": "󰂄 {capacity}%",
+      "format-alt": "{icon} {time} ",
+      "format-icons": ["󰁻", "󰁼", "󰁾", "󰂀", "󰂂","󰁹"],
+
+    "max-length": 25
+ },
+
+  "group/hardware": {
+    "orientation": "horizontal",
+    "modules": ["battery", "cpu", "memory"]
+  }
+}

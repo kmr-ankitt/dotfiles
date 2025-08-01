@@ -1,0 +1,8 @@
+{
+  "custom/power": {
+    "format": "⏻ ",
+    "tooltip": "Power Options",
+    "on-click": "exec ~/.config/rofi/scripts/powermenu_t2"
+  }
+}
+
