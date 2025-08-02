@@ -23,29 +23,55 @@
 /* @define-color activeFg #000000; */
 /* @define-color shadow alpha(@lavender, 0.25); */
 
-@define-color rosewater #f2e5bc;
-@define-color flamingo  #f28534;
-@define-color pink      #d3869b;
-@define-color mauve     #b16286;
-@define-color red       #cc241d;
-@define-color maroon    #9d0006;
-@define-color peach     #fe8019;
-@define-color yellow    #fabd2f;
-@define-color green     #98971a;
-@define-color teal      #8ec07c;
-@define-color sky       #83a598;
-@define-color sapphire  #458588;
-@define-color blue      #076678;
-@define-color lavender  #b8bb26;
+/* @define-color rosewater #f2e5bc; */
+/* @define-color flamingo  #f28534; */
+/* @define-color pink      #d3869b; */
+/* @define-color mauve     #b16286; */
+/* @define-color red       #cc241d; */
+/* @define-color maroon    #9d0006; */
+/* @define-color peach     #fe8019; */
+/* @define-color yellow    #fabd2f; */
+/* @define-color green     #98971a; */
+/* @define-color teal      #8ec07c; */
+/* @define-color sky       #83a598; */
+/* @define-color sapphire  #458588; */
+/* @define-color blue      #076678; */
+/* @define-color lavender  #b8bb26; */
+/**/
+/* @define-color base alpha(#282828, 0.1); */
+/* @define-color surface alpha(@lavender, 0.15); */ 
+/* @define-color surface alpha(#282828, 0.5); */
+/* @define-color text #ebdbb2; */
+/* @define-color hoverBg alpha(@mauve, 1); */
+/* @define-color hoverFg #282828; */
+/* @define-color activeBg alpha(@mauve, 1); */
+/* @define-color activeFg #282828; */
+/* @define-color shadow alpha(@lavender, 0.25); */
 
-@define-color base alpha(#282828, 0.1);
+
+@define-color rosewater #d2c5a3;
+@define-color flamingo  #665C54;
+@define-color pink      #70655B;
+@define-color mauve     #766E61;
+@define-color red       #BE492A;
+@define-color maroon    #867667;
+@define-color peach     #64A66C;
+@define-color yellow    #d2c5a3;
+@define-color green     #70655B;
+@define-color teal      #938972;
+@define-color sky       #665C54;
+@define-color sapphire  #867667;
+@define-color blue      #64A66C;
+@define-color lavender  #d2c5a3;
+
+@define-color base alpha(#0e1013, 0.1);
 /* @define-color surface alpha(@lavender, 0.15); */
-@define-color surface alpha(#282828, 0.5);
-@define-color text #ebdbb2;
+@define-color surface alpha(#0e1013, 0.5);
+@define-color text #d2c5a3;
 @define-color hoverBg alpha(@mauve, 1);
-@define-color hoverFg #282828;
+@define-color hoverFg #0e1013;
 @define-color activeBg alpha(@mauve, 1);
-@define-color activeFg #282828;
+@define-color activeFg #0e1013;
 @define-color shadow alpha(@lavender, 0.25);
 
 

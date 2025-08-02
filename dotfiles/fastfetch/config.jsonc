@@ -12,6 +12,7 @@
     "uptime",
     "kernel",
     "de",
+    "wm",
     "terminal",
     "shell",
     "cpu",
@@ -20,6 +21,5 @@
     "battery",
     "memory",
     "colors"
-    
   ]
 }

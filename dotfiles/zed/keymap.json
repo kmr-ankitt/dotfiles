@@ -7,7 +7,8 @@
       "ctrl-enter":"editor::NewlineBelow",
       "ctrl-shift-enter":"editor::NewlineAbove",
       "alt-shift-down":"editor::DuplicateLineDown",
-      "alt-shift-up":"editor::DuplicateLineDown"
+      "alt-shift-up":"editor::DuplicateLineDown",
+      "ctrl-i":"assistant::InlineAssist"
     }
     
   }
