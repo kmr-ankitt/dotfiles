@@ -18,13 +18,11 @@ CONFIG_DIRS=(
   nwg-look
   tmux
   fish
-  vim
 )
 
 for dir in "${CONFIG_DIRS[@]}"; do
-  cp -r ~/.config/$dir "$DEST/"
+  rsync -a --exclude='.git' ~/.config/$dir/ "$DEST/$dir/"
 done
 
 # Shell config files
 cp ~/.bashrc ~/Downloads/dotfiles/
-cp ~/.zshrc ~/Downloads/dotfiles/
