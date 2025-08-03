@@ -12,7 +12,6 @@ CONFIG_DIRS=(
   waypaper
   alacritty
   rofi
-  nvim
   zed
   fastfetch
   nwg-look
