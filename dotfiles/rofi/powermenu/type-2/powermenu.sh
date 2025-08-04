@@ -82,7 +82,7 @@ run_cmd() {
 			elif [[ "$DESKTOP_SESSION" == 'plasma' ]]; then
 				qdbus org.kde.ksmserver /KSMServer logout 0 0 0
             elif [[ "$DESKTOP_SESSION" == 'hyprland' ]]; then
-                hyprctl dispatch exit
+		hyprctl dispatch exit 1
             else 
                 hyprctl dispatch exit
 			fi
