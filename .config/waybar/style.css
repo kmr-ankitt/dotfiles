@@ -137,7 +137,7 @@ window#waybar.empty #window {
 #media,
 #hardware,
 #clock,
-#net,
+#tray,
 #custom-notification {
   background-color: @surface;
   border-radius: 999px;
@@ -145,7 +145,7 @@ window#waybar.empty #window {
 }
 
 #media,
-#net,
+#tray,
 #hardware,
 #clock {
   padding: 0 8px;
@@ -181,9 +181,15 @@ window#waybar.empty #window {
   padding: 0.5rem 0.5rem;
 }
 
-#network,
-#bluetooth{
+#tray icons{
   padding: 0.5rem 0.5rem;
+}
+
+#tray menu{
+  padding: 0.5rem 0.5rem;
+  background-color: @surface;
+  border-radius: 1rem;
+  box-shadow: 0px 0px 8px 4px @shadow inset;
 }
 
 #custom-appmenu,

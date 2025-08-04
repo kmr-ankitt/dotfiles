@@ -63,6 +63,5 @@
 
     fastfetch --config ~/.config/fastfetch/config.jsonc
 
-    source ~/.nix-profile/etc/profile.d/nix.fish
 
     export GPG_TTY=$(tty)

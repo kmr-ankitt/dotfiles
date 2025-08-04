@@ -1,1 +1,0 @@
-source "/home/ankit/.deno/env.fish"

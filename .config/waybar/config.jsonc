@@ -28,7 +28,8 @@
     "hyprland/workspaces"
   ],
   "modules-right": [
-    "group/net",
+    "tray",
+    // "group/net",
     "group/media",
     "group/hardware",
     "custom/power"
@@ -50,6 +51,11 @@
         "on-click-right": "shift_down",
         "on-click": "shift_up"
     }
+  },
+  "tray" : {
+    "icon-size": 15,
+    "spacing": 10,
+    "tooltip": true,
   }
 }
 

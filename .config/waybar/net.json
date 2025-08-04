@@ -1,0 +1,20 @@
+{
+  "network": {
+    "interface": "wlp0s20f3",
+    "format": " {essid}({signalStrength}%)",
+  },
+
+  "bluetooth": {
+    "on-click": "~/.config/waybar/scripts/bluetooth.sh",
+    "format": " {status}",
+    "max-length": 8,
+    "format-connected": "󰂱 {device_alias}",
+    "tooltip-format-connected": " {device_alias} {device_battery_percentage}%",
+    "on-click-right": "blueman-manager"
+  },
+
+  "group/net": {
+    "orientation": "horizontal",
+    "modules": ["network", "bluetooth"]
+  }
+}
