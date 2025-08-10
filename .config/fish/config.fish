@@ -18,7 +18,7 @@
     alias zd='cd /home/ankit/Dev'
     alias zp='cd /home/ankit/Downloads/'
     alias b='cd ..'
-    alias c='code .'
+    alias c='code .  --ozone-platform-hint=wayland'
     alias x='xdg-open'
     alias rm='trash-put'
     alias clean='trash-empty'
@@ -33,6 +33,7 @@
     alias tn='tmux new-session -s'
     alias tl='tmux list-sessions'
     alias ta='tmux attach-session'
+    alias code='code --ozone-platform-hint=wayland'
 
     function mkcd
         mkdir -p "$argv"
