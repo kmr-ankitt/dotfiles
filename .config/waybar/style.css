@@ -185,7 +185,7 @@ window#waybar.empty #window {
   color: @textColor3;
 }
 
-#hardware, #media, #clock, #window, #workspaces button{
+#media, #clock, #workspaces button{
   color: @textColor2;
 }
 
