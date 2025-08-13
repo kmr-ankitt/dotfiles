@@ -22,7 +22,6 @@
 
     "max-length": 25
  },
-
   "group/hardware": {
     "orientation": "horizontal",
     "modules": ["battery", "cpu", "memory"]

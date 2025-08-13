@@ -28,9 +28,25 @@
     "on-click-right": "pavucontrol",
     "on-click": "amixer set Capture toggle"
   },
-
+"backlight": {
+    "format": "{icon}",
+    "tooltip-format": "{icon} {percent}",
+    "format-icons": [
+        "󰌶",
+        "󱩎",
+        "󱩏",
+        "󱩐",
+        "󱩑",
+        "󱩒",
+        "󱩓",
+        "󱩔",
+        "󱩕",
+        "󱩖",
+        "󰛨"
+    ]
+  },
   "group/media": {
     "orientation": "horizontal",
-    "modules": ["pulseaudio", "pulseaudio#mic"]
+    "modules": ["backlight", "pulseaudio", "pulseaudio#mic"]
   }
 }
