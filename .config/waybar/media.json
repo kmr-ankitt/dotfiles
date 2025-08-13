@@ -31,6 +31,7 @@
 "backlight": {
     "format": "{icon}",
     "tooltip-format": "{icon} {percent}",
+    "reverse-scrolling" : true,
     "format-icons": [
         "󰌶",
         "󱩎",
