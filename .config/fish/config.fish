@@ -34,6 +34,7 @@
     alias tl='tmux list-sessions'
     alias ta='tmux attach-session'
     alias code='code --ozone-platform-hint=wayland'
+    alias dsa='~/Dev/shitcode/setupenv.sh'
 
     function mkcd
         mkdir -p "$argv"
