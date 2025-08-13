@@ -177,7 +177,7 @@ window#waybar.empty #window {
   padding: 0 8px;
 }
 
-#pulseaudio{
+#pulseaudio.mic{
   padding-right: 0.5rem;
 }
 
