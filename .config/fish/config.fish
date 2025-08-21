@@ -29,12 +29,14 @@
     alias conf='nvim ~/.config/fish/config.fish'
     alias cache='sudo pacman -Scc'
     alias lzd='lazydocker'
-    alias notes='$EDITOR ~/Dev/notes.md'
+    alias notes='$EDITOR ~/Documents/personal/notes.md'
     alias tn='tmux new-session -s'
     alias tl='tmux list-sessions'
     alias ta='tmux attach-session'
     alias code='code --ozone-platform-hint=wayland'
     alias dsa='~/Dev/shitcode/setupenv.sh'
+    alias postman='postman --ozone-platform-hint=wayland'
+    alias s='source ~/.config/fish/config.fish'
 
     function mkcd
         mkdir -p "$argv"
