@@ -32,6 +32,11 @@ alias notes='nvim /home/ankit/Dev/notes.txt'
 # PgAdmin
 alias pgadmin='source pgadmin4/bin/activate && pgadmin4'
 
+export ANDROID_HOME=$HOME/Android/Sdk
+export ANDROID_SDK_ROOT=$ANDROID_HOME
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+
 
 # -----------------------------------------------------
 # SYSTEM

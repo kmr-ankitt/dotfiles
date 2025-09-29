@@ -34,9 +34,10 @@
     alias tl='tmux list-sessions'
     alias ta='tmux attach-session'
     alias code='code --ozone-platform-hint=wayland'
-    alias dsa='~/Dev/shitcode/setupenv.sh'
     alias postman='postman --ozone-platform-hint=wayland'
     alias s='source ~/.config/fish/config.fish'
+    alias journal='nvim ~/Documents/personal/quickjournal.md'
+    alias cd='z '
 
     function mkcd
         mkdir -p "$argv"
@@ -52,10 +53,7 @@
     zoxide init fish | source
     starship init fish | source
 
-    #-------------------------------------------------
-    # Hyprland
-    # -------------------------------------------------
-    
+
     #-------------------------------------------------
     # TMUX
     #-------------------------------------------------
