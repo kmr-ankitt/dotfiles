@@ -64,6 +64,17 @@
 
 
     fastfetch --config ~/.config/fastfetch/config.jsonc
+    # wal -i ~/Pictures/wallpapers/wall1.jpg -a 0.3 -q
 
+    #-------------------------------------------------
+    # PYWAL
+    #-------------------------------------------------
+    # Alternative (blocks terminal for 0-3ms)
+    cat ~/.cache/wal/sequences
+
+    # To add support for TTYs this line can be optionally added.
+    if test -f ~/.cache/wal/colors.fish
+        source ~/.cache/wal/colors.fish
+    end
 
     export GPG_TTY=$(tty)

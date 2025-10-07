@@ -1,80 +1,3 @@
-/* @define-color rosewater #f5e0dc; */
-/* @define-color flamingo #f2cdcd; */
-/* @define-color pink #f5c2e7; */
-/* @define-color mauve #cba6f7; */
-/* @define-color red #f38ba8; */
-/* @define-color maroon #eba0ac; */
-/* @define-color peach #fab387; */
-/* @define-color yellow #f9e2af; */
-/* @define-color green #a6e3a1; */
-/* @define-color teal #94e2d5; */
-/* @define-color sky #89dceb; */
-/* @define-color sapphire #74c7ec; */
-/* @define-color blue #89b4fa; */
-/* @define-color lavender #b4befe; */
-/**/
-/* @define-color base alpha(#000000, 0.1); */
-/* @define-color surface alpha(@lavender, 0.15); */ 
-/* @define-color surface alpha(#000000, 0.5); */
-/* @define-color text #cdd6f4; */
-/* @define-color hoverBg alpha(@mauve, 1); */
-/* @define-color hoverFg #000000; */
-/* @define-color activeBg alpha(@mauve, 1); */
-/* @define-color activeFg #000000; */
-/* @define-color shadow alpha(@lavender, 0.25); */
-
-/* @define-color rosewater #f2e5bc; */
-/* @define-color flamingo  #f28534; */
-/* @define-color pink      #d3869b; */
-/* @define-color mauve     #b16286; */
-/* @define-color red       #cc241d; */
-/* @define-color maroon    #9d0006; */
-/* @define-color peach     #fe8019; */
-/* @define-color yellow    #fabd2f; */
-/* @define-color green     #98971a; */
-/* @define-color teal      #8ec07c; */
-/* @define-color sky       #83a598; */
-/* @define-color sapphire  #458588; */
-/* @define-color blue      #076678; */
-/* @define-color lavender  #b8bb26; */
-/**/
-/* @define-color base alpha(#282828, 0.1); */
-/* @define-color surface alpha(@lavender, 0.15); */ 
-/* @define-color surface alpha(#282828, 0.5); */
-/* @define-color text #ebdbb2; */
-/* @define-color hoverBg alpha(@mauve, 1); */
-/* @define-color hoverFg #282828; */
-/* @define-color activeBg alpha(@mauve, 1); */
-/* @define-color activeFg #282828; */
-/* @define-color shadow alpha(@lavender, 0.25); */
-
-
-/* Gruvbox */
-/* @define-color rosewater #d2c5a3; */
-/* @define-color flamingo  #665C54; */
-/* @define-color pink      #70655B; */
-/* @define-color mauve     #766E61; */
-/* @define-color red       #BE492A; */
-/* @define-color maroon    #867667; */
-/* @define-color peach     #64A66C; */
-/* @define-color yellow    #d2c5a3; */
-/* @define-color green     #70655B; */
-/* @define-color teal      #938972; */
-/* @define-color sky       #665C54; */
-/* @define-color sapphire  #867667; */
-/* @define-color blue      #64A66C; */
-/* @define-color lavender  #d2c5a3; */
-/**/
-/* @define-color base alpha(#0e1013, 0.1); */
-/* @define-color surface alpha(@lavender, 0.15); */ 
-/* @define-color surface alpha(#0e1013, 0.5); */
-/* @define-color text #d2c5a3; */
-/* @define-color hoverBg alpha(@mauve, 1); */
-/* @define-color hoverFg #0e1013; */
-/* @define-color activeBg alpha(@mauve, 1); */
-/* @define-color activeFg #0e1013; */
-/* @define-color shadow alpha(@lavender, 0.25); */
-
 @define-color rosewater #a89f8a;
 @define-color flamingo  #3a3632;
 @define-color pink      #4a443f;
@@ -93,15 +16,16 @@
 @define-color base alpha(#0e1013, 0.9);
 @define-color surface alpha(#0e1013, 0.95);
 @define-color text #e0dbc5;
-@define-color hoverBg alpha(@mauve, 0.9);
+@define-color hoverBg alpha(@background, 0.9);
 @define-color hoverFg #0e1013;
-@define-color activeBg alpha(@mauve, 0.9);
+@define-color activeBg alpha(@background, 0.9);
 @define-color activeFg #0e1013;
-@define-color shadow alpha(@lavender, 0.15);
+@define-color shadow alpha(@backgroud, 0.15);
 @define-color textColor1 #93DA97;
 @define-color textColor2 #FDF5AA;
 @define-color textColor3 #FF8282;
 
+@import "../../.cache/wal/colors-waybar.css";
 * {
   all: unset;
   font-size: 01rem;
@@ -125,7 +49,7 @@ button {
   min-width: 32px;
   min-height: 32px;
   border-radius: 999px;
-  color: @text;
+  color: @color15;
   box-shadow: 0px 0px 8px 4px @shadow inset;
   transition:
     all 50ms cubic-bezier(0.55, 0, 0.28, 1.682),
@@ -165,7 +89,7 @@ window#waybar.empty #window {
 #clock,
 #tray,
 #custom-notification {
-  background-color: @surface;
+  background-color: @background;
   border-radius: 999px;
   box-shadow: 0px 0px 8px 4px @shadow inset;
 }
@@ -189,15 +113,23 @@ window#waybar.empty #window {
 }
 
 #custom-power{
-  background-color: @surface;
+  background-color: @background;
   border-radius: 999px;
   padding: 0 1rem;
   box-shadow: 0px 0px 8px 4px @shadow inset;
-  color: @textColor3;
+  color: @color10;
 }
 
-#media, #clock, #workspaces button{
-  color: @textColor2;
+#media{
+  color: @color12;
+}
+
+#clock{
+  color: @color12
+}
+
+#workspaces button, #hardware{
+  color: @color15
 }
 
 #custom-quicklink1,
@@ -231,7 +163,7 @@ window#waybar.empty #window {
 #clock calendar
 {
   padding: 1rem 1rem;
-  background-color: @surface;
+  background-color: @background;
   border-radius: 1rem;
   box-shadow: 0px 0px 8px 4px @shadow inset;
 }
