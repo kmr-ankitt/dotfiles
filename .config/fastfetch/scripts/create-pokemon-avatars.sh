@@ -1,7 +1,7 @@
 #!/bin/bash
 
 main() {
-  cd ../logos/ 
+  cd ~/.config/fastfetch/logos/ 
   mkdir -p pokemons
   declare -A saved
   read -p "how many pokemons: " pokemon_count
