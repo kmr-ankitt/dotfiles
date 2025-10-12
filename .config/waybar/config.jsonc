@@ -15,13 +15,15 @@
     "~/.config/waybar/hardware.json",
     "~/.config/waybar/media.json",
     "~/.config/waybar/power.json",
-    "~/.config/waybar/net.json"
+    "~/.config/waybar/net.json",
+    "~/.config/waybar/datetime.json"
   ],
   "modules-left": [
     // "custom/appmenu",
     // "group/quicklinks",
     // "tray",
-    "clock",
+    "clock#date",
+    "clock#time",
     "hyprland/window"
   ],
   "modules-center": [
@@ -36,24 +38,6 @@
   ],
   "hyprland/window": {
     "max-length": 10
-  },
-  "clock": {
-    "format": "{:%I:%M %p}",
-    "interval": 1,
-    "tooltip-format": "<tt>{calendar}</tt>",
-    "calendar": {
-      "format": {
-        "months": "<span color='#ffead3'><b>{}</b></span>",
-        "days": "<span color='#ecc6d9'><b>{}</b></span>",
-        "weeks": "<span color='#99ffdd'><b>W{}</b></span>",
-        "weekdays": "<span color='#ffcc66'><b>{}</b></span>",
-        "today": "<span color='#ff6699'><b><u>{}</u></b></span>"
-      }
-    },
-    "actions": {
-      "on-click-right": "shift_down",
-      "on-click": "shift_up"
-    }
   },
   "tray": {
     "icon-size": 15,

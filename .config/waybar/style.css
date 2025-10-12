@@ -124,11 +124,11 @@ window#waybar.empty #window {
   color: @color12;
 }
 
-#clock{
+#clock.time{
   color: @color12
 }
 
-#workspaces button, #hardware{
+#workspaces button, #hardware, #clock.date{
   color: @color15
 }
 

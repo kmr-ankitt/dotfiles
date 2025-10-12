@@ -1,0 +1,24 @@
+{
+  "clock#date": {
+    "format": "{:%h %d %Y}",
+    "interval": 1,
+    "tooltip-format": "<tt>{calendar}</tt>",
+    "calendar": {
+      "format": {
+        "months": "<span color='#ffead3'><b>{}</b></span>",
+        "days": "<span color='#ecc6d9'><b>{}</b></span>",
+        "weeks": "<span color='#99ffdd'><b>W{}</b></span>",
+        "weekdays": "<span color='#ffcc66'><b>{}</b></span>",
+        "today": "<span color='#ff6699'><b><u>{}</u></b></span>"
+      }
+    },
+    "actions": {
+      "on-click-right": "shift_down",
+      "on-click": "shift_up"
+    }
+  },
+  "clock#time": {
+    "format": "{:%I:%M %p}",
+    },
+  },
+}
