@@ -9,13 +9,13 @@
 {
   "icon_theme": "Material Icon Theme",
   "features": {
-    "edit_prediction_provider": "zed"
+    "edit_prediction_provider": "copilot"
   },
   "agent": {
     "play_sound_when_agent_done": true,
     "inline_assistant_model": {
       "provider": "copilot_chat",
-      "model": "gpt-4.1"
+      "model": "gpt-5-mini"
     },
     "default_model": {
       "provider": "openai",
@@ -26,8 +26,8 @@
   "buffer_font_size": 16.0,
   "theme": {
     "mode": "system",
-    "light": "One Light",
-    "dark": "Catppuccin Mocha (Blue Blur+)"
+    "light": "Gruvbox Light",
+    "dark": "Catppuccin Mocha (Blur)"
   },
   
   // LSPs
