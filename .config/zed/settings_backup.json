@@ -7,28 +7,24 @@
 // custom settings, run the `open default settings` command
 // from the command palette or from `Zed` application menu.
 {
+  "icon_theme": "Material Icon Theme",
   "features": {
-    "edit_prediction_provider": "zed"
+    "edit_prediction_provider": "copilot"
   },
   "agent": {
     "play_sound_when_agent_done": true,
     "inline_assistant_model": {
       "provider": "copilot_chat",
-      "model": "gpt-4.1"
+      "model": "gpt-5-mini"
     },
     "default_model": {
       "provider": "openai",
       "model": "gpt-3.5-turbo"
     },
-    "version": "2"
   },
   "ui_font_size": 18,
   "buffer_font_size": 16.0,
-  "theme": {
-    "mode": "system",
-    "light": "One Light",
-    "dark": "Gruvbox Dark"
-  },
+  "theme": "Catppuccin Iced Latte (Blur)",
   
   // LSPs
   

@@ -7,10 +7,10 @@
 // custom settings, run the `open default settings` command
 // from the command palette or from `Zed` application menu.
 {
-  "icon_theme": "Material Icon Theme",
-  "features": {
-    "edit_prediction_provider": "copilot"
+  "edit_predictions": {
+    "provider": "copilot"
   },
+  "icon_theme": "Material Icon Theme",
   "agent": {
     "play_sound_when_agent_done": true,
     "inline_assistant_model": {
@@ -24,11 +24,7 @@
   },
   "ui_font_size": 18,
   "buffer_font_size": 16.0,
-  "theme": {
-    "mode": "system",
-    "light": "Gruvbox Light",
-    "dark": "Catppuccin Mocha (Blur)"
-  },
+  "theme": "Catppuccin Iced Latte (Blur)",
   
   // LSPs
   
@@ -61,5 +57,5 @@
     }
   },
   "vim_mode": true,
-  "relative_line_numbers": true
+  "relative_line_numbers": "enabled"
 }

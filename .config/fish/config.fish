@@ -25,11 +25,12 @@
     alias nv='nvim '
     alias lz='lazygit'
     alias update='sudo pacman -Syu && yay -Syu'
-    alias q='exit'
     alias conf='nvim ~/.config/fish/config.fish'
     alias cache='sudo pacman -Scc'
     alias lzd='lazydocker'
     alias notes='$EDITOR ~/Documents/personal/notes.md'
+    alias gsoc='$EDITOR ~/Documents/personal/gsoc.md'
+    alias viewnotes='glow -t ~/Documents/personal/notes.md'
     alias tn='tmux new-session -s'
     alias tl='tmux list-sessions'
     alias ta='tmux attach-session'
@@ -38,6 +39,16 @@
     alias s='source ~/.config/fish/config.fish'
     alias journal='nvim ~/Documents/personal/quickjournal.md'
     alias cd='z '
+    alias sizeof='du -sh '
+
+  #-----------------------------------------#
+  #  GIT
+  #-----------------------------------------#
+    alias gp='git pull origin'
+    alias gps='git push origin '
+    alias gm='git checkout main'
+
+
 
     function mkcd
         mkdir -p "$argv"
@@ -72,9 +83,14 @@
     # Alternative (blocks terminal for 0-3ms)
     cat ~/.cache/wal/sequences
 
+    # PATHS
+    export PATH="/home/ankit/Dev/oss/depot_tools:$PATH"
+
+
     # To add support for TTYs this line can be optionally added.
     if test -f ~/.cache/wal/colors.fish
         source ~/.cache/wal/colors.fish
     end
 
     export GPG_TTY=$(tty)
+source /home/ankit/.config/fish/kraft_completion.fish;
