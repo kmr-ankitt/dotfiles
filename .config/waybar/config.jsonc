@@ -23,7 +23,8 @@
     // "group/quicklinks",
     // "tray",
     "clock#date",
-    "clock#time",
+    "clock#ist",
+    "clock#utc",
     "hyprland/window"
   ],
   "modules-center": [

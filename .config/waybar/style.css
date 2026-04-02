@@ -129,7 +129,7 @@ window#waybar.empty #window {
   color: @color12
 }
 
-#workspaces button, #hardware, #clock.date{
+#workspaces button, #hardware, #clock.date, #clock.utc{
   color: @color15
 }
 

@@ -17,8 +17,13 @@
       "on-click": "shift_up"
     }
   },
-  "clock#time": {
-    "format": "{:%I:%M %p}",
-    },
+  "clock#ist": {
+    "timezone": "Asia/Kolkata",
+    "format": "{:%I:%M %p}"
   },
+
+  "clock#utc": {
+    "timezone": "UTC",
+    "format": "UTC {:%I:%M %p}"
+  }
 }
