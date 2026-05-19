@@ -17,6 +17,13 @@ CONFIG_DIRS=(
   nwg-look
   tmux
   fish
+  wezterm
+  dunst
+  wal
+  sddm
+  nushell
+  neofetch
+  vim
 )
 
 for dir in "${CONFIG_DIRS[@]}"; do
