@@ -18,7 +18,6 @@
     alias zd='cd /home/ankit/Dev'
     alias zp='cd /home/ankit/Downloads/'
     alias b='cd ..'
-    alias c='code .  --ozone-platform-hint=wayland'
     alias x='xdg-open'
     alias rm='trash-put'
     alias clean='trash-empty'
@@ -40,6 +39,7 @@
     alias journal='nvim ~/Documents/personal/quickjournal.md'
     alias cd='z '
     alias sizeof='du -sh '
+    alias bluetooth='bluetui'
 
   #-----------------------------------------#
   #  GIT
@@ -68,10 +68,10 @@
     #-------------------------------------------------
     # TMUX
     #-------------------------------------------------
-
-    if test -z "$TMUX"
-    	tmux attach || tmux new-session
-    end
+    #
+    # if test -z "$TMUX"
+    # 	tmux attach || tmux new-session
+    # end
 
 
     fastfetch --config ~/.config/fastfetch/config.jsonc
@@ -93,4 +93,5 @@
     end
 
     export GPG_TTY=$(tty)
+
 source /home/ankit/.config/fish/kraft_completion.fish;
