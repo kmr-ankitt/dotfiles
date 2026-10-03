@@ -1,0 +1,15 @@
+-- Main Hyprland Lua configuration
+
+require("config.programs")
+require("config.monitor")
+require("config.environment")
+require("config.appearance")
+require("config.animations")
+require("config.input")
+require("config.keybinds")
+require("config.media")
+require("config.layouts")
+require("config.misc")
+require("config.rules")
+require("config.autostart")
+require(".config.permissions")
