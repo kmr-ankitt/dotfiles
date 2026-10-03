@@ -40,6 +40,7 @@
     alias cd='z '
     alias sizeof='du -sh '
     alias bluetooth='bluetui'
+    alias zed='zeditor'
 
   #-----------------------------------------#
   #  GIT
@@ -82,10 +83,6 @@
     #-------------------------------------------------
     # Alternative (blocks terminal for 0-3ms)
     cat ~/.cache/wal/sequences
-
-    # PATHS
-    export PATH="/home/ankit/Dev/oss/depot_tools:$PATH"
-
 
     # To add support for TTYs this line can be optionally added.
     if test -f ~/.cache/wal/colors.fish
