@@ -28,7 +28,7 @@
 @import "../../.cache/wal/colors-waybar.css";
 * {
   all: unset;
-  font-size: 01rem;
+  font-size: 1.15rem;
   font-weight: 500;
   font-family:
     'DepartureMono Font Mono',

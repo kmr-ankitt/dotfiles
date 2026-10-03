@@ -15,7 +15,7 @@
     },
     "scroll-step": 5,
     "reverse-scrolling" : true,
-    "on-click-right": "pavucontrol",
+    "on-click-right": "hyprpwcenter",
     "on-click": "amixer set Master toggle"
   },
   "pulseaudio#mic": {
