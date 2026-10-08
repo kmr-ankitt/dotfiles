@@ -10,6 +10,7 @@ hl.bind(mainMod .. " + R", hl.dsp.exec_cmd(reload))
 hl.bind(mainMod .. " + W", hl.dsp.exec_cmd(change_wallpaper))
 hl.bind(mainMod .. " + M", hl.dsp.exec_cmd(launcher))
 hl.bind(mainMod .. " + L", hl.dsp.exec_cmd(lock))
+hl.bind(mainMod .. " + F", hl.dsp.window.fullscreen("maximized", "toggle"))
 
 local closeWindowBind = hl.bind(mainMod .. " + Q", hl.dsp.window.close())
 
