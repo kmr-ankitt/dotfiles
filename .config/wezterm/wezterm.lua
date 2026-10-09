@@ -13,7 +13,7 @@ config.initial_rows = 30
 -- or, changing the font size and color scheme.
 config.font_size = 15
 config.color_scheme = "Gruvbox Dark (Gogh)"
-config.enable_wayland = false
+config.enable_wayland = true
 config.window_background_opacity = 0.7
 config.macos_window_background_blur = 20
 
