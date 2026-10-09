@@ -1,14 +1,18 @@
 -- Look and feel
+local wal = dofile(os.getenv("HOME") .. "/.cache/wal/colors-hyprland.lua")
 
 hl.config({
 	general = {
 		gaps_in = 5,
-		gaps_out = 20,
+		gaps_out = 12,
 		border_size = 2,
 
 		col = {
 			active_border = {
-				colors = { "rgba(33ccffee)", "rgba(00ff99ee)" },
+				colors = {
+					"rgb(" .. wal.color4:gsub("#", "") .. ")",
+					"rgb(" .. wal.color6:gsub("#", "") .. ")",
+				},
 				angle = 45,
 			},
 			inactive_border = "rgba(595959aa)",
