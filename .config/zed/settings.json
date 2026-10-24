@@ -12,7 +12,7 @@
   },
   "icon_theme": "Material Icon Theme",
   "agent": {
-    "play_sound_when_agent_done": true,
+    "play_sound_when_agent_done": "always",
     "inline_assistant_model": {
       "provider": "copilot_chat",
       "model": "gpt-5-mini"
