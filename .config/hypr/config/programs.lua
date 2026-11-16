@@ -2,7 +2,7 @@
 terminal = "wezterm"
 browser = "brave"
 firefox = "firefox"
-fileManager = "thunar"
+fileManager = "nautilus"
 
 -- reload = "hyprctl reload && killall -SIGUSR2 waybar"
 reload = "hyprctl reload"

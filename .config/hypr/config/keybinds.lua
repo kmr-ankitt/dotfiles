@@ -10,7 +10,11 @@ hl.bind(mainMod .. " + R", hl.dsp.exec_cmd(reload))
 hl.bind(mainMod .. " + W", hl.dsp.exec_cmd(change_wallpaper))
 hl.bind(mainMod .. " + M", hl.dsp.exec_cmd(menu))
 hl.bind(mainMod .. " + L", hl.dsp.exec_cmd(lock))
+<<<<<<< HEAD
 hl.bind(mainMod .. " + F", hl.dsp.window.fullscreen({ action = "toggle" }))
+=======
+hl.bind(mainMod .. " + F", hl.dsp.window.fullscreen("maximized", "toggle"))
+>>>>>>> da3d8dd (chore: backup)
 hl.bind(mainMod .. " + V", hl.dsp.exec_cmd(clipboard))
 hl.bind(mainMod .. " + PERIOD", hl.dsp.exec_cmd(emojipicker))
 hl.bind(mainMod .. " + XF86PowerOff", hl.dsp.exec_cmd(powermenu))
@@ -29,7 +33,7 @@ hl.bind(mainMod .. " + PRINT", hl.dsp.exec_cmd(full_screenshot))
 hl.bind(mainMod .. " + E", hl.dsp.exec_cmd(fileManager))
 hl.bind(mainMod .. " + H", hl.dsp.window.float({ action = "toggle" }))
 hl.bind(mainMod .. " + R", hl.dsp.exec_cmd(menu))
-hl.bind(mainMod .. " + P", hl.dsp.window.pseudo())
+-- hl.bind(mainMod .. " + space", hl.dsp.window.pseudo())
 hl.bind(mainMod .. " + J", hl.dsp.layout("togglesplit"))
 
 hl.bind(mainMod .. " + left", hl.dsp.focus({ direction = "left" }))
@@ -134,3 +138,67 @@ end)
 hl.bind("SUPER + minus", function()
 	zoom(-0.5)
 end)
+
+local pin_nofocus_tag = "pin_nofocus"
+
+local function restore_pin_nofocus_windows()
+	for _, window in ipairs(hl.get_windows({ tag = pin_nofocus_tag })) do
+		hl.dispatch(hl.dsp.window.set_prop({
+			prop = "no_focus",
+			value = "unset",
+			window = window,
+		}))
+
+		if window.pinned then
+			hl.dispatch(hl.dsp.window.pin({ window = window }))
+		end
+
+		hl.dispatch(hl.dsp.window.tag({
+			tag = "-" .. pin_nofocus_tag,
+			window = window,
+		}))
+	end
+end
+
+local function toggle_pin_nofocus()
+	local window = hl.get_active_window()
+
+	if not window then
+		return
+	end
+
+	if window.floating and window.fullscreen == 0 and not window.pinned then
+		hl.dispatch(hl.dsp.window.tag({
+			tag = "+" .. pin_nofocus_tag,
+			window = window,
+		}))
+
+		hl.dispatch(hl.dsp.window.pin({ window = window }))
+
+		hl.dispatch(hl.dsp.window.set_prop({
+			prop = "no_focus",
+			value = "1",
+			window = window,
+		}))
+
+		return
+	end
+
+	restore_pin_nofocus_windows()
+end
+
+hl.bind(mainMod .. " + P", toggle_pin_nofocus)
+
+hl.bind(mainMod .. " + SPACE", function()
+	local window = hl.get_active_window()
+	if not window then
+		return
+	end
+
+	hl.dispatch(hl.dsp.window.cycle_next({
+		floating = not window.floating,
+		tiled = window.floating,
+	}))
+end, {
+	description = "Switch focus between tiled and floating windows",
+})

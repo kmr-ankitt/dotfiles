@@ -11,7 +11,7 @@ config.initial_cols = 120
 config.initial_rows = 30
 
 -- or, changing the font size and color scheme.
-config.font_size = 15
+config.font_size = 14
 config.color_scheme = "Gruvbox Dark (Gogh)"
 config.enable_wayland = true
 config.window_background_opacity = 0.7
